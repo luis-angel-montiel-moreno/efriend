@@ -15,8 +15,7 @@ This framework is independent of the domain of the application (in this case the
 6. Any copy-rights of text in micro-dialogues tasks corresponds to their correspondent authors.
 7. MAIC means 'Master Agent Artificial Intelligent Composer' however you could pronounce it as 'Mike' or 'Mickey' (it is not a mouse).
 8. Frequently documentation will be increased and updated .
-
-**Strong Remark.** Although the presented framework is domain independent. Every purpose presented in this work is subject to the maximal meta objective: Support Human Development to be Integral, Equanimous and Compassionate. The same for any project inherited or inherent from this one in direct or indirect way.
+9. **Strong Remark.** Although the presented framework is domain independent. Every purpose presented in this work is subject to the maximal meta objective: Support Human Development to be Integral, Equanimous and Compassionate. The same for any project inherited or inherent from this one in direct or indirect way.
 
 ---
 RUNNING Efriend-MAIC-console
