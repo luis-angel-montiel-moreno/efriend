@@ -1,0 +1,556 @@
+x3
+{
+  1 2
+  2 0
+  9 0
+  0 0
+2 Tienes alguna pregunta cualquiera o algo que comentar (breve x fa)?
+}
+.x3loop
+{
+1 16 1004 +no
+  8 2
+  1 1 +41
+  19 0
+2 16 1091 +si
+  8  3
+  1 3
+  2 0
+3 9 0
+  0 0
+1 De acuerdo.
+3 Te escucho.
+}
+.
+{
+1 7 2078 +tengo problema
+  8 e
+  1 6
+  2 0
+  7 2079 +academico
+  8 p
+  11 1 +experimento
+  1 7
+  19 0
+1 9 0
+  0 0
+6 Personal o academico? dime.
+7 En otro momento platicamos de asuntos academicos x fa.
+}
+.p
+{
+  7 2077 +personal
+   8 1
+   1 6
+   2  0
+   1  7
+   19 0
+1  1  8
+   19 0
+   0 0
+6 Personal. Bueno, pues cuentame.
+7 Tengo que pensarlo.
+8 La verdad no te entendi. Disculpa. Pero lo registre y despues se atendera.
+}
+.e
+{
+  7 2086 +eres *
+   8  2
+   1  4
+   1  5
+   2  0
+   6  c
+2  7  3035 +que eres?
+   8  c
+   1  4
+   2  0
+1  9  0
+   0  0
+4 Soy alguien que te escucha y desea lo mejor para ti.
+5   Eres @0?
+}
+.c
+{
+   7 2085 +Crees en *
+   8 1
+   1 3
+   2 0
+1  9 0
+   0 0
+3 Solo creo que creo muy poco.
+   Tu crees en @0?
+4 pase 8.
+}
+.
+{
+   7 3002 +Crees en
+   8 1
+   1 3
+   2 0
+1  9 0
+   0 0
+3 Solo creo que creo muy poco.
+   Tu si crees?
+}
+.
+{
+  7 2075 +estan mal
+  8 1
+  1 5
+  2  0
+1 9  0
+  0  0
+5 Mal? En que sentido? Me explicas x fa.
+}
+.
+{
+  7 2076 +No entiendes
+  8  1
+  1  6
+  2  0
+  6 NoPuedo
+1 9 0
+  0 0
+6 Soy lento en entender. Intenta ser tolerante conmigo x fa.
+}
+.
+{
+  7 3000 +No quiero
+  8 1
+  1 3
+  2  0
+1 9 0
+  0 0
+3 Tu sabes mejor lo que quieres.
+}
+.
+{
+  7 2071 +Me gusta el profe
+  8 1
+  1  3
+  3  2
+  1  5
+  2  0
+  6  1
+2  1  8 
+   2  0
+   1  9
+   2  0
+   1  6
+   2  0
+   1 1
+   2  0
+   1  2
+   2  0
+1  9  0
+   0  0
+3 Por su manera de dar clases o algo asi?
+5 Que bien, aprovecha sus enseñansas.
+8 Entonces en que sentido?
+   Te puedes explicar mejor x fa.
+9 Desde cuando? Cuentame. 
+6 Y el profe lo sabe? Te escucho.  
+1 Lo has platicado con alguien (amigos, familiares, etc)? Dime.
+2 Luego platicamos mas al respecto.
+}
+.
+{
+  7 2094 +me gusto
+  8 1
+  1 1
+  2 0
+1 9 0
+  0 0
+1 Bien.
+}
+.
+{
+  7 2062 +Creo que
+  8 1
+  1 2
+  2 0
+1 9 0
+  0 0
+2 Porque lo crees o te late asi? dime.
+}
+.
+{
+  7 3001 +Crees que soy
+  8 1
+  1 2
+  2 0
+1 9 0
+  0 0
+2 Tu lo crees asi?
+}
+.
+{
+  7 2031 +me duele el
+  8 1
+  1 1
+  2 0
+1 9 0
+  0 0
+1 Terminando nuestra charla, mejor ve a servicios medicos x favor.
+}
+.
+{
+  7 2060 +He estado
+  8 1
+  1 4
+  2 0
+  1 5
+  2 0
+1 9 0
+  0 0
+4 Desde cuando?
+5 Continua por favor.
+}
+.NoPuedo
+{
+  7 2050 +No puedo
+  8 1
+  1 4
+  2  0
+1 9  0
+  0  0
+4 Porque no?
+}
+.
+{
+  7 2042 +Todos dicen
+  8 1
+  1 5
+  3  2
+  1  6
+  2 0
+  6 1
+2 1 8
+  2  0
+1 9 0
+  0 0
+5 Sin escepcion?
+6 Piensa que posiblemente tu lo percibes de esa manera.
+  Nuestra mente construye un realidad virtual.
+8 Me parece que uno debe ser muy cuidadoso al generalizar.
+}
+.
+{
+  7 2040 +Las * son
+  8  1
+  1  4
+  2  0
+  1  3
+  2  0
+1 9  0
+  0  0
+4 En que sentido?
+3 Podrias x favor ser mas especifico?
+}
+.
+{
+  7 2030 +me molesta
+  8 1
+  1 7
+  5  2
+2 1 8
+   2 0
+   1 9
+   19 0
+1  9 0
+   0 0
+7 Te invito a ser mas paciente contigo y con los demas.
+8 Tu eres quien esta ofendido, molesto, etc.
+   Preguntate: Quien esta creando tu malestar?
+9 En cierto sentido tu mismo, con tus propios pensamientos.
+   Nosotros mismos somos responsables en gran medida de nuestros &
+   estados emocionales.
+   Desde otro punto de vista recuerda el dicho:
+   El que se enoja pierde.
+   Meditalo x favor.
+}
+.
+{
+  7 1080 +* o *?
+  8  1
+  1  2
+  1  1
+  2  0
+  1  3
+  2  0
+1 9  0
+  0  0
+2 Que te parece si te contesto @0 ?
+3 OK.
+1 Entiendo que debo eligir.
+}
+.
+{
+  16 1021 +Como que
+  8 h
+  1 2
+  2 0
+  6 h
+  0 0
+2 Tienes algo importante que comentar?
+}
+.h
+{ 
+  7 1015 +hola 
+  8 1
+  12 3
+  13 2
+2  1 2
+    6 5
+3  1 3
+    6 5 
+4  1 4
+    6 5
+5  2 0 
+1   9 0
+    0 0
+2 que onda?
+3 ya nos saludamos.
+4 Q tal?
+}
+.
+{
+  7 1017 +Estoy * con mi *
+  8 1
+  1 1
+  2 0
+1 9 0
+  0 0
+1 porque estas @0 con tu @1?
+}
+.
+{
+  7 1016 +Estoy *
+   8 1
+   7 1008 +ignorad
+   8 2
+   1 7
+   2 0
+   6 1
+2  1  2
+   2 0
+   7 1008 +ignorad
+   8 1
+   1 7
+1  9 0
+   0 0
+2 Porque? Cuentame.
+7 Te invito a ser mas paciente x fa.
+}
+.
+{
+   7 1018 +Me gustaria *
+   8 1
+   1  1
+   2 0
+1  9 0
+   0 0
+1 porque te gustaria @0?
+}
+.
+{
+   7 1020 +tengo una pregunta
+   8 1
+   1 1
+   2 0
+1  9 0
+   0 0
+1  Te escucho.
+}
+.
+{
+   7 3030 + mindfulness
+   8 1
+   1  9
+   2 0
+1  9 0
+   0 0
+9 El mindfulness, también llamado atención plena o conciencia plena, &
+  consiste en estar atento de manera intencional a lo que hacemos,&
+  sin juzgar, apegarse, o rechazar en alguna forma la experiencia.
+  Hay muchas fuentes en google sobre este termino.
+  Ya entraremos en mas detalle pronto :)
+}
+.
+{
+   7 3031 + CBT
+   8 1
+   1  9
+   2 0
+1  9 0
+   0 0
+9  La terapia del comportamiento cognoscitiva (CBT) es esencialmente &
+   una forma de la psicoterapia o del asesoramiento que puede beneficiar &
+   a gente con desordenes de la salud mental tales como depresión, &
+   desorden de ansiedad, desorden obsesivo y trastorno de pánico.
+   Ya entraremos en mas detalle pronto :)
+}
+.
+{
+ 7 3032 + flujo
+   8 1
+   1  9
+   2 0
+1  9 0
+   0 0
+9 El flujo también conocido como "la zona" es el estado mental operativo en & 
+  el cual una persona está completamente inmersa en la actividad que ejecuta. 
+ Se caracteriza por un sentimiento de enfocar la energía, de total implicación &
+ con la tarea, y de éxito en la realización de la actividad.
+  Ya entraremos en mas detalle pronto :)
+}
+.
+{
+ 7 3033 + elemento
+   8 1
+   1  9
+   2 0
+1  9 0
+   0 0
+9 Descubrir el Elemento es recuperar capacidades sorprendentes en nuestro &
+  interior, y desarrollarlo dará un giro radical no sólo a tu entorno laboral &
+  o educativo, sino también a tus relaciones y, en definitiva, a tu vida.
+  Ya entraremos en mas detalle pronto :)
+}
+.
+{
+   7 1030 +puntos ppa
+   8 1
+   1  9
+   2 0
+1  9 0
+   0 0
+9 Objetivo Puntos PPA.
+   Apoyar al estudiante en la transición social y académica de la preparatoria &
+   a la vida universitaria para que se integre a la UDLAP y tenga un buen & 
+   desempeño académico. Es una contribución a su desarrollo y aprendizaje.
+   El PPA se integra por dos cursos FY001 y FY002.
+   La calificación de estos cursos será: acreditado (AC) o no acreditado (NA).
+   Los cursos no tienen costo, son de 0 unidades.
+   Los cursos del PPA son requisitos del plan de estudios por ello el &
+   estudiante debe asegurarse de acreditarlos el primer año de estancia &
+   en la UDLAP. El primer semestre deberá cursar FY001.
+Checate: PENDIENTE.
+}
+.
+{
+   7 1031 +intercambio
+   8 2
+   1 1
+   2 0
+2  9 0
+   0 0
+1 Hay intercambios interesantes con Canada, USA, Europa, etc.
+  Vale mucho la pena. La experiencia es muy padre.
+  Dicen por ahi que viajar destapa.
+}
+.
+{
+   7 1032 +carrera
+   8  1
+   1  7
+   2  0
+   1  8
+   19 0
+1  9 0
+   0 0
+7 Dime mas detalles al respecto x fa.
+8 Grcs. Regresaremos a este tema despues.
+}
+.
+{
+   7 2080 +tengo *
+   8  1
+   1  1
+   2  0
+1  9 0
+   0 0
+1 Porque tienes @0?
+}
+.
+{
+   7 1019 +que sabes de
+   8 1
+   1  1
+   19 0
+1  9 0
+   0 0
+1 lo investigo y te contesto pronto :)
+}
+.
+{
+   7 1070 +papa
+   8 1
+   1 4
+   19 0
+1  9 0
+   0 0
+4 Pronto platicaremos de asuntos de famila.
+}
+.
+{
+ 7 2091 +un favor
+ 8 1
+ 1 1
+ 2 0
+1 9 0
+ 0 0
+1 Dime.
+}
+.
+{
+  7 2099 +grcs
+  8 1
+  1 1 
+  19 0
+1 9 0
+  0 0
+1  De nada.
+}
+.
+{
+  7 2092 +no creo
+  8 1
+  1 1
+  2 0
+1 7 4000
+  9 0
+  0 0
+1 Porque no? dime.
+}
+.
+{ 
+   17 x3loop 
+   12 6
+   13 2
+2  1 1
+   6 1
+3  1 2
+   6 1 
+4  1 3
+   6 1
+5  1 7
+   6 1
+6  1 7
+   6 1
+7  1 9
+   6 1  
+1  9 0
+   0 0
+2 Disculpa, creo que no te segui. Pero lo registre y regresaremos al tema mas adelante x fa.
+3 Olvida el pasado. Se ha ido. No te preocupes por el futuro.
+  No lo conoces.
+  Aprende a vivir el presente y descubre cuantos momentos de paz contiene.
+  Enrique Simo.
+1 Casi todo funcionara otra vez si lo desconectas por unos minutos,&
+  incluyendote a ti mismo.
+7  Grcs por compartir. Regresaremos al tema mas adelante.
+9  Un sabio dijo.
+   Aquel que intente conquistar el mundo y modelarlo a su capricho, fracasara.
+}
+END

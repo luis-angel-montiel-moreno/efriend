@@ -1,0 +1,125 @@
+z15
+{
+   12 4
+   13 2
+2  1 1
+   6 z115
+3  1 1
+   6 z111
+4  1 1
+   6 z113
+5  1 1
+   6 z114
+   9 0
+   0 0
+1  pregunta.
+}
+.z115
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  3 4
+  1 13
+  3 5
+  1 16
+  6 19
+5 1 15
+  2 0
+  6 19
+4 1 14
+  2 0
+19 19 0
+   0 0  
+10 Que disfrutas hacer en tu tiempo libre?
+11 Que haces cuando no tienes internet?
+12 Cuando no tienes nada que hacer usas internet?
+13 Te gustan las redes sociales?
+15 Entonces para que lo usas?
+14 Que haces?
+16 Bien, si encuentras un buen meme me lo cuentas.
+}
+.z111
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  3 4
+  1 13
+  3 5
+  1 16
+  6 19
+5 1 15
+  2 0
+  6 19
+4 1 14
+  2 0
+19 19 0
+   0 0  
+10 Que haces en las vacaciones o en tu tiempo libre?
+11 Cuales son tus actividades cuando no tienes internet?
+12 Usas el internet si no tienes nada que hacer?
+13 Que tal usas las redes sociales?
+15 Entonces para que lo usas?
+14 Que haces?
+16 Bien, comparteme cosas graciosas.
+}
+.z113
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  3 4
+  1 13
+  3 5
+  1 16
+  6 19
+5 1 15
+  2 0
+  6 19
+4 1 14
+  2 0
+19 19 0
+   0 0  
+10 Que haces en tu ratos libres?
+11 Si no tienes internet que haces?
+12 Es probable que uses internet si no tienes nada que hacer?
+13 Utilizas las redes sociales?
+15 Para que lo usas?
+14 Que haces?
+16 Vale, me cuentas tus hallazagos en la red.
+}
+.z114
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  3 4
+  1 13
+  3 5
+  1 16
+  6 19
+5 1 15
+  2 0
+  6 19
+4 1 14
+  2 0
+19 19 0
+   0 0  
+10 En las vacaciones o en tu tiempo libre, que haces?
+11 Que haces cuando no tienes acceso a internet?
+12 Usas el internet cuando no tienes nada que hacer?
+13 Tienes facebook, instagram, twiter, snapchat?
+15 Para que usas el internet?
+14 Que haces?
+16 Bien, comparteme cosas lindas.
+}
+END

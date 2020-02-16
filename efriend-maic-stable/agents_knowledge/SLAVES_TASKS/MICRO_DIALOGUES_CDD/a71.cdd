@@ -1,0 +1,282 @@
+a71
+{
+    1 5
+    2 0
+    7 2093 ++busca (no se)
+    8 2 ++no encuentra pasa sig bloque
+    1 1
+    2 0
+    7 1016 ++busca (estoy)
+    8 6
+    1 2
+    2 0
+    7 2093
+    8 7
+    6 nosaber ++salta bloq no saber
+ 6  7 2093 ++buscar (no se)
+    8 7
+    1 3  
+    6 nosaber ++salta a bloque no saber
+ 7  1 4
+   19 0 ++fin global
+ 2  9 0
+    0 0 
+5 Que onda! como vas con la uni?
+1 Por que dices que no sabes?
+2 Entiendo. Porque estas o te sientes asi?
+3 Ya veo. 
+4 Por lo pronto, nota la impermanencia de las emociones, pensamientos, etc.
+  Ya regresaremos en otra sesion al tema.
+}
+.e
+{
+    7 1000 ++busca (mal)
+    8 2 ++no encuentra y va a sig bloque
+    1 1
+    11 0
+    2 0
+    7 2087 ++busca calif
+    8 h ++salta a h
+    6 calif ++salta a bloque calif
+ 2  9 0
+    0 0
+1 Y eso por que? Cuentame detalles de forma breve.
+}
+.a
+{
+    7 1001 ++busca relax
+    8 3 ++no encuentra y va a siguiente bloque
+    7 1004 ++busca no
+    8 4 ++si no encuentra se va a 4
+    1 2 ++pregunta por que no relax
+    11 1
+    2 0 ++alumno responde
+    4 1
+   15 1 ++guarda 
+    7 2087 ++busca calif
+    8 h ++salta a h
+    6 calif ++salta a bloque calif
+ 4  1 3 ++responde que bueno que este relax
+    11 4
+    19 0 ++salida global
+ 3  9 0
+    0 0
+2 No muy relax, por que?. Cuentame detalles de forma breve.
+3 Que bueno que vaya relax! Disfruta, otro dia hablamos.
+1 d_problemaAlumno(@1).
+}
+.b
+{
+    7 1002 ++busca en dicc super
+    8 4 ++no encuentra, pasa a sig bloque
+    7 1004 ++busca no
+    8 5 ++si no encuentra pasa a 5
+    1 2 ++responde que no bien y pregunta por que
+    11 2
+    2 0 ++alumno responde
+    4 1
+    15 1 ++guardaa
+    7 2087 ++busca calif
+    8 h ++salta a h
+    6 calif ++salta a bloque calif
+ 5  1 3 ++responde que bien
+    11 5
+    19 0 ++salida global
+ 4  9 0
+    0 0
+1 d_problemAlumno(@1).
+2 No muy bien.Por que? Cuentame detalles de forma breve.
+3 Me alegro! Que siga bien :) Hablamos despues.
+}
+.c
+{
+    7 1003 ++busca mas o menos
+    8 5 ++no encuentra, pasa a sig bloque
+    1 4 ++responde que no es malo y pregunta si cree que empeore
+    11 3
+    3 4 ++si dice no, va a 4
+    1 6 ++ mantener claridad
+    2 0 ++alumno responde
+    4 1
+    15 1 ++guardaa
+    7 2087 ++busca calif
+    8 h ++salta a h
+    6 calif ++salta a bloque calif
+ 4  1 5 ++ muy bien
+    19 0
+ 5  9 0
+    0 0
+1 d_problemAlumno(@1).
+4 Regular, no es malo. Crees que las cosas pudieran empeorar?   
+5 Muy bien, esa es la actitud:)   
+6 Dice un maestro, mantener claridad y ecuanimidad.
+  Pero dime, por que te sientes asi?
+  califs, profes, etc.
+}
+.d
+{
+    1 7 ++pregunta por que dice eso
+    11 2
+    2 0 ++alumno responde
+    4 1
+   15 1 ++guarda
+    1 8 ++se despide
+    19 0 ++salida global
+    0  0
+1 d_RespPosiblementeGrosera(@1).
+7 Por que dices eso?
+8 Te comparto algo que dijo Rumi.
+  Cuando empiezas a caminar, aparece el camino.
+}
+.calif
+{
+    1  2 ++responde que no se aflija x calif y pregunta si puede hacerlo
+    3  2 ++si responde no, se va al 2
+    1  3 ++si responde si, resonde adeltante pues
+2   1  4 ++responde que si puede y pregunta si le parece intentar una estrategia
+    3  1 ++si responde no, se va al 1
+    1  5 ++responde excelente
+    19 0 ++salida global
+1  1  6 ++reponde que entonces busque una estrategia
+    19 0 ++salida global 
+     0 0   
+2 Las calificaciones son regularmente una de las mayores aflicciones. &
+   Bueno, tal parece ser que el mundo se mueva con numeros y aunque no nos parezca, por ahora &
+   no podemos hacer mucho al respecto. He notado que entre mas nos preocupe una situacion, &
+   menos mejora y es peor la preocupacion entonces te recomiendo que simplemente hagas tu mayor &
+   esfuerzo, no pienses en la nota sino en dar tu maximo. Crees poder hacerlo?
+3 Excelente! Adelante, pues, a pensar siempre en hacer todo lo mejor que puedas =).
+4 Yo pienso que si puedes, no dejes que tus pensamientos de controlen, controlalos tu y cada vez &
+   que te llegue a la mente la palabra calificaciones, simplemente observala.
+   Incluso, Hazte amigo de ella. O simplemente sal a caminar o haz alguna cosa que te guste.
+   Te parece? 
+5 Excelente! Te deseo mucho exito =).
+6 Bueno, esta bien si no quieres intentarlo. Solo fue una recomendacion pero entonces tu podrias &
+   encontrar una estrategia para que te sientas mejor.
+}
+.nosaber
+{
+    1 11
+    3 5
+    1 2
+    2 0
+    4 1
+   15 1 
+    1 3
+    2 0
+    1 4
+    3 6
+    1 7
+    3 7
+    1 9
+    2 0 
+    6 2 ++salta a sig bloqu
+ 5  1 5
+    2 0
+    1 6
+   19 0 
+ 6  1 6
+   19 0
+ 7  1 8
+   19 0
+ 2  9 0
+    0 0
+11 Sientes algun malestar fisico?
+2 En que parte del cuerpo?
+1 d_DolorFisico(@1).
+3 Desde hace cuanto tienes la molestia?
+4 Puedes asociarlo con alguna situacion en especifico que hayas pasado? &
+   Una que a raiz de eso te hayas empezado a sentir mal.
+5 Notas algun cambio en ti, cualquiera que sea? 
+6 Observa como las sensaciones van y vienen.
+7 Quieres contarme al respecto?
+8 Esta bien, intenta relajar tu cuerpo. Descansa un rato.
+  Si hay molestias mejor acude al medico.
+9 Te leo, cuentame.
+}
+.h
+{
+    7 2065 ++busca en dicc profe
+    8 6 ++si no encuentra se va al otro bloque
+    1 4 ++pregunta si el problema le causa estres
+    3 7 ++si responde que no se va a 7
+    1 3 
+ 7  1 1 ++ pregunta si se siente deprimido
+    2 0 ++responde
+    4 1
+   15 1 ++guarda
+    1 2 ++se despide
+    19 0
+ 6  9 0
+    0 0
+4 Esta situacion te provoca un estres que no puedes controlar?
+1 Dirias que te sientes deprimido, triste, preocupado o ansioso?
+2 Entiendo. Tomalo con calma. Si te sigue afectando podrias enfermar &
+  Deseate lo mejor para ti.
+  Repite. Que sea yo feliz. Que este sano. 
+3 Bueno, creo que el estres es una sensacion comun entre los estudiantes. 
+  Observalo un momento y nota que le ocurre. Dsminuye, aumenta.
+  Como si fueras un cientifico, y tu cuerpo fuera tu laboratorio.
+}
+.i
+{
+    7 2089 ++busca en diccionario familia
+    8 7 ++si no encuentra se va a otro bloque
+    1 4 ++res
+   19 0 ++fin global
+7   9 0
+    0 0
+4 Ya veo. La familia es un tema delicado. Ten paciencia para que no te &
+   afecte tanto. Necesito tiempo para pensar en algo que te ayude, mientras tanto &
+   intenta distraerte haciendo algo que te guste. Hablamos luego.
+}
+.j
+{
+    7 2090 ++busca diccionario novia/o
+    8 9 ++si no encuentra sig bloque
+    1 5 ++responde
+   19 0 ++fin global
+ 9  9 0
+    0 0
+5 No te aflijas tanto por una relacion sentimental. Aun eres muy joven &
+   aferrarse a las personas no es una buena idea porque siempre vas a sufrir &
+   Si fuiste tu quien cometio el error, tomalo como un aprendizaje y una preparacion &
+   para ser mejor persona. Pero si crees que se puede enmendar la situacion, comienza &
+   por pedir disculpas no solo con palabras, tambien con acciones &
+   Si no fuiste el responsable de los sucedido, &
+   agradece los buenos momentosy espera a que alguien mas llegue a tu vida, Mafalda &
+   diria que no llores por el Sol o las lagrimas te impediran ver las estrellas. &
+   Tomalo con calma, estaras bien. Hablamos otro dia.
+}
+.l
+{
+   7 2093 ++busca no se
+   8 9 ++sig bloq
+   1 1
+   2 0
+   1 2
+   2 0
+   1 3
+  19 0
+ 9 9 0
+   0 0
+1 Sientes alguna molestia fisica?
+2 Puedes identificar que fue lo que sucedio desde que comenzaste a senirte mal?
+3 Tension es quien crees que beberiar ser.
+  Relajacion es quien eres de verdad.
+  ANONIMO.
+  Te invito a hacer algo que te guste.
+}
+.k
+{
+   1 6 ++pegunta porque dice eso
+   2 0 ++responde
+   1 7 ++se despide
+  19 0 ++fin global
+   0 0
+6 Por que dices eso?
+7 Cuantas mas maneras tenemos para conectar,&
+  mas desesperados parecemos estar por desconectar.
+  Pico Iyer.
+}
+END

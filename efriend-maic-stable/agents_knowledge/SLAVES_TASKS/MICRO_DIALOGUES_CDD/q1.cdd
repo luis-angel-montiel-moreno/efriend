@@ -1,0 +1,248 @@
+q1
+{  
+   18 14
+    8  5 
+    1  11
+    2  0
+    6 4
+ 5  1  13
+    2  0
+ 4  7 1006
+    8   2
+    1   12
+    2   0
+2   7 1000 ++busca (mal)
+    8  7 ++ No encuentra
+    7 1004 ++ busca(no)
+    8  mal ++ no encuentra (salta  a mal)
+    1  6
+    10 3
+    6  9
+6   1  8
+    10 1
+    6  9
+7   7 1001  ++busca (relax)
+    8  8   ++ No encuentra (salta a 8)
+    7 1004  ++ busca(no)
+    8  16    ++ No encuentra (salta a 8)
+    6 mal
+8   7 1002 ++ bien super (salta)
+    8  12 ++ no encuentra (salta  a 12)
+    7 1004 ++ busca(no)
+    8 16 ++ no encuentra (salta  a 16)
+    6 mal
+16  1  10
+    10 5
+    6  9
+12  7 1003 ++ dos tres
+    8  14 ++ no encuentra (salta 14)
+    6 regular
+14  7 4001
+    8 15
+    6 19
+15  1  6
+    10 0
+    2  0
+    1  4 
+    6 19
+9   7 1005 ++ y Tu?
+    8 19
+    1  7
+19  19 0 
+    0  0
+11 Cuéntame @0, cómo estás? 
+   Pero x fa no contestes en automático.
+   Me gustaría saber tu verdadero estado de ánimo.
+   (bien, regular, mal, etc).
+13 Cuéntame, ¿cómo estás? 
+   Pero x fa no contestes en automático.
+   Me gustaría saber tu verdadero estado de animo.
+   (bien, regular, mal, etc).
+12 Corte.
+   No se vale la inseguridad.
+   Repitamos la escena.
+   &
+   Hola. ¿Cómo estás (bien, mal, etc)?
+7  Yo bien, grcs. 
+8  Regálate un tiempo para tí.
+9  Que bueno q estés relax.
+10 Me da gusto, buena vibra :) 
+6  ¿Y eso porque?
+4  Ya veo.
+2   O sea que andas bien, me gusta :)
+14  e_nombre( * ).
+}
+.mal
+{ 
+   10 1
+ 7 1005 ++ y Tu?
+   8 3
+   1  7
+ 3 1  6
+   22 0
+   25  9
+   6  5
+9  13 1
+1  6 dep
+   9 0 ++1
+   6 anci
+   9 0 ++2
+   6  ambos
+   9 0  ++3
+   6 ning 
+   9 0  ++4
+   6 5  
+   9 0  ++5
+   6 5 
+   9 0  ++6
+   6 5  
+   9 0  ++7
+   6 5
+   9 0 ++8
+   6 5 
+   9 0 ++9
+5  1 1
+   17 3
+   9  0
+   0  0
+1 Opción inválida.
+7 Yo bien, grcs.
+6 Sería muy útil saber lo mejor posible que síntomas tienes.
+  (1) te sientes deprimido/a (2) Ancioso/a (3) Ambos (4) Ninguna.
+  (Escribe un número entre 1 y 4 según los casos anteriores x fa).
+}
+.dep
+{
+   1  1
+   22  0
+   4  0
+   15  2
+   6 preguntas
+   9 0
+   0 0
+1 En escala de 1 a 9, ¿ que tan deprimido/a te sientes?
+  (1 es muy poco, 9 es mucho).
+2 h_deprim(@0).
+}
+.anci
+{
+   1  1
+   22  0
+   4  0
+   15  2
+   6 preguntas
+   9 0
+   0 0
+1  En escala de 1 a 9, ¿ que tan ancioso/a te sientes?
+2 h_ancioso(@0).
+}
+.ambos
+{
+   1  1
+   6 preguntas
+   9 0
+   0 0
+1 Deprimido y ancioso?
+}
+.ning
+{
+   1  1
+   6 preguntas
+   9 0
+   0 0
+1 ninguno?
+}
+.preguntas
+{
+   1  8
+   10 1
+   2  0 
+   23 0
+   1  1
+   2  0
+   1  2
+   3  4
+4  1  3
+   3  5
+5  1  4
+   3  6
+6  1  5
+   3  7
+7  25 respsi
+   6  respno
+2 19  0
+   0  0
+1 Permiteme hacerte unas preguntas por fa.
+  Posiblemente te las pregunte varias veces.
+  Es importante que las reflexiones cuando no andas del todo bien.
+  No te preocupes, no son preguntas personales.
+  Escribe cambio de linea.
+2  Te cuesta trabajo permanecer concentrado en lo que ocurre en el presente?
+3  Tiendes a caminar rapidamente hacia el lugar donde te diriges sin prestar & 
+   atencion a lo que experimentas en el camino?
+4 Tienes la sensacion de que frecuentemente funcionas en una especie de & piloto automatico?
+5 Realizas frecuentemente tus actividdaes a toda prisa sin prestarles & mucha atencion?
+10 Me da gusto. 
+8 Vamos a comentar un poco este &
+ asunto de que no estas muy bien.
+ (Presiona Ok x fa).
+}
+.regular
+{
+    1  8
+    10 2
+    19  0
+    0  0
+8  Despertarte y pensar en algo positivo &
+   puede cambiar el transcurso de todo el día.
+}
+.respno
+{
+   1  1
+   15 2
+   6  cosasbue
+   0  0
+1  Eso es realmente super :)
+2 h_conta_resp_si(0).
+}
+.respsi
+{
+   24 0
+   4  1
+   15 2 
+   1  1
+   2  0
+   9  0
+   0  0
+1  Grcs x compartir.
+(pulsa cambio de linea para continuar x fa).
+2  h_conta_resp_si(@1).
+}
+.cosasbue
+{
+   1  3
+   5  1
+   1  4
+   5  1
+   1  9
+   6  9
+1  1  7
+   2  0
+   1  8
+9  9  0
+   0  0
+3  Te invito a pensar en algo bueno que te haya pasado &
+   en las ultimas 24 hrs. Por simples que hayan sido.
+   Se te ocurre alguna?
+4  Te dare algunos ejemplos: Un platica padre, &
+   algo rico que hayas comido, una peli que hubiera gustado, &
+   una rola que hubieras escuchado y te halla gustado, etc.
+   Ya tienes algun ejemplo?
+7  Cuentame que fue?
+8 que padre :)
+9 Te has dado la oportunidad de disfrutar tu respiracion?
+  Te invito a intentarlo. Realmente es rico respirar profundo &
+  y sentir como entra el aire a tu cuerpo.
+  Intentalo. 
+}
+END

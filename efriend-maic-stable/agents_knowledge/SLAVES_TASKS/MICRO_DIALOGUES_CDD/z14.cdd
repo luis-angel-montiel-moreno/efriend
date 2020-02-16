@@ -1,0 +1,185 @@
+z14
+{
+   12 8
+   13 2
+2  1 1
+   6 z94
+3  1 1
+   6 z104
+4  1 1
+   6 z91
+5  1 1
+   6 z101
+6  1 1
+   6 z93
+7  1 1
+   6 z103
+8  1 1
+   6 z95
+9  1 1
+   6 z105
+   9 0
+   0 0
+1  pregunta.
+}
+.z94
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0
+  11 1
+19 19 0
+   0 0
+10 Disfrutas tu tiempo en casa?
+11 Que actividades realizas en tu casa?
+12 Cuando tienes colpasos de estres tu familia te apoya?
+}
+.z104
+{
+  1 10
+  3 4
+  1 15
+  2 0
+  6 19 
+4 1 11
+  2 0
+  1 12
+  2 0
+  1 13
+  2 0
+  1 14
+  2 0
+  6 19
+19 19 0
+   0 0 
+10 Te gustan las reuniones familiares?
+11 porque?
+12 Te llena de emocion ver a tu familia?
+13 Y eso?
+14 Oh,como es tu relacion con hermanos?
+15 Que padre, y como te llevas con tus papas?
+}
+.z91
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0
+  11 1
+  19 0
+  0 0
+10 Te agrada estar en tu casa?
+11 Que sueles hacer cuando estas en tu casa?
+12 Si te estresas, tu familia te ayuda?
+}
+.z101
+{
+  1 10
+  3 4
+  1 15
+  2 0
+  6 19 
+4 1 11
+  2 0
+  1 12
+  2 0
+  1 13
+  2 0
+  1 14
+  2 0
+19 19 0
+   0 0 
+10 Te gusta ir a las fiestas de tus tios/primos/abuelos?
+11 Por que?
+12 Te emociona ver a tu familia?
+13 Y eso?
+14 Oh,como es tu relacion con tus papas y hermanos?
+15 Que padre, y como te llevas con tus papas y hermanos?
+}
+.z93
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0
+  11 1
+  6 19
+19 19 0
+   0 0
+10 Disfrutas estar en tu casa?
+11 Como pasas el tiempo cuando estas en tu casa?
+12 Cuando estas perdiendo el control por lo estresado que&
+   estas, como reacciona tu familia?
+}
+.z103
+{
+  1 10
+  3 4
+  1 15
+  2 0
+  6 19 
+4 1 11
+  2 0
+  1 12
+  2 0
+  1 13
+  2 0
+  1 14
+  2 0
+  6 19
+19 19 0
+   0 0 
+10 Te gustan las fiestas familiares?
+11 Por que?
+12 Te emocionas cuando ves a tu familia?
+13 Por?
+14 Que tal te llevas con tus papas y hermanos?
+15 Que cool, como es su relacion?
+}
+.z95 
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0
+  11 1
+19 19 0
+   0 0
+10 Disfrutas el tiempo que pasas en tu casa?
+11 Que sueles hacer cuando estas en casa?
+12 Si te estresas tu familia te ayuda?
+}
+.z105
+{
+  1 10
+  3 4
+  1 15
+  2 0
+  6 19 
+4 1 11
+  2 0
+  1 12
+  2 0
+  1 13
+  2 0
+  1 14
+  2 0
+19 19 0
+   0 0
+10 Te agradan las fiestas familiares?
+11 Por que?
+12 Encuentras emocionante ver a tu familia?
+13 Y eso?
+14 Como es tu relacion con tus papas?
+15 Bien, como te llevas con tus hermanitos?
+}
+END

@@ -1,0 +1,153 @@
+z12
+{
+   12 8
+   13 2
+2  1 1
+   6 z62
+3  1 1
+   6 z72
+4  1 1
+   6 z54
+5  1 1
+   6 z64
+6  1 1
+   6 z55
+7  1 1
+   6 z65
+8  1 1
+   6 z53
+9  1 1
+   6 z63
+   9 0
+   0 0
+1  pregunta.
+}
+.z62
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0
+19 19 0
+   0 0
+10 Alguna vez has saltado con un paracaidas?
+11 Te gusta el deporte extremo? 
+12 Desde siempre es asi?
+}
+.z72
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0 
+  1 13
+  2 0
+19 19 0
+   0 0
+10 Sueles intentar cosas nuevas?
+11 Te gusta el rappel, rafting, paracaidismo o &
+   actividades de ese estilo?
+12 Ah entiendo, sabes conducir moto?
+13 Ahhh, te gusta la incertidumbre?
+}
+.z54
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0
+19 19 0
+   0 0
+10 Te gustaria aventarte del paracaidas?
+11 Te gustan las actividades extremas como tirolesa,&
+   rappel, rafting, etc? 
+12 Toda la vida ha sido asi?
+}
+.z64
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0 
+  1 13
+  2 0
+19 19 0
+   0 0
+10 Te es agradable intentar cosas nuevas?
+11 Eres fan de los deportes extremos?
+12 Has manejado una moto?
+13 Cuales son tus sentimientos hacia la incertidumbre?
+}
+.z55
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0
+19 19 0
+   0 0
+10 Te has aventado de una avioneta con paracaidas?
+11 Te gustan las actividades como la tirolesa? 
+12 Siempre ha sido asi?
+}
+.z65
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0 
+  1 13
+  2 0
+19 19 0
+   0 0
+10 Intentas cosas nuevas?
+11 Los deportes extremos te emocionan?
+12 Ah ya, las motos las manejas?
+13 Ahhh, te gusta la incertidumbre?
+}
+.z53
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0
+19 19 0
+   0 0
+10 Has usado un paracaidas para saltar de una avioneta?
+11 Disfrutas el deporte extremo (rappe, rafting, escalada&
+   tirolesa? 
+12 Asi ha sido siempre?
+}
+.z63
+{
+  1 10
+  2 0
+  1 11
+  2 0
+  1 12
+  2 0 
+  1 13
+  2 0
+19 19 0
+   0 0
+10 Eres fanatico de hacer cosas nuevas?
+11 Te agrada el deporte extremo?
+12 Entiendo, alguna vez te has subido a una moto&
+   y la has manejado?
+13 Ah ya veo, te agrada la incertidumbre?
+}
+END

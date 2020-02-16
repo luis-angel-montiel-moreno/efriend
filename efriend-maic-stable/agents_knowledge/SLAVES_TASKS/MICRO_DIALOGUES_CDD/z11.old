@@ -1,0 +1,615 @@
+z11
+{
+   12 12
+   13 2
+2  1 1
+   6 z131
+3  1 1
+   6 z121
+4  1 1
+   6 z21
+5  1 1
+   6 z31
+6  1 1
+   6 z41
+7  1 1
+   6 z22
+8  1 1
+   6 z32
+9  1 1
+   6 z42
+10 1 1
+   6 z52
+11 1 1
+   6 z132
+12 1 1
+   6 z14
+13 6 za11
+   1 1
+   9 0
+   0 0
+1  pregunta.
+}
+.za11
+{
+   12 14
+   13 2
+2  1 1
+   6 z44
+3  1 1
+   6 z124
+4  1 1
+   6 z15
+5  1 1
+   6 z25
+6  1 1
+   6 z35
+7  1 1 
+   6 z45
+8  1 1 
+   6 z125
+9  1 1
+   6 z13
+10 1 1 
+   6 z23 
+11 1 1
+   6 z33
+12 1 1
+   6 z43 
+13 1 1
+   6 z123
+14 1 1 
+   6 z14
+15 1 1
+   6 z34
+   9 0
+   0 0 Pregunta.
+1
+}
+.z131
+{
+  1 10
+  3 8
+  1 12
+  2 0
+  6 19
+8 1 11
+  3 9
+  12 3
+  13 10
+  2 0
+  6 19
+9 1 12
+  2 0
+  6 19
+10 1 12
+   2 0
+   6 19
+11 1 13
+   2  0
+   6 19
+12 1 14
+   2 0
+   1 15
+19 19 0
+   0 0
+10 El humo de cigarro te marea?
+11 Encuentras molesto el olor a cigarro?
+12 A tu alrededor hueles cigarro seguido?
+13 Alguien cercano a ti fuma?
+14 Cerca de ti alguien fuma?
+15 Entiendo. 
+}
+.z121
+{
+  1 10
+  3 4
+  1 11
+  2 0
+  6 19 
+4 1 12
+19  19 0
+  0 0
+10 Ingieres alguna droga?
+11 Consumes algo distinto al alcohol&
+  o el tabaco? (si no).
+12 Muy bien, sigue cuidando tu salud. 
+}
+.z21
+{
+  1 10
+  3 6
+  1 12
+  3 7
+  1 15
+  6 19
+7 1 13
+  3 8
+  1 14
+  2 0
+  6 19
+8 1 11
+  6 19
+6 1 11
+  6 19
+19 19 0
+   0 0
+10 ALguna persona con la frecuentas fuma?
+11 Me parece excelente que estes en un ambiente libre de tabaco&
+   Tus pulmones te lo agradeceran.
+12 Es molesto para ti?
+13 Has fumado?
+14 Fumas muy seguido?
+15 Intenta estar lejos del humo.
+}
+.z31
+{
+  1 10
+  3 3
+  1 13
+  6 19
+3 1 11
+  5 4
+  1 13
+  6 19
+4 1 12
+19 19 0
+   0 0
+10 Te atrae el cigarro?
+11 Alguna vez has fumado?
+12 No fumes muy seguido, es dañino. 
+13 Muy bien, continua asi.
+}
+.z41
+{
+  1 10
+  2 0
+  1 11
+  3 4
+  1 13
+  6 19
+4 1 12 
+19 19 0
+   0 0
+10 Que opinas acerca de la gente que fuma?
+11 Tu has fumado?
+12 Excelente, continua asi que hace daño.
+13 Mmm, hazlo con moderacion.
+}
+.z22
+{
+  1 10
+  3 8
+  1 12
+  2 0
+  6 19
+8 1 11
+  3 9
+  12 3
+  13 10
+10 1 12
+   6 19
+11 1 13
+   6 19
+12 1 14
+   2 0
+   1 15
+   6 19
+9  1 12
+   2 0
+19 19 0
+   0 0
+10 Te ha llegado a marear el humo de cigarro?
+11 Te es molesto el humo de cigarro?
+12 Hueles el humo porque alguien cercano a ti fume?
+13 Convives con alguien que fume?
+14 Eres cercano a alguien que fume?
+15 Ah ya.
+}
+.z32
+{
+  1 10
+  3 6
+  1 12
+  3 7
+  1 15
+  6 19
+7 1 13
+  3 8
+  1 14
+  2 0
+  6 19
+8 1 11
+  6 19
+6 1 11
+19 19 0
+   0 0
+10 Alguien cercano a ti fuma?
+11 Es muy bueno que estes en un ambiente donde no se fuma, podras&
+gozar de buena salud.
+12 Te molesta mucho?
+13 En algun momento has fumado?
+14 Lo haces seguido?
+15 Trata de no hacerlo mucho, puede dañar tu salud.
+}
+.z42
+{
+  1 10
+  3 3
+  1 13
+  6 19
+3 1 11
+  5 4
+  1 13
+  6 19
+4 1 12
+19 19 0
+   0 0
+10 Te atrae el cigarro?
+11 En algun momento has fumado?
+12 Intenta no fumar mucho, te puede hacer daño. 
+13 Super bien, sigue asi.
+}
+.z52
+{
+  1 10
+  2 0
+  1 11
+  3 4
+  1 13
+  6 19
+4 1 12 
+  6 19
+19 19 0
+   0 0
+10 Cual es tu opinion de la gente que fuma?
+11 Alguna vez has fumado?
+12 Me parece muy bien, continua asi de sano.
+13 Bueno, intenta no hacerlo muy seguido.
+}
+.z132
+{
+  1 10
+  3 4
+  1 11
+  2 0
+  6 19 
+4 1 12
+  6 19
+19 19 0
+   0 0
+10 Consumes droga?
+11 Lo que consumes es distinto al alcohol, cafeina y  tabaco?.
+12 Esta super bien que cuides tu salud. 
+}
+.z14
+{
+  1 10
+  3 8
+  1 12
+  2 0
+  6 19
+8 1 11
+  3 9
+  12 3
+  13 10
+  2 0
+  6 19
+9 1 12
+  6 5
+10 1 12
+   6 5
+11 1 13
+   6 5
+12 1 14
+5  2 0
+   1 15
+19 19 0
+   0 0
+10 Te marea el humo del cigarro?
+11 Suele molestarte el olor?
+12 A tu alrededor huele a cigarro?
+13 Convives con alguien que fume?
+14 Alguien cercano fuma?
+15 Ah ya.
+}
+.z24
+{
+  1 10
+  3 6
+  1 12
+  3 7
+  1 15
+  6 19
+7 1 13
+  3 8
+  1 14
+  2 0
+  6 19
+8 1 11
+  6 19
+6 1 11
+  6 19
+19 19 0
+   0 0 
+10 Tienes contacto con alguien que fume?
+11 Esta increible que estes en un ambiente libre de tabaco.
+12 Te parece molesto?
+13 Has intentado fumar?
+14 Fumas seguido?
+15 Intenta no hacerlo muy seguido.
+}
+.z34
+{
+  1 10
+  3 3
+  1 13
+  6 19
+3 1 11
+  5 4
+  1 13
+  6 19
+4 1 12
+  6 19
+19 19 0
+   0 0
+10 Te parece interesante el cigarro?
+11 Fumas?
+12 Moderate que es malo para tu cuerpo. 
+13 Me parece muy bueno.
+}
+.z44
+{
+  1 10
+  2 0
+  1 11
+  3 4
+  1 13
+  6 19
+4 1 12 
+  6 19
+19 19 0
+   0 0
+10 Que opinas de la gente que fuma?
+11 Alguna vez has fumado?
+12 Muy bien, continua asi y lleva una vida saludable.
+13 Procura ser precabido.
+}
+.z124
+{
+  1 10
+  3 4
+  1 11
+  2 0
+  11 1 
+  6 19 
+4 1 12
+  6 19
+19 19 0
+   0 0
+10 Consumes droga?
+11 Consumes algo distinto al alcohol&
+  o el tabaco? (si no).
+12 Super bien que cuides tu salud de esta manera. 
+}
+.z15
+{
+  1 10
+  3 8
+  1 12
+  2 0
+  6 19
+8 1 11
+  3 9
+  12 3
+  13 10
+  2 0
+  6 19
+9 1 12
+  2 0
+  6 19
+10 1 12
+   6 5
+11 1 13
+   6 5
+12 1 14
+   6 5
+   2 0
+   1 15
+   6 19
+19 19 0
+   0 0
+10 Te mareas oliendo el humo de cigarro?
+11 Te molesta el olor a cigarrillo?
+12 Hueles humo de cigarro seguido?
+13 Convives con alguien que fume?
+14 Alguien cercano a ti fuma?
+15 Ah ya.
+}
+.z25
+{
+  1 10
+  3 6
+  1 12
+  3 7
+  1 15
+  6 19
+7 1 13
+  3 8
+  1 14
+  2 0
+  6 19
+8 1 11
+  6 19
+6 1 11
+  6 19
+19 19 0
+   0 0
+10 Alguna persona con la que convivas fuma?
+11 Que bueno que estes en un ambiente libre de tabaco, asi &
+   proteges tus pulmones.
+12 Te parece molesto?
+13 Has fumado?
+14 Cuando fumas, es seguido?
+15 Procura estar lejos del humo.
+}
+.z35
+{
+  1 10
+  5 3
+  1 13
+  6 19
+3 1 11
+  5 4
+  1 13
+  6 19
+4 1 12
+19 19 0
+   0 0
+10 Te atrae el cigarro?
+11 Fumas?
+12 Trata de no hacerlo muy seguido que es muy dañino. 
+13 Me alegro, sigue asi.
+}
+.z45
+{
+  1 10
+  2 0
+  1 11
+  3 4
+  1 13
+  6 19
+4 1 12 
+19 19 0
+   0 0
+10 Cual es tu opinion sobre la gente que fuma?
+11 Alguna vez se te ha ocurrido fumar?
+12 Que bueno que no, asi puedes cuidar tus pulmones.
+13 Procura moderarte.
+}
+.z125
+{
+  1 10
+  3 4
+  1 11
+  2 0
+  11 1 
+  6 19 
+4 1 12
+19 19 0
+   0 0
+10 Consumes drogas?
+11 Consume algo distinto al alcohol o tabaco? (si no).
+12 Me gusta que cuides tu salud. 
+}
+.z13
+{
+  1 10
+  3 8
+  1 12
+  2 0
+  6 19
+8 1 11
+  3 9
+  12 3
+  13 10
+  2 0
+  6 19
+9 1 12
+  2 0
+  6 19
+10 1 12
+   6 5
+11 1 13
+   6 5
+12 1 14
+   6 5
+   2 0
+   1 15
+19 19 0
+   0 0
+10 Te marea el humo del cigarro?
+11 Es molesto el olor para ti?
+12 Alguien cercano a ti fuma y por eso hueles seguido el ciagrro?
+13 Convives con alguien que fume?
+14 En tu entorno alguien fuma?
+15 Ah ya.
+}
+.z23
+{
+  1 10
+  3 6
+  1 12
+  3 7
+  1 15
+  6 19
+7 1 13
+  3 8
+  1 14
+  2 0
+  6 19
+8 1 11
+  6 19
+6 1 11
+19 19 0
+   0 0
+10 Alguien con quien convives fuma?
+11 Me parece muy bien que estes alejado del humo &
+   ya que puede ser dañino.
+12 Lo encuentras molesto?
+13 En algun momento  has fumado?
+14 Fumas seguido?
+15 Procura no estar muy en contacto.
+}
+.z33
+{
+  1 10
+  3 13
+  1 13
+  6 19
+3 1 11
+  5 4
+  1 13
+  6 19
+4 1 12
+19 19 0
+   0 0
+10 Te atrae el cigarro?
+11 Has fumado?
+12 Trata de no hacerlo muy seguido te puede hacer daño. 
+13 Increible, continua asi.
+}
+.z43
+{
+  1 10
+  2 0
+  1 11
+  3 4
+  1 13
+  6 19
+4 1 12 
+19 19 0
+   0 0
+10 Tienes algun pensamiento sobre la gente que fuma?
+11 Has intentado fumar?
+12 Me parece muy bien, continua de esa manera, es dañino&
+   para la salud.
+13 Procura fumar con moderacion.
+}
+.z123
+{
+  1 10
+  3 4
+  1 11
+  2 0
+  11 1 
+  6 19 
+4 1 12
+19 19 0
+   0 0
+10 Consumes droga?
+11 Lo que sea que consumas es disntinta al alcohol&
+   o tabaco? (si no).
+12 Me parece muy bien que cuides tu salud de esa manera. 
+}
+END

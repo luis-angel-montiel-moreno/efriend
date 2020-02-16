@@ -1,0 +1,139 @@
+z13
+{
+   12 7
+   13 2
+2  1 1
+   6 z73a
+3  1 1
+   6 z83
+4  1 1
+   6 z81
+5  1 1
+   6 z74
+6  1 1
+   6 z84
+7  1 1
+   6 z75
+8  1 1
+   6 z85
+   9 0
+   0 0
+1  pregunta.
+}
+.z73a
+{
+  1 10
+  2 0
+  11 1
+  1 11 
+  2 0
+  1 12
+  1 13
+  3  2
+  6 19  
+2 1 14
+  2 0
+19 19 0
+   0 0
+10 Por que razones te sueles estresar?
+11 Como te sientes en este momento?
+12 Entiendo.
+13 Siempre te estres en el mismo nivel? (si no)
+14 En que se basa tu nivel de estres?
+}
+.z83
+{
+ 1 10
+ 2 0
+ 1 11
+ 2 0
+ 1 12 
+ 2 0
+19 19 0
+   0 0
+10 Que tal manejas tus emociones y estres&
+   en examenes y entrega de proyectos?
+11 Como es tu ritmo de trabajo?
+12 Ah ya, asi ha sido siempre?
+}
+.z81
+{
+ 1 10
+ 2 0
+ 1 11
+ 2 0
+ 1 12 
+ 2 0
+ 19 0
+   0 0
+10 Manejas tus emociones durante examenes&
+   o entrega de proyectos?
+11 Como es tu ritmo de trabajo?
+12 Ya veo, ha sido asi siempre?
+}
+.z74
+{
+  1 10
+  2 0
+  1 11 
+  2 0
+  1 12  
+  1 13
+  2 0
+19 19 0
+   0 0
+10 Que es lo que hace que te estreses?
+11 En este momento como te sientes?
+12 Entiendo. 
+13 Con que se relaciona tu nivel de estres?
+}
+.z84 
+{
+ 1 10
+ 2 0
+ 1 11
+ 2 0
+ 1 12 
+ 2 0
+19 19 0
+   0 0
+10 Manejas tus emociones durante examenes&
+   o entrega de proyectos?
+11 Tu ritmo de trabajo, como es?
+12 Desde siempre ha sido asi?
+}
+.z75
+{
+  1 10
+  2 0
+  1 11 
+  2 0
+  1 12
+  1 13
+  3  2
+  6 19  
+2 1 14
+  2 0
+19 19 0
+   0 0
+10 Que causa tu estres?
+11 Como te sientes?
+12 Ya veo. 
+13 Tu nivel de estres, es siempre el mismo? (si no)
+14 En relacion con que es que tu estres cambia?
+}
+.z85
+{
+ 1 10
+ 2 0
+ 1 11
+ 2 0
+ 1 12 
+ 2 0
+19 19 0
+   0 0
+10 Como manejas tus emociones cuando tienes examenes?
+11 Como es tu ritmo de trabajo?
+12 Ya veo, desde siempre es asi?
+}
+END
