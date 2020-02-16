@@ -1,0 +1,452 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<FAQ tipo="preguntas chatbot">
+<tiposPregunta>
+<tipo id="que" nombre="que"></tipo>
+<tipo id="como" nombre="como"></tipo>
+<tipo id="cual" nombre="cual"></tipo>
+<tipo id="porque" nombre="por que"></tipo>
+<tipo id="tiene" nombre="tiene"></tipo>
+<tipo id="tieneQueVer" nombre="tiene que ver"></tipo>
+<tipo id="es" nombre="es"></tipo>
+<tipo id="interesaPero" nombre="interesa pero"></tipo>
+<tipo id="cuanto" nombre="cuanto"></tipo>
+<tipo id="hay" nombre="hay"></tipo>
+<tipo id="donde" nombre="donde"></tipo>
+<tipo id="paraQue" nombre="para que"></tipo>
+</tiposPregunta>
+
+<preguntas tipo="faq">
+<listaPreguntasFAQ seccion="mindfulness">
+
+<preguntaFAQ numero="1" tipoPregunta="que">
+	<pregunta>Que es Mindfulness?</pregunta>	
+	<respuesta>Mindfulness es una capacidad humana basica en la que dirigimos la atencion al momento presente con aceptacion y apertura ante lo que ocurre. Mindfulness, se enfoca en un conjunto de practicas bien definidas, explicables desde la neurociencia, posibilitando una didactica directa y cientifica. De ese enfoque y sencillez, deriva su fuerza y expansion.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="2" tipoPregunta="cual">
+	<pregunta>Cual es su origen?</pregunta>
+	<respuesta>Originalmente el termino Atencion plena aparece en el budismo, aunque el enfoque de la atencion no es prioridad de ninguna corriente, filosofia o religion. De hecho, podemos encontrar grandes practicantes de atencion plena en diferentes culturas. En 1979 Jon Kabat-Zinn, biologo molecular y catedratico emerito de la Universidad de Massachussets, inicio el programa MBSR (Mindfulness Based Stress Reduction) en el Hospital General de Massachussets, para un grupo de pacientes con dolor cronico y enfermedades graves e incapacitantes.
+
+En la actualidad el programa MBSR y otros muchos programas de mindfulness que se han ido diseñando con posterioridad se imparten en todo el mundo tanto para personas enfermas en hospitales, centros de salud mental, y centros de atencion primaria como para personas sanas que desean un mayor bienestar emocional en centros educativos, empresas, en el ambito deportivo, y centros de educacion maternal.Se puede aplicar y practicar tanto de forma individual como grupal.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="3" tipoPregunta="cual">
+	<pregunta>Cuales son las bases fisiologicas del mindfulness en palabras sencillas?</pregunta>
+	<respuesta>Estar presente con aceptacion parece sencillo de entender, pero no siempre es facil de poner en practica. El cerebro funciona de forma automatica y con mucha frecuencia nuestra mente divaga lejos de la experiencia real que esta ocurriendo.  A esto se le llama red neuronal por defecto y se cree que gran parte de nuestro dia esta funcionando, repitiendo pensamientos muy similares a los del dia anterior.
+Ademas, aceptar lo que nos sucede no es tan sencillo. Solemos luchar, enfadarnos, quejarnos, protestar o evitar la realidad tal como ocurre debido a nuestras preferencias, deseos, expectativas y juicios. Esta actitud de rechazo precisamente nos limita y nos hace sufrir mas ya que la aceptacion que propone el mindfulness no es resignacion, sino que al aceptar lo que sucede podemos tener una vision mas clara e incluso intentar cambiarlo si es posible y apropiado.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="4" tipoPregunta="como">
+	<pregunta>Como son las practicas?</pregunta>
+	<respuesta>Las practicas son muy variadas y se pueden adaptar a la edad y necesidades de todas las personas. Consisten en atender a la respiracion, a las sensaciones corporales, a las emociones y pensamientos, desarrollando sentimientos de aprecio y respeto hacia nosotros mismos y aprendiendo a cultivar una actitud de bondad con nosotros mismos y los demas.Las practicas formales son aquellas en las que reservamos un tiempo concreto y una postura especifica para realizarlas a diario. Las practicas informales se llevan a cabo prestando atencion a lo que hacemos en la vida cotidiana (por ejemplo, actividades de aseo personal, caminar al trabajo, atender a otras personas, preparar la comida… etc.). Ambas son importantes.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="5" tipoPregunta="porque">
+	<pregunta>Por que es necesario un entrenamiento en practicas formales a diario?</pregunta>
+	<respuesta>Igual que un musico ensaya una y otra vez para mejorar su tecnica, entrenamos mindfulness con nosotros mismos para despues tener recursos para poder aplicarlo en la vida diaria, donde es mas complejo darse cuenta, parar, suspender el juicio y actuar desde la ecuanimidad y la compasion. Practica formal, practica informal y auto observacion de nuestros procesos psicologicos y patrones de pensamiento conforman los tres aspectos fundamentales a entrenar.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="6" tipoPregunta="tiene">
+	<pregunta>Mindfulness tiene evidencia cientifica?</pregunta>
+	<respuesta>3700 estudios cientificos hacen referencia y avalan la practica del Mindfulness dando lugar a la neurociencia contemplativa que investiga los fundamentos, aplicaciones y posibilidades de Mindfulness. En muchas ocasiones la ciencia demuestra que lo que se sabe era falso o bien descubre muchas cosas que no se sabian. En este sentido, investigar Mindfulness permite conocer mejor el funcionamiento del cerebro y entender mejor el cerebro nos puede ayudar a mejorar las practicas y aplicaciones de Mindfulness. Ambos enfoques son necesarios.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="7" tipoPregunta="como">
+	<pregunta>Como aprender mindfulness?</pregunta>
+	<respuesta>Como en cualquier actividad en funcion del interes y motivacion el modo de aprendizaje sera diferente. No obstante entender la naturaleza de la mente, adoptar una via de transformacion personal desde Mindfulness y llevarla a cabo requiere su tiempo, dedicacion y guia profesional. Se puede aprender de forma individual o en programas grupales.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="8" tipoPregunta="tieneQueVer">
+	<pregunta>Tiene que ver Mindfulness con la inteligencia emocional?</pregunta>
+	<respuesta>La inteligencia emocional nos permite prestar atencion a procesos, normalmente no conscientes, por los que nuestras ideas, acciones y toma de decisiones son influenciados. De esto modo podemos conocernos y relacionarnos mejor y favorecer la regulacion emocional. Mindfulness es una via practica para ello.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="9" tipoPregunta="que">
+	<pregunta>Que efecto tiene Mindfulness en la salud fisica, emocional y mental?</pregunta>
+	<respuesta>Mindfulness nos ayuda a vivenciar estados con menores niveles de stress fisico y emocional, mejores recursos para afrontar los retos de la vida, buenas estrategias cognitivas para relacionarnos y una mayor descentralizacion de la persona, fuente de muchos problemas personales.
+Por ello, en algunas terapias es un complemento o una herramienta para enfocar y tratar las patologias por parte de los profesionales de la salud fisica, emocional y mental.
+Mindfulness nos enseña a aceptar y vivenciar la realidad en toda su intensidad, sin evitar, disimular o cambiar lo que ocurre ni proyectar un futuro donde nuestros deseos se cumplan.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="10" tipoPregunta="es">
+	<pregunta>Mindfulness es una moda?</pregunta>
+	<respuesta>Las tecnicas que funcionan y son capaces de incluirse en el paradigma de la sociedad en la que se instalan, en este caso, la ciencia, vienen para quedarse. Una creciente profesionalizacion e investigacion esta contribuyendo a mejorar la calidad, enseñanza y practica de Mindfulness. En nuestro pais hay varios masteres universitarios en mindfulness, se han escrito casi una veintena de tesis doctorales sobre este tema y se ha creado una catedra de mindfulness en la Facultad de Medicina de la Universidad Complutense de Madrid. Hay numerosos centros sanitarios donde se imparten cursos de reduccion del estres con mindfulness para los profesionales de la salud y los pacientes y en la actualidad hay muchos profesionales muy bien entrenados para dar formacion de calidad en mindfulness.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="11" tipoPregunta="como">
+	<pregunta>Como es una sesion individual?</pregunta>
+	<respuesta>Despues de hacer una entrevista previa en la que cada persona decide sus objetivos a corto, medio y largo plazo la instructora de mindfulness analiza su situacion actual y se crea en equipo un plan de practicas.  A cada persona se le proporciona un pendrive con audios y textos elegidos especificamente para ella y en cada sesion individual la instructora enseña una o varias practicas y se comentan posibles dificultades o dudas en su realizacion. Al termino de la sesion se proporcionan audios para que cada persona pueda continuar realizando la practica en la vida cotidiana.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="12" tipoPregunta="como">
+	<pregunta>Como es una sesion grupal?</pregunta>
+	<respuesta>En una sesion grupal varias personas hacen las practicas a la vez, guiadas por una profesional experta en mindfulness. Las sesiones suelen tener una duracion entre 60 y 120 minutos e incluyen sesiones de dialogo donde los participantes pueden plantear dudas sobre la practica y compartir sus experiencias. Al ser el contenido de las sesiones eminentemente practico, todo el mundo es bienvenido y no hacen falta conocimientos previos de mindfulness.
+
+La dinamica de trabajo en el grupo consiste en practicas de atencion plena a la respiracion, a las sensaciones, a las emociones y pensamientos, asi como practicas guiadas de bondad amorosa hacia uno mismo y hacia los demas. Estos talleres vivenciales son un entrenamiento para aprender la habilidad de estar en el presente con una actitud de apertura y amabilidad hacia nosotros, hacia los demas, y hacia lo que nos sucede en cada momento de nuestra vida. Tambien aprendemos  y  compartimos propuestas sencillas y utiles para seguir practicando mindfulness en nuestra vida cotidiana.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="13" tipoPregunta="que">
+	<pregunta>Que formacion en mindfulness tiene la Dra Olga Sacristan?</pregunta>
+	<respuesta>Medico especialista en Rehabilitacion y Medicina Fisica.
+Master en Mindfulness por la Universidad de Zaragoza
+Especialista Universitario en Desarrollo Personal y Mindfulness por la Universidad de Almeria.
+Experto Universitario en Terapia Cognitiva aplicada al Estres, la Ansiedad y la Depresion por la Universidad de Valencia.
+Formada con el Dr. Jon Kabat Zinn y el Dr. Saki Santorelli del Center for Mindfulness de la Universidad de Massachusetts en el Programa MBSR de Reduccion del Estres con Mindfulness.
+Formada en el programa MBPM de abordaje del dolor cronico con Mindfulness (Mindfulness Based Pain Management) por Respira Vida y Fundacion Breathworks.
+Acreditada por la Escuela de Desarrollo Transpersonal como Consultora en Mindfulness, Terapeuta Transpersonal, Coach en Educacion Transpersonal, Instructora de Meditacion y Facilitadora de Programas de Mindfulness para Centros Educativos.
+Certificada por el Instituto Mindful Schools como Instructora de Mindfulness para niños, adolescentes y educadores.
+Acreditada por los Institutos Mindful Motherhood y Mindful Childbirth and Parenting como Experta en Programas de mindfulness para el embarazo, parto y postparto.
+Experta en el Programa de mindfulness Listening Mothers para el apoyo de madres y padres en el postparto y crianza temprana.
+Experta en Psicologia Pre y Perinatal por la Asociacion Norteamericana de Psicologia y Salud Prenatal y Perinatal (APPPAH).
+Formada en Entrenamiento en el Cultivo de la Compasion en los Programas
+CCT (Compassion Cultivation Training) de la Universidad de Stanford.
+CBCT (Compassion Based Cognitive Therapy) de la Universidad de Emory.
+MSC (Mindful Self Compassion) con el Dr. Vicente Simon.
+Terapia de Compasion basada en los Estilos de Apego (Universidad de Zaragoza) con el Dr. Javier Garcia Campayo
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="14" tipoPregunta="que">
+	<pregunta>Que es mindfulness?</pregunta>
+	<respuesta>Mindfulness significa atencion plena en español. Mindfulness consiste de varios ejercicios de entrenamiento mental y de auto-conocimiento. Aprendemos a vivir mas en el presente y a quedar menos apegados al pasado o el futuro. Esto reduce la ansiedad, el estres y las tensiones corporales.Hacemos ejercicios simples y neutrales. No es nada religioso, ni esoterico. Seguir leyendo sobre mindfulness.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="15" tipoPregunta="como">
+	<pregunta>Como son los cursos de mindfulness?</pregunta>
+	<respuesta>Los cursos son experienciales y no teoricos. No mostramos un powerpoint y tampoco exponemos mucha teoria. Practicamos varios ejercicios y es en base a lo que aprendemos de los ejercicios que deducimos la teoria. Recibes un cuaderno de apoyo con algunas lecturas y las grabaciones de voz de los ejercicios para que puedas practicar en tu casa.
+Es muy importante que entre las sesiones del curso practiques en tu casa los ejercicios aprendidos. Solo con eso puedes integrar el mindfulness paso a paso en tu vida diario y obtener mejor bienestar. Por lo tanto, participar en un curso de mindfulness requiere un compromiso y dedicacion de tiempo.
+El mindfulness es un proceso y la auto-observacion es muy importante. Por mas que practicas los ejercicios durante la semana y por mas que observas tus pensamientos, emociones y tu cuerpo durante la semana, mejor provecho puedes sacar del curso. Seguir leyendo sobre los distintos formatos y cursos de mindfulness.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="16" tipoPregunta="cual">
+	<pregunta>Cuales materiales entregan?</pregunta>
+	<respuesta>Recibes un cuaderno de apoyo con lecturas y las grabaciones de voz de los ejercicios para que puedas practicar en tu casa. 
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="17" tipoPregunta="paraQue">
+	<pregunta>Para que sirve mindfulness?</pregunta>
+	<respuesta>Mindfulness ayuda para vivir mas en el presente. Mejora la concentracion y ayuda para reducir el estres y la ansiedad. Permite equilibrar las emociones y tener mejor manejo emocional. Tambien puede impactar de manera positiva en algunas enfermedades psicosomaticas.
+Mindfulness ayuda a conocernos mejor y a salir de viejos patrones de pensar y de mal manejo emocional. Mindfulness no es una pildora magica. Requiere de la voluntad y de la motivacion de cada participante. Por mas que tu te involucras, por mas que practicas los distintos ejercicios, mas beneficios puedes obtener. Mindfulness es un enfoque complementario, puede ser complementario a un tratamiento con psiquiatra o psicologo y tambien a un tratamiento medico.
+Mindfulness sirve para:
+Estar mas tranquilo/a
+Mayor conexion cuerpo y mente
+Reducir estres
+Reducir ansiedad
+Manejar mejor las emociones
+Herramienta de autoconocimiento
+Mas concentracion
+Aprender a meditar
+	</respuesta>
+</preguntaFAQ>
+
+
+<preguntaFAQ numero="18" tipoPregunta="cual">
+	<pregunta>Cuales son las contraindicaciones?</pregunta>
+	<respuesta>Mientras que el mindfulness es recomendado para muchas personas, no es adecuado para personas con adiciones, psicosis, intentos de suicidio y tampoco para personas que estan actualmente pasado por una crisis mayor (como la muerte de une persona cercana o se encuentran actualmente en una depresion).
+ 
+En el caso de ataques de panico, no recomendamos cursos grupales de mindfulness, sino sesiones individuales.
+Si estas tomando medicamentos o si estas en tratamiento con un psiquiatra, es muy importante que converses antes con tu psiquiatra para aclarar si es un buen momento para participar en un curso de mindfulness.
+En el siguiente enlace aclaramos eventuales contraindicaciones.
+No hay limitaciones a nivel de la salud fisica. Mindfulness no requiere una condicion fisica especial.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="19" tipoPregunta="cual">
+	<pregunta>Cual es la diferencia entre el curso nivel 1 mindfulness para principiantes y el programa MBSR?</pregunta>
+	<respuesta>Ambos cursos estan hechos para principiantes. Ambos cursos parten desde cero y no requieren conocimiento previo. Ambos cursos incluyen ejercicios formales de mindfulness y ejercicios de auto-observacion.
+El curso nivel 1 dura seis sesiones. El curso MBSR dura ocho sesiones y tambien incluye un dia completa de practica.
+El curso MBSR fue inventado hace mas que 30 años en EEUU por Jon Kabat-Zinn. Es un programa internacional de mindfulness con mucha historia. Muchos estudios sobre mindfulness se basan en el este programa de mindfulness. Replicamos el formato internacional aca en Chile. Es un programa que solo se puede hacer con compromiso y motivacion porque dura ocho semanas y porque cada dia requiere una practica en casa de 40-60 minutos.
+El programa MBSR es ideal para personas que vienen derivados o recomendados por psiquiatras y psicologos. Tambien para personas con sintomas psicosomaticos y enfermedades corporales (cancer, fibromialgia, bruxismo etc.). Es adecuado para personas con estres laboral, social y/o emocional.
+El curso nivel 1 mindfulness para principiantes es un formato de Plenamente, no es un formato internacional. Es un poco mas corto que el MBSR y mas introductorio. Requiere practica diaria de 30-40minutos en casa.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="20" tipoPregunta="es">
+	<pregunta>Los cursos mindfulness son lo mismo que yoga?</pregunta>
+	<respuesta>No. Incluimos algunos ejercicios con el cuerpo, pero son suaves y no requieren una buena condicion fisica
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="21" tipoPregunta="es">
+	<pregunta>Soy religioso. Puedo participar en cursos mindfulness?</pregunta>
+	<respuesta>Si, de todas maneras. Mindfulness tiene raices en el budismo, pero la manera de enseñarlo hoy en dia es completamente laica y fundada en la neurociencia. En los cursos mindfulness no nos referimos a elementos religiosos.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="22" tipoPregunta="es">
+	<pregunta>Soy ateo. Puedo participar en los cursos mindfulness?</pregunta>
+	<respuesta>Si, de todas maneras. Los beneficios tienen fundamento cientifico. Los cursos mindfulness no incluyen mantras, cantos, rezos, ni otro ritual que podria calificarse como religioso.
+	</respuesta>
+</preguntaFAQ>
+
+
+<preguntaFAQ numero="23" tipoPregunta="es">
+	<pregunta>Se requiere una condicion fisica especial para poder participar en los cursos mindfulness?</pregunta>
+	<respuesta>No. Los cursos mindfulness no tienen exigencia fisica y tambien son aptos para personas con desafios fisicos.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="24" tipoPregunta="que">
+	<pregunta>Que conocimiento previo se requiere?</pregunta>
+	<respuesta>Ninguno. No se requiere ni conocimiento teorico, ni experiencia practica previa para poder participar en los cursos mindfulness.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="25" tipoPregunta="es">
+	<pregunta>Reemplaza un tratamiento medico?</pregunta>
+	<respuesta>No. Los cursos mindfulness no reemplazan un tratamiento medico. Pueden ser complementarios a un tratamiento psicologico y/o medico.  Aca detallamos posibles contra indicaciones de una participacion en cursos mindfulness.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="26" tipoPregunta="que">
+	<pregunta>Que es el Minfulness?</pregunta>
+	<respuesta>Existen muchas definiciones de la practica. Toma la que mas te sirva y comienza la aventura de la introspeccion. El libro Mindfulness, el arte de controlar tu mente (Alienta), nos enseña a liberar la mente de automatismos y encontrar el bienestar, analiza que es el Mindfulness para que puedas aplicarlo en tu dia a dia.
+
+Minfulness es sinonimo de introspeccion, descubrimiento y transformacion. Mindfulness, de manera muy simplista, significa 'consciencia plena', pero una definicion mas completa podria ser: la habilidad de la atencion, por medio de la cual observamos la experiencia que acontece en el momento presente, con actitud serena y neutral.
+          Simplemente, observar nuestra propia vida en el aqui y en el ahora. 
+
+Consiste en prestar una atencion plena y consciente a todos los pensamientos, sentimientos y emociones que fluyen a traves de nuestra mente, nuestro cuerpo y nuestra respiracion, sin juzgarlos ni criticarlos en ningun momento. Es ser plenamente consciente de todo lo que acontece en el momento presente sin quedar atrapado en el pasado o preocuparse por el futuro. 
+          Es vivir en el instante y no para el instante, como bien relata la obra El arte de respirar (Paidos)
+	</respuesta>
+</preguntaFAQ>
+ 
+<preguntaFAQ numero="27" tipoPregunta="que">
+	<pregunta>Que no es el Mindfulness?</pregunta>
+	<respuesta>Primero que nada el Mindfulness no es una religion ni se aproxima a la filosofia Carpe Diem. No se trata de dejar todo e irte a vivir al Tibet (aunque alli seria mas facil). Esta es una practica para las personas que nos tenemos que levantar cada dia e ir a trabajar, sacar al perro a pasear, lidiar con las cuentas bancarias y planear las vacaciones familiares. Como dice Danny Penman "Tiene que ver con conectar y abrazar la vida en toda su caotica belleza, con todos sus defectos y debilidades". 
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="28" tipoPregunta="paraQue">
+	<pregunta>Para que sirve el mindfulness?</pregunta>
+	<respuesta>Daniel Kahneman propone que aunque tenemos solo una mente, contamos con dos sistemas principales para la toma de decisiones: el sistema consciente y el inconsciente. La tecnica del Mindfulness busca controlar un poco mas el sistema del inconsciente para que este no domine nuestras decisiones. Evitar la mente errante, que es la culpable de que nos tomemos a pecho situaciones menores o que imaginemos un futuro totalmente diferente del que en efecto pasara. Segun un estudio de la revista Science "nuestra mente es inquieta y la mayoria de las personas empleamos casi la mitad del tiempo que pasamos despiertos en pensamientos que nada tienen que ver con lo que estamos haciendo en esos momentos. Esta forma de divagacion mental produce, ademas, sentimientos de infelicidad". 
+	</respuesta>
+</preguntaFAQ>
+ 
+<preguntaFAQ numero="29" tipoPregunta="que">
+	<pregunta>En que te beneficiaria?</pregunta>
+	<respuesta>La busqueda de la neutralidad y la observacion de manera ecuanime lograra que veas los acontecimientos sin juicio, te ayudara a observar de verdad.
+
+Poner intencion significa deliberadamente poner atencion. Asi que imagina un dia en el que tu plena atencion se dedique en la actividad que debes de hacer en ese momento. Seguramente, te despertaras y dejaras atras al mal humor, disfrutaras cada gota de agua en la ducha y cada bocado del desayuno, haras un mejor trabajo (¡y sin estres!) y tendras una manera de relacionarte mas saludable. Aumentara tu inteligencia emocional y con ello tu paz mental.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="30" tipoPregunta="cual">
+	<pregunta>Cual es el objetivo?</pregunta>
+	<respuesta>Consiste en comprender como funciona nuestra mente. Encontrar cual es el pensamiento semilla que genera estres, infelicidad o agotamiento mental. Te enseña a controlar tus emociones y tener en cuenta que son como olas  en el mar que vienen y van. 
+"Tu no eres tus pensamientos. Eres el observador de tus pensamientos" - El arte de respirar (Paidos)
+Lo que busca el minfulness es que adquieras una perspectiva de tus pensamientos, sentimientos y emociones. Con ello lograras que tus pensamientos mas freneticos e inquietantes se desvanezcan por si solos. Como por ejemplo, si alguien te habla mal, en vez de picar el anzuelo del mal comentario, en vez de que te arruine el dia dandote paso a la negatividad, tu mente se mantendra serena y lucida para entender que un solo comentario no tendra el poder de quitarte la paz. A que suena bien? 
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="31" tipoPregunta="es">
+	<pregunta>Es dificil?</pregunta>
+	<respuesta>Existen muchos mitos de la meditacion. Imaginamos que para lograrlo tenemos que poner la mente en blanco, sentarnos en la posicion del loto y comenzar a levitar por un tiempo indefinido. Nada mas lejos de la realidad, simplemente tienes que comenzar a prestar atencion a tu respiracion unos minutos al dia. El querer interiorizar no necesita una religion o unas creencias. Hay niveles del dominio de la practica, claro esta. Pero nunca se nos pidio hacer una ecuasion de fisica cuantica en la primera clase de matematicas. 
+
+La funcion de nuestra mente es pensar para entender mejor el mundo, tomar mejores decisiones y garantizar asi nuestra supervivencia, afirma Jose Manuel Calvo, es por eso que la mente deambula constantemente entre el pasado y el futuro. Por medio de la meditacion, generamos un espacio para observar nuestros propios contenidos mentales, que en muchas ocasiones son inconscientes y estan dirigiendo nuestra vida y nuestro comportamiento por una direccion que no hemos elegido.
+
+En realidad todo se resume en respirar y en observar lo que se nos pasa por la cabeza el mayor tiempo posible. 
+	</respuesta>
+</preguntaFAQ>
+ 
+<preguntaFAQ numero="32" tipoPregunta="que">
+	<pregunta>En que momento puedo hacerlo?</pregunta>
+	<respuesta>Segun los expertos, se puede practicar en cualquier momento. Sin embargo, el mindfulness se caracteriza por poner la atencion en actividades tan cotidianas como levantarte de la cama.
+
+Calvo comparte 6 actividades que son una manera perfecta de comenzar con la atencion plena:
+
+Al despertar: No saltes de la cama automaticamente. Pon el despertador cinco minutos antes y dedicalos a conectar contigo. Sin juicio ni cambios. Solo observa tu estado de animo, que tipo de pensamientos vienen a visitarte dirige tu atencion a la respiracion.
+
+Higiene diaria: Disfruta de todas las sensaciones agradables que implica esos minutos a tu aseo personal. Olvidate de lo que te pondras o tus tareas del dia.
+
+Al caminar: No te manejes en piloto automatico. Observa tu postura y las sensaciones que se producen en tus pies al tomar contacto con el suelo.
+
+Alimentacion: Se trata de comer de un modo mas lento y observando todos los detalles que se producen en el proceso.
+
+Tareas del hogar: Concentrate en la accion, en el limpiar, observa los movimientos que haces.
+
+Al acostarse y antes de dormirnos: En el momento de poner la cabeza en la almohada nuestra mente aprovecha para secuestrarnos con todo tipo de pensamientos negativos. Mejor presta atencion a las sensaciones que te rodean: el contacto con el colchon, el frescor y el tacto de las sabanas, la presion que ejerces sobre la almohada.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="33" tipoPregunta="es">
+	<pregunta>Se aplica el Mindfulness en procesos terapeuticos?</pregunta>
+	<respuesta>Desde luego, practicar Mindfulness nos proporciona una mirada mas amable con nuestra propia experiencia interna, en lugar de tratar de eliminarla o modificar dicha experiencia.
+Una de las actitudes fundamentales en la practica del Mindfulness es la aceptacion y este es un aspecto esencial en los procesos terapeuticos.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="34" tipoPregunta="que">
+	<pregunta>Que otras actitudes son importantes en la practica del Mindfulness?</pregunta>
+	<respuesta>Ya hemos hablado de la aceptacion, que no significa que me guste o que este satisfecho/a con tal y como son las cosas o que me resigne a cambiarlas, sino que en la medida que experimento la experiencia tal y como es (y no la niego ni me peleo con ella) puedo transitarla y transformarla.
+Otra actitud fundamental es la que llamamos mente del principiante. Vivir las situaciones como si fuera la primera vez que las experimentamos. Porque en realidad, cada momento es vivido por primera vez.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="35" tipoPregunta="es">
+	<pregunta>Es una practica que debo hacer cada dia?</pregunta>
+	<respuesta>En principio te diria que no debes hacer nada, que no es una obligacion ni es interesante vivirlo desde la exigencia. Si es importante tener un compromiso con la practica igual que lo tienes con cepillarte los dientes despues de cada comida. De igual manera si decides hacer deporte, sabes que es importante cierta constancia y rutina para que esos entrenamientos sean utiles para tu cuerpo. Igual con tu mente.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="36" tipoPregunta="como">
+	<pregunta>Como puedo aprender a practicar Mindfulness?</pregunta>
+	<respuesta>Hay infinidad de libros, audios, videos que puedes consultar, aunque mi recomendacion es que te apoyes en alguna persona que pueda ayudarte al principio.
+Ya sabes que en Kaiden programamos talleres de crecimiento personal y el proximo, el del 7 y 8 de marzo, lo dedicamos alMindfulness y su aplicacion a la gestion emocional. Vamos, una oportunidad de oro.
+	</respuesta>
+</preguntaFAQ>
+
+<preguntaFAQ numero="37" tipoPregunta="que">
+	<pregunta>Ademas de la respiracion, que otra practica puedo hacer?</pregunta>
+	<respuesta>Mindfulness, es atencion plena, por lo que podemos practicar prestando atencion a la respiracion (lo mas basico) o a los sentidos (lo que veo, lo que escucho, lo que toco, etc) o al cuerpo, o al movimiento, o a la mente o a las actividades cotidiana.
+Espero que estas preguntas y respuestas te haya aportado informacion y claridad de lo que es el Mindfulness, que beneficios tiene y sobre todo, espero que te haya animado a su practica. 
+	</respuesta>
+</preguntaFAQ>
+
+</listaPreguntasFAQ>
+
+<listaPreguntasFAQ seccion="coaching">
+
+<preguntaFAQ numero="1" tipoPregunta="interesaPero">
+
+<pregunta>Me interesa el coaching, pero no se si quiero ser coach
+</pregunta>
+<respuesta>Incorporar habilidades de coaching implica una experiencia personal, pues no solo se realiza un aprendizaje conceptual sino vivencial. En nuestro Programa de certificacion en coaching ejecutivo participan tanto ejecutivos, miembros de los departamentos de Recursos Humanos y altos directivos que desean incorporar herramientas de coaching para ser mas eficaces a nivel profesional, como todo tipo de profesionales (consultores, psicologos, etc.) que ven en el coaching como una herramienta mas en su desarrollo personal y profesional.
+</respuesta>
+
+</preguntaFAQ>
+
+<preguntaFAQ numero="2" tipoPregunta="cuanto">
+
+<pregunta>En cuanto tiempo se aprende coaching?
+</pregunta>
+<respuesta>Si estas interesado en ser coach profesional homologado por ICF a nivel internacional, has de cursar el Programa de Certificacion en Coaching Ejecutivo que dura, en total, un minimo de seis meses (229 horas*).
+
+En un mes (46 horas*), lo que dura el Ciclo I, puedes empaparte de las bases de esta disciplina. En cinco meses mas (183 horas*), con el Ciclo II, profundizaras en todos los conceptos y competencias necesarios para ejercer como coach, y te certificaras en un Programa reconocido con un titulo homologado internacionalmente.
+
+Si estas interesado en desarrollar habilidades de liderazgo y de comunicacion e incorporar algunas de las competencias del coach puedes realizar unicamente el primer ciclo del Programa de certificacion en coaching ejecutivo.
+</respuesta>
+
+</preguntaFAQ>
+
+<preguntaFAQ numero="3" tipoPregunta="que">
+
+<pregunta>Que requisitos son necesarios para ser coach?
+</pregunta>
+<respuesta>Es imprescindible ser licenciado y contar con experiencia profesional minima de tres años. Ademas, en la EEC consideramos que para ser coach es esencial tener un genuino interes por las personas.
+</respuesta>
+
+</preguntaFAQ>
+
+
+<preguntaFAQ numero="4" tipoPregunta="que">
+
+<pregunta>Que ventajas tiene formarse con la EEC?
+</pregunta>
+<respuesta>Todos nuestros formadores en aula son al mismo tiempo coaches en activo en empresa con amplia experiencia en coaching ejecutivo.
+    Nuestra formacion se nutre de la experiencia real en coaching en el ambito empresarial. 
+    Los programas han sido diseñados desde una solida base teorica del coaching y la experiencia contrastada en el terreno. 
+    Hemos formado a mas de 15.000 profesionales. Nuestros programas tienen una eficacia contrastada de 15 años.
+    Nuestros programas se adaptan al ritmo de aprendizaje del participante y a las necesidades de cada cliente.
+    Contamos con la maxima homologacion que otorga la Federacion Internacional de Coaching (ICF, por sus siglas en ingles). 
+    Ofrecemos un abanico de programas que abarca la formacion integral de un coach profesional. 
+    Dispondras de actividades y servicios despues de formarte con EEC Alumni.
+</respuesta>
+
+</preguntaFAQ>
+
+<preguntaFAQ numero="5" tipoPregunta="hay">
+
+<pregunta>Hay ventajas para los antiguos alumnos de la EEC?
+</pregunta>
+<respuesta>Las personas que pasan por las aulas de EEC tienen a su disposicion EEC Alumni, que ofrece actividades formativas, servicios de valor añadido y recursos de calidad para dar respuesta a las inquietudes y necesidades de los alumnos coaches.
+</respuesta>
+
+</preguntaFAQ>
+
+<preguntaFAQ numero="6" tipoPregunta="cual">
+
+<pregunta>Cual es el perfil de los alumnos? Y de los profesores?
+</pregunta>
+<respuesta>Los alumnos son, en su gran mayoria, profesionales de los Recursos Humanos, directivos y ejecutivos de otras areas que desean reforzar sus habilidades de liderazgo y de gestion de personas, consultores, cazatalentos, psicologos y profesionales que desean desarrollarse y/o darle un giro a su trayectoria profesional. Todos nuestros formadores son coaches profesionales en activo certificados por la EEC y acreditados, en su gran mayoria, como PCC por ICF.
+</respuesta>
+
+</preguntaFAQ>
+ 
+<preguntaFAQ numero="7" tipoPregunta="que">
+
+<pregunta>Que importancia tienen las homologaciones?
+</pregunta>
+<respuesta>Las homologaciones son la representacion del estandar de calidad, la confirmacion de una oferta rigurosa y exquisita. En la EEC seguimos las guias marcadas por la Federacion Internacional de Coaching (ICF, en sus siglas en ingles).
+</respuesta>
+
+</preguntaFAQ>
+ 
+
+<preguntaFAQ numero="8" tipoPregunta="que">
+
+<pregunta>Que incluye el precio? Como puedo inscribirme?
+</pregunta>
+<respuesta>El precio de todos los programas incluye el material didactico (textos, lecturas, hojas de ejercicios) necesario para seguir la formacion. Para conocer los precios de los programas, por favor, ponte en contacto con nosotros. Es imprescindible rellenar una ficha de inscripcion. Puedes solicitarnosla enviando un correo electronico a la direccion info@escuelacoaching.com indicando la ciudad donde deseas formarte y el nombre del programa que desees cursar.
+Pasos despues de la certificacion en coaching
+Una vez formado como coach, empieza la aventura. Como en cualquier otra profesion, se inicia un camino de practicas, de especializacion y de formacion continua. Para ello, la EEC cuenta con programas para coaches en ejercicio (Supervision de coaching, Coaching de equipos, Coaching y Politica...). Ademas, EEC Alumni constituye una comunidad de aprendizaje permanente al servicio de todos los alumnos formados por la EEC.
+</respuesta>
+
+</preguntaFAQ>
+ 
+
+<preguntaFAQ numero="9" tipoPregunta="es">
+
+<pregunta>Necesita coaching mi plantilla/equipo?
+</pregunta>
+<respuesta>Los momentos de cambio, de fusiones, de reestructuraciones son los momentos donde la intervencion de coaching encuentra un mayor sentido. Tanto el equipo directivo como el conjunto de colaboradores pueden verse impulsados al incorporar habilidades de coaching como: adaptacion al cambio mas rapida, capacidad para ponerse en el lugar del otro, mejora en la escucha.
+</respuesta>
+
+</preguntaFAQ>
+
+<preguntaFAQ numero="10" tipoPregunta="como">
+
+<pregunta>Como contrato un proyecto de EEC para mi empresa?
+</pregunta>
+<respuesta>Puedes ponerte en contacto con nosotros y comentarnos cuales son las necesidades que tiene tu organizacion para valorar si lo que ofrecemos en EEC se ajusta a vuestras necesidades. Ademas, puedes consultar algunos de los servicios de Consultoria Estrategica puedes ver aqui. A partir de ahi, nos comprometemos con ajustarnos a tus particularidades y necesidades concretas. Dejanos colaborar contigo para alcanzar los resultados extraordinarios.
+</respuesta>
+
+</preguntaFAQ>
+ 
+
+<preguntaFAQ numero="11" tipoPregunta="donde">
+
+<pregunta>Donde esta presente EEC?
+</pregunta>
+<respuesta>Puedes contratar servicios profesionales de coaching en cualquier lugar del planeta. Puedes seguir programas de formacion presencialmente. Consulta nuestra seccion Contacto. España: Madrid, Barcelona, Bilbao y Valencia. Andorra. Italia: Roma, Milan y Turin. Mexico: Mexico DF. Argentina: Buenos Aires. Chile: Santiago de Chile. Colombia: Bogota. En el resto del mundo a traves de programas online.
+</respuesta>
+
+</preguntaFAQ>
+ 
+<preguntaFAQ numero="12" tipoPregunta="cual">
+
+<pregunta>Cual es la filosofia de la EEC?
+</pregunta>
+<respuesta>El centro de nuestras prioridades son las personas, su satisfaccion y su desarrollo permanente. Ese valor nos lleva a promover la maxima adaptacion de cada servicio a las caracteristicas y necesidades de nuestros clientes y alumnos. Nuestro punto de arranque es el coaching ejecutivo de calidad que promueve una organizacion internacional de prestigio en todo el mundo, ICF. Estas son tambien las guias de nuestras intervenciones de coaching cuando un directivo y su empresa creen que un proceso dirigido por nosotros contribuira al logro de resultados extraordinarios para ambos. Estudiamos en profundidad cada caso, y aconsejamos con honestidad el tratamiento mas adecuado a las caracteristicas y circunstancias concretas de las personas y sus empresas.
+</respuesta>
+
+</preguntaFAQ>
+ 
+</listaPreguntasFAQ>
+</preguntas>
+</FAQ>
+<!--/xml-->

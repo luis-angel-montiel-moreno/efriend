@@ -1,0 +1,5819 @@
+# Archivo de tokens (unidades atomicas de conversacion)
+# tokens_all.cod
+a71
+{
+0 1 5
+0 2 0
+0 7 2093
+0 8 2
+0 1 1
+0 2 0
+0 7 1016
+0 8 6
+0 1 2
+0 2 0
+0 7 2093
+0 8 7
+0 6 140
+6 7 2093
+0 8 7
+0 1 3
+0 6 140
+7 1 4
+0 6 260
+2 9 0
+20 7 1000
+0 8 22
+0 1 21
+0 11 0
+0 2 0
+0 7 2087
+0 8 160
+0 6 120
+22 9 0
+40 7 1001
+0 8 43
+0 7 1004
+0 8 44
+0 1 42
+0 11 1
+0 2 0
+0 4 1
+0 15 41
+0 7 2087
+0 8 160
+0 6 120
+44 1 43
+0 11 4
+0 6 260
+43 9 0
+60 7 1002
+0 8 64
+0 7 1004
+0 8 65
+0 1 62
+0 11 2
+0 2 0
+0 4 1
+0 15 61
+0 7 2087
+0 8 160
+0 6 120
+65 1 63
+0 11 5
+0 6 260
+64 9 0
+80 7 1003
+0 8 85
+0 1 84
+0 11 3
+0 3 84
+0 1 86
+0 2 0
+0 4 1
+0 15 81
+0 7 2087
+0 8 160
+0 6 120
+84 1 85
+0 6 260
+85 9 0
+100 1 107
+0 11 2
+0 2 0
+0 4 1
+0 15 101
+0 1 108
+0 6 260
+120 1 122
+0 3 122
+0 1 123
+122 1 124
+0 3 121
+0 1 125
+0 6 260
+121 1 126
+0 6 260
+140 1 151
+0 3 145
+0 1 142
+0 2 0
+0 4 1
+0 15 141
+0 1 143
+0 2 0
+0 1 144
+0 3 146
+0 1 147
+0 3 147
+0 1 149
+0 2 0
+0 6 142
+145 1 145
+0 2 0
+0 1 146
+0 6 260
+146 1 146
+0 6 260
+147 1 148
+0 6 260
+142 9 0
+160 7 2065
+0 8 166
+0 1 164
+0 3 167
+0 1 163
+167 1 161
+0 2 0
+0 4 1
+0 15 161
+0 1 162
+0 6 260
+166 9 0
+180 7 2089
+0 8 187
+0 1 184
+0 6 260
+187 9 0
+200 7 2090
+0 8 209
+0 1 205
+0 6 260
+209 9 0
+220 7 2093
+0 8 229
+0 1 221
+0 2 0
+0 1 222
+0 2 0
+0 1 223
+0 6 260
+229 9 0
+240 1 246
+0 2 0
+0 1 247
+0 6 260
+260 9 0
+0 0 0
+5  Que onda! como vas con la uni?
+1  Por que dices que no sabes?
+2  Entiendo. Porque estas o te sientes asi?
+3  Ya veo. 
+4  Por lo pronto, nota la impermanencia de las emociones, pensamientos, etc.
+  Ya regresaremos en otra sesion al tema.
+21  Y eso por que? Cuentame detalles de forma breve.
+42  No muy relax, por que?. Cuentame detalles de forma breve.
+43  Que bueno que vaya relax! Disfruta, otro dia hablamos.
+41  d_problemaAlumno(@1).
+61  d_problemAlumno(@1).
+62  No muy bien.Por que? Cuentame detalles de forma breve.
+63  Me alegro! Que siga bien :) Hablamos despues.
+81  d_problemAlumno(@1).
+84  Regular, no es malo. Crees que las cosas pudieran empeorar?   
+85  Muy bien, esa es la actitud:)   
+86  Dice un maestro, mantener claridad y ecuanimidad.
+  Pero dime, por que te sientes asi?
+  califs, profes, etc.
+101  d_RespPosiblementeGrosera(@1).
+107  Por que dices eso?
+108  Te comparto algo que dijo Rumi.
+  Cuando empiezas a caminar, aparece el camino.
+122  Las calificaciones son regularmente una de las mayores aflicciones. &
+   Bueno, tal parece ser que el mundo se mueva con numeros y aunque no nos parezca, por ahora &
+   no podemos hacer mucho al respecto. He notado que entre mas nos preocupe una situacion, &
+   menos mejora y es peor la preocupacion entonces te recomiendo que simplemente hagas tu mayor &
+   esfuerzo, no pienses en la nota sino en dar tu maximo. Crees poder hacerlo?
+123  Excelente! Adelante, pues, a pensar siempre en hacer todo lo mejor que puedas =).
+124  Yo pienso que si puedes, no dejes que tus pensamientos de controlen, controlalos tu y cada vez &
+   que te llegue a la mente la palabra calificaciones, simplemente observala.
+   Incluso, Hazte amigo de ella. O simplemente sal a caminar o haz alguna cosa que te guste.
+   Te parece? 
+125  Excelente! Te deseo mucho exito =).
+126  Bueno, esta bien si no quieres intentarlo. Solo fue una recomendacion pero entonces tu podrias &
+   encontrar una estrategia para que te sientas mejor.
+151  Sientes algun malestar fisico?
+142  En que parte del cuerpo?
+141  d_DolorFisico(@1).
+143  Desde hace cuanto tienes la molestia?
+144  Puedes asociarlo con alguna situacion en especifico que hayas pasado? &
+   Una que a raiz de eso te hayas empezado a sentir mal.
+145  Notas algun cambio en ti, cualquiera que sea? 
+146  Observa como las sensaciones van y vienen.
+147  Quieres contarme al respecto?
+148  Esta bien, intenta relajar tu cuerpo. Descansa un rato.
+  Si hay molestias mejor acude al medico.
+149  Te leo, cuentame.
+164  Esta situacion te provoca un estres que no puedes controlar?
+161  Dirias que te sientes deprimido, triste, preocupado o ansioso?
+162  Entiendo. Tomalo con calma. Si te sigue afectando podrias enfermar &
+  Deseate lo mejor para ti.
+  Repite. Que sea yo feliz. Que este sano. 
+163  Bueno, creo que el estres es una sensacion comun entre los estudiantes. 
+  Observalo un momento y nota que le ocurre. Dsminuye, aumenta.
+  Como si fueras un cientifico, y tu cuerpo fuera tu laboratorio.
+184  Ya veo. La familia es un tema delicado. Ten paciencia para que no te &
+   afecte tanto. Necesito tiempo para pensar en algo que te ayude, mientras tanto &
+   intenta distraerte haciendo algo que te guste. Hablamos luego.
+205  No te aflijas tanto por una relacion sentimental. Aun eres muy joven &
+   aferrarse a las personas no es una buena idea porque siempre vas a sufrir &
+   Si fuiste tu quien cometio el error, tomalo como un aprendizaje y una preparacion &
+   para ser mejor persona. Pero si crees que se puede enmendar la situacion, comienza &
+   por pedir disculpas no solo con palabras, tambien con acciones &
+   Si no fuiste el responsable de los sucedido, &
+   agradece los buenos momentosy espera a que alguien mas llegue a tu vida, Mafalda &
+   diria que no llores por el Sol o las lagrimas te impediran ver las estrellas. &
+   Tomalo con calma, estaras bien. Hablamos otro dia.
+221  Sientes alguna molestia fisica?
+222  Puedes identificar que fue lo que sucedio desde que comenzaste a senirte mal?
+223  Tension es quien crees que beberiar ser.
+  Relajacion es quien eres de verdad.
+  ANONIMO.
+  Te invito a hacer algo que te guste.
+246  Por que dices eso?
+247  Cuantas mas maneras tenemos para conectar,&
+  mas desesperados parecemos estar por desconectar.
+  Pico Iyer.
+}
+a1
+{  
+   1 2
+   3  99 
+   1 4
+   2 0
+   4 1
+   7 2081
+   8 1
+   1 6
+   1 5
+   2 0
+   1 7
+   1 8
+   6 10
+1  7 2083
+   8 11
+   1 9
+   1 10
+   2 0
+   1 12
+   6 10
+11 1 5
+   2 0
+   1 3
+10 15 14
+99 9 0 
+   0 0
+2 Encuentras algun curso dificil?
+4 Cual curso?
+3 Pensaremos tu tutor, yo y tu mismo estrategias &
+  para que tengas exito en el curso, te parece?
+5 Por que encuentras @1 dificil?
+6 Las famosas Mates.
+7 Acude al centro de matematicas. Esta dentro de  CN 205.
+  Preguntale a la secretaria a la entrada.
+8 De todos modos, pensaremos tu tutor, yo y tu mismo estrategias &
+  para que tengas exito en el curso.
+9 Rayos, a mi tambien me costaba trabajo.
+10 Que tema se te dificulta?
+12 Bueno, pensaremos como facilitar las cosas para ti.
+14  e_cursodif(@1).
+}
+a4
+{  
+   1 2
+   3  99 
+   1 4
+   2 0
+   1 5
+   3 7
+   1 8
+   6 99
+7  1 3
+99 9 0
+   0 0
+2 ENCUENTRAS algun profe dificil?
+4 Cual profe? (inventa un pseudonimo si prefieres)
+3 Ya veo, pensaremos tu tutor, yo y tu mismo estrategias &
+  para que tengas exito con el/la profe.
+5 La materia que imparte te parece complicada?
+8 Posiblemente sea la materia y no el profesor, pero pensaremos en una &
+  forma para que te vaya muy bien en el curso.
+}
+a3
+{  
+   1 2
+   3  99 
+   1 4
+   2 0
+   4 1
+   7 2081
+   8 7
+   1 5
+   6 99
+7  7 2083
+   8 15
+   1 6
+   6 99
+15 1 3
+99 9 0
+   0 0
+2 Encuentras algun curso facil?
+4 Cual curso?
+3 Muy bien, pero no te confies x fa.
+5 Las matematicas =) &
+  Impresionante, solo no te vayas a confiar.
+6 Wow! Te felicito, a mi me costaba mucho, solo no te confies.
+}
+a6
+{  
+   1 2
+   3  99 
+   1 4
+   3 14
+   1 3
+   6 99
+14 1 5
+   2 0
+   1 6
+   6 99
+99 9 0
+   0 0
+2 Encuentras algun profe buena onda?
+4 Lo consideras barco?
+3 Muy bien, pero no te confies x fa.
+5 Por que lo consideras buena onda?
+6 Excelente, mucho exito!
+}
+a8
+{
+   18 8
+   8 99
+   1 2
+   3 10
+   1 3
+   6 99
+10 1 4
+99 9 0
+   0 0
+4  Con calma, te propongo platicar con tu profe de @0.
+3  Super. Pero no bajes la guardia.
+2  Tengo una pregunta sobre el curso que sentias dificil. &
+   Vas bien en @0 ?
+8  e_cursodif( * ).
+}
+c1
+{
+    1  1
+    5  9 
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  5
+    2  0
+    1  6
+    6  99
+9   1  10
+99  9  0
+    0  0
+1 øConoces el concepto de -estar en tu elemento-?
+2 Te comentare brevemente de que se trata.
+ (presiona tecla para continuar x fa).
+3 Todos somos ˙nicos, todos sabemos hacer algo mejor que el de al lado,&
+  todos sentimos la  pasiÛn por una actividad que nos encanta y para la que &
+  estamos dotados. El Elemento es eso, es la confluencia entre nuestras aptitudes &
+  y nuestra vocaciÛn natural.
+ (presiona tecla para continuar x fa).
+4  Estar en el Elemento significa perder la nociÛn del tiempo, &
+  estar conectado con tu yo m·s interno, que las ideas fluyan &
+  de dentro para afuera y al revÈs, sentir que est·s en armonÌa con el mundo &
+  que te rodea. En definitiva, disfrutar y ser feliz.
+ (presiona tecla para continuar x fa).
+
+5 Para llegar al Elemento tienes primero que saber quÈ es lo que &
+  te hace diferente del resto, segundo sentir pasiÛn por ello, &
+  tercero quererlo con todas tus fuerzas y por ˙ltimo, con la actitud adecuada, &
+  crear las oportunidades para conseguirlo.
+  (presiona tecla para continuar x fa).
+6 Ya te di una idea, busca tu elemento :)
+10 Que padre que lo conoces :)
+}
+c2
+{
+   1  1
+   5  10
+   1  10
+   3  8
+   1  13
+   3  9
+   1  11
+   6 99
+8  1 12
+   1  3
+   6 99
+9  1  14
+   6  99
+10 1  4
+   2  0
+   4  1
+   15  5
+99 9 0
+   0  0
+1 Crees estar "en tu elemento"? 
+3 Gracias.
+4 Cual es tu elemento? (tu carrera, algun deporte, etc)
+5 e_su_elemento(@1).
+10 Sientes   pasiÛn por una actividad que te  encante?
+11 Entonces esa actividad podria ser tu elemento.
+12 Entonces es posible que no hayas encontrado todavia tu elemento.
+13 Quieres llevar a cabo esta actividad con todas tus fuerzas?
+14 Posiblemente estes cerca de estar en tu emento.
+}
+c3
+{
+   1  1
+   5  9 
+   1  2
+   3  8
+   15 12
+   1  3
+   1  6
+   2  0
+   1  4
+   1  6
+   2  0
+   1  5
+   1  6
+   2  0
+   6  99
+8  15 14
+9  1 10
+   15 11 
+99 9 0
+   0  0
+1 øConoces el concepto de -estar en estado de flujo-?
+2 Te gustaria saber de que se trata?
+3 El Flow (tambiÈn llamado fluir) es un importante concepto en psicologÌa,&
+  que podrÌamos definir como el estado mental en el cual una persona est· &
+  completamente inmersa en la actividad que ejecuta.
+  Se caracteriza por un sentimiento de total implicaciÛn con la tarea que &
+  se experimenta mientras la actividad est· en curso.
+  El concepto de flujo fue propuesto inicialmente por el psicÛlogo y &
+ catedr·tico Mih·ly CsÌkszentmih·lyi en 1975 y a partir de entonces se ha &
+ difundido extensamente en diferentes campos, siendo especialmente importante &
+  en el ·mbito de la psicologÌa positiva.
+4 Ya en el contexto de la psicologÌa positiva podemos definir el flow &
+  como el alcance de un estado de felicidad o placer mediante a travÈs &
+ de la realizaciÛn de una actividad en la que la persona se encuentra &
+ completamente concentrada y absorta. En este estado de abstracciÛn,&
+ es cuando decimos que hemos perdido la nociÛn del tiempo &
+ (distorsiÛn del sentido temporal) o que se nos ha pasado el tiempo volando.
+  Durante este estado de flujo es normal alcanzar la plenitud creativa,&
+ dejarnos llevar sin distracciones, y disfrutar de las tareas &
+ por el mero placer de realizarlas, sin perseguir el Èxito.
+ En otras palabras, se disfruta de la tarea en sÌ misma y &
+ no del objetivo a cumplir. Seg˙n Csikszentmihalyi, el Èxito,&
+ como la felicidad, debe ser una consecuencia directa de la dedicaciÛn &
+ a algo m·s grande que uno mismo.
+5 Hay que tener en consideraciÛn que la actividad que nos permite alcanzar &
+ este estado debe situarse en un punto medio entre lo rutinario o aburrido y &
+ lo estresante. En ninguno de los dos extremos mencionados ser· posible &
+ alcanzar el estado de flow. TambiÈn es imprescindible que las habilidades &
+ de la persona estÈ en equilibrio con la demanda de la tarea.
+ Si una tarea nos parece extremadamente difÌcil o no estamos capacitados &
+ para hacerla, nos producir· ansiedad y no podremos ëfluir con ellaí.
+ Por el contrario, si una tarea nos resulta demasiado f·cil,&
+ no supondr· el suficiente desafÌo para lograr el estado &
+ de flujo.
+ Checate: PENDIENTE.
+6  (presiona tecla para continuar x fa).
+10 Que padre que lo conoces :)
+11 e_conoce(edoFlujo).
+12 e_gustaria_saber(flujo).
+14 e_ngustaria_saber(flujo).
+}
+c4
+{
+   1  1
+   5  8
+   15  5  
+   1  2
+   2  0
+   1  3
+   6  99
+8  15  4
+   1  6
+   2  0
+   1  3
+99 9  0
+   0  0
+1 Crees que ya experimentaste  "el fluir"?
+2 Porque crees que no has experimentado "el fluir"?
+3 Gracias.
+4 e_cree_experimento(flujo).
+5 e_ncree_experimento(flujo).
+6 Porque crees que ya experimentaste  "el fluir"?
+}
+e12
+{
+   1 1
+   22 0 
+   25 1
+1  1 2
+   2 0
+   1 3
+   2 0
+   1 4
+   2 0
+   1 5
+   2 0
+   1 6
+   2 0
+   1 7
+   2 0
+   1 8
+   2 0
+   1 9
+   2 0
+   1 10
+   2 0
+   1 12
+   3  9
+   1  15
+   3  16
+   15 17
+   6 11
+16 15 18
+   6  11
+9  1 14
+11 1  20 
+   9 0
+   0 0
+1 Si est√°s de acuerdo me gustar√≠a hablarte de los sentimientos &
+   y su relaci√≥n con los sentimientos.
+   (0 Bueno de algo servir√°,  1 Me interesa).
+2 Va a ser un dialogo hipotetico. Solo para tratar de darme a entender.
+  (Escribe OK para continuar).
+3 ¬øPuedes pensar en algunos momentos en el transcurso de la semana &
+   en los que te hayas sentido mal?
+ (Tu respuesta hipotetica: S√≠, hoy cuando sal√≠ de mi clase).
+ (pulsa cambio de linea para continuar). 
+4  ¬øCu√°l fue el sentimiento que experimentaste?
+    ¬øEstabas triste, angustiado, enojado? 
+   (Tu respuesta hipotetica: Triste )
+5  ¬øQu√© estabas viendo o escuchando?
+  (Tu respuesta hipotetica: Escuche a un compa√±ero decir &
+   que  hab√≠a sacado 100 en su examen).
+   (pulsa cambio de linea para continuar).
+6  ¬øY qu√© pensaste?
+   (Tu respuesta hipotetica: Que nunca podr√© sacar 100.
+    (pulsa cambio de linea para continuar).
+7  Entiendo.
+   Estos pensamientos son conocidos como pensamientos autom√°ticos, &
+   y todos los tenemos.
+   No estas intentando pensar en eso, pero llegan a tu mente de todas formas.
+   A veces son muy r√°pidos y eso nos hace m√°s conscientes &
+   de la emoci√≥n (tristeza) que del pensamiento.
+  En ocasiones estos pensamientos pueden no ser reales, &
+  pero igual nos afectan.
+   (Tu respuesta hipotetica: Ah).
+   (pulsa cambio de linea para continuar).
+8 Lo que haremos es ense√±arte a identificar estos pensamientos autom√°ticos &
+  y evaluar si son correctos.
+  Evaluemos el pensamiento ‚ÄúNunca podr√© sacar 100‚Äù &
+  ¬øC√≥mo te sentir√≠as al darte cuenta de que este solo &
+  fue un pensamiento tratando de enga√±arte &
+  y que cuando deseches esta tristeza, &
+  te des cuenta de que eres tan capaz de sacar 100 como tu compa√±ero?
+  (Tu respuesta hipotetica: Estar√≠a mejor).
+  (pulsa cambio de linea para continuar).
+9 ¬øTienes una hoja a la mano o algo donde anotar?
+  (Tu respuesta hipotetica: Si).
+  (pulsa cambio de linea para continuar).
+10 Vale, por fa escribe en una hoja.
+  -Nunca podr√© sacar 100- me hace sentir triste, &
+  ¬øTe das cuenta que tu pensamiento influye en lo que sientes?
+ (Tu respuesta hipotetica: mmm si).
+  (pulsa cambio de linea para continuar).
+12 Me di a entender?
+14 Pensare mas tarde como explicarme mejor.
+15 Que bien :)
+   Te parecio interesante el ejercicio?
+17 h_gusto(e12).
+18 h_disgusto(e12).
+20 Grcs.
+}
+e32
+{  
+   1 2
+   2 0 
+   1 7
+   2 0
+   1 8
+   2 0
+   1 11
+   2 0
+   1 12
+   2 0
+   1 13
+   2 0
+   1 14
+   2 0
+   1 5
+   2 0
+   1 9
+   3 3
+1  15 20
+   6  4
+3  15 21
+4  1 10
+   2  0
+   1 15
+   2 0
+99 9 0 
+   0 0
+2 Me gustarÌa que por favor que intentes  &
+  el ejercicio de meditaciÛn que consiste en caminar consciente.
+  (Pulsa -enter- x fa).
+5 Si puedes ahora mismo, inicia tu ejercicio por favor, &
+  sÛlo por un par de minutos.
+  Cuando termines pulsa -enter- por favor.
+7 Te podrÌa ayudar a liberarte progresivamente de la ansiedad, &
+  el estrÈs, la infelicidad y el agotamiento. &
+  Pero todavÌa m·s importante, es que te ayudara a conocerte mejor.
+  El ejercicio es muy simple y te tomar· un par de minutos.&
+  (Pulsa  -enter- para continuar).
+8 Hay ciertas instrucciones simples que debes de seguir.
+  Te las explicarÈ primero y despuÈs intentar·s el ejercicio.
+   (Pulsa -enter- x fa).
+9  øTe agradÛ aunque sea un poco el ejercicio?
+10 Ahora es muy prematuro para que realmente notes & los beneficios de este ejercicio.
+   Al intentarlo frecuentemente, estar·s en mejor armonÌa con tu cuerpo.
+   (Pulsa -enter- x fa).
+11 Planifica andar durante diez minutos o m·s.
+   Encuentra un lugar tranquilo en tu casa o &
+   donde estÈs en el que puedas andar de un lado &
+   para otro al menos de seis  a diez metros cada vez, &
+   o en cÌrculo.
+   Toma la decisiÛn de usar el tiempo para cultivar la &
+   consciencia amable momento a momento.
+   (Pulsa -enter- x fa).
+12 Permanece de pie, inmÛvil, durante un momento y fija &
+  la atenciÛn  en tu cuerpo.
+  SÈ consciente de ti mismo en la posiciÛn de pie.
+  Siente tu cuerpo.
+  Empieza a andar lenta y pausadamente.
+  Nota lo que  percibes al levantar un pie, da un paso hacia adelante, &
+  y b·jalo mientras el otro pie empieza a elevarse del suelo.
+  Haz lo mismo con el otro pie. 
+  Siente las sensaciones de levantar,dar un paso &
+  y posar el pie, una y otra vez.
+  SiÈntete libre de usar las palabras <<levantar>>,<<dar un paso>>, &
+ <<posar>> pare centrar tu atenciÛn en la tarea.
+ (Escribe OK para continuar).
+13 Cuando tu mente vague, vuelve suavemente a las sensaciones  fÌsicas  de caminar.
+ Si sientes cualquier impulso de moverte m·s de prisa, limÌtate a &
+ percibirlo  y vuelve a las sensaciones del caminar.
+ Haz esto con amabilidad y gratitud.
+ Tus pies, relativamente pequeÒos, est·n soportando todo tu cuerpo; &
+ tus caderas est·n sosteniendo todo tu torso.
+ Experimenta la maravila de andar.
+ (Pulsa -enter- para continuar).
+14 MuÈvete de manera lenta y fluida a travÈs del espacio, &
+  siendo  consciente de que est·s  andando.
+ Algunas personas les resulta m·s f·cil mantener la atenciÛn &
+ bajo las rodillas,o exclusivamente en la planta de los pies.
+ Cuando llegues al final del espacio que tienes para andar, &
+ p·rate un momento,haz una respiraciÛn consciente, &
+ permanece anclado en el cuerpo e invierte la direcciÛn.
+ Al final del perÌodo de meditaciÛn, invÌtate a estar &
+ plenamente atento a las sensaciones del cuerpo durante todo el dÌa.
+ Nota las sensaciones de andar cuando pases a la actividad siguiente.
+ (Escribe OK para continuar).
+15 Te sugiero que lo intentes una vez a la semana.
+   Si es posible, intentalo por 20 minutos.
+   Si lo vez difÌcil, intÈntalo por lo menos 10 minutos.
+   (Pulsa -enter- x fa).
+20 h_gusto(e32).
+21 h_disgusto(e32).
+}
+e31
+{  
+   1 2
+   2 0 
+   1 7
+   2 0
+   1 8
+   2 0
+   1 11
+   2 0
+   1 12
+   2 0
+   1 5
+   2 0
+   1 9
+   3 3
+1  15 20
+   6  4
+3  15 21
+4  1 10
+   2  0
+   1 15
+   2 0
+99 9 0 
+   0 0
+2 Me gustaria que por favor que intentes  &
+  el ejercicio de meditacion en la respiracion.
+  Ya te lo propuse antes.
+  Quizas lo recuerdes.
+  Pulsa enter x fa.
+5 Inicia tu ejercicio por favor.
+  Cuando terminas pulsa enter por favor.
+7 Te podria ayudar a liberarte progresivamente de la ansiedad, &
+  el estres, la infelicidad y el agotamiento. &
+  El ejercicio es muy simple y te tomara un minuto.&
+  (Escribe OK para continuar).
+8 El ejercicio consiste de 5 pasos.
+  Te los explicare primero y despues intentaras el ejercicio.
+  Pulsa enter x fa.
+9  Te agrado aunque sea un poco el ejercicio?
+10 Ahora es muy prematuro para que realmente notes & los beneficios de este ejercicio.
+   Al intentarlo frecuentemente, llegaras a la comprension profunda de que &
+   los pensamientos y sentimientos son pasajeros.
+   Vienen y van, y en ultima instancia tu puedes elegir si actuas sobre ellos o no.
+   Se trata de una observacion sin critica, de ser paciente,& compasivo y amoroso con uno mismo.
+   Pulsa enter x fa.
+11 Paso1 & Te sentaras en una silla de preferencia de respaldo recto.
+   Cerraras los ojos o simplemente bajaras la mirada.
+   Paso2 & Te concentraras en observar tu respiracion.
+   Como entra y sale el aire de tu cuerpo.
+   Paso3 & Es muy probable que al cabo de un rato tu mente empiece a divagar.
+   Cuando ocurra, vuelve a centrarte en la respiracion.
+   Pulsa enter x fa.
+12 Paso4 & Posiblemente su mente se calme (o no).
+   Ocurra lo que ocurra, observa muy brevemente la sensacion.
+   Deja que esta sea como tenga que ser.
+   Regresa a observar tu respiracion.
+   Paso5 & Transcurrido el minuto, gentilmente abre tus ojos y & toma conciencia de donde estas.
+   Pulsa enter x fa.
+15 Te sugiero que lo intentes unas 3 veces al dia.
+   Si es posible, intentalo una vez al dia por 20 minutos.
+   Si lo vez dificial intentalo por 10 minutos.
+   Pulsa enter x fa.
+20 h_gusto(e31).
+21 h_disgusto(e31).
+}
+e30
+{  
+   1 2
+   3  9
+   1 4
+   3 9
+   1 6
+   3 2
+   6 9
+2  1 3
+   6 10
+9  1 13
+10 1 7
+   2 0
+   1 8
+   2 0
+   1 11
+   2 0
+   1 12
+   2 0
+   1 5
+   2 0
+   1 9
+   3 4
+   15 20
+   6 3
+4  15 21
+3  1 10
+   2  0
+99 9 0 
+   0 0
+2 Has estado alguna vez tirado en la cama preocupado por tus pensamientos?
+3 Al dia siguiente posiblemente te sentiste cansado.
+4 Ocurrio recientemente?
+5 Inicia tu ejercicio por favor.
+  Cuando terminas pulsa enter por favor.
+6 Dormiste bien ese dia?
+7 Te tratare de enseÒar a liberarte progresivamente de la ansiedad,&
+  el estres, la infelicidad y el agotamiento. &
+  Iniciaremos con un ejercicio muy simple que tomara un minuto.
+   (Pulsa enter x fa).
+8 El ejercicio consiste de 5 pasos.
+  Te los explicare primero y despues intentaras el ejercicio.
+  Pulsa enter x fa.
+9  Te agrado aunque sea un poco el ejercicio?
+10 Ahora es muy prematuro para que realmente notes & los beneficios de este ejercicio.
+   Al intentarlo frecuentemente, llegaras a la comprension profunda de que &
+   los pensamientos y sentimientos son pasajeros.
+   Vienen y van, y en ultima instancia tu puedes elegir si actuas sobre ellos o no.
+   Se trata de una observacion sin critica, de ser paciente,& compasivo y amoroso con uno mismo.
+   Pulsa enter x fa.
+11 Paso1 & Te sentaras en una silla de preferencia de respaldo recto.
+   Cerraras los ojos o simplemente bajaras la mirada.
+   Paso2 & Te concentraras en observar tu respiracion.
+   Como entra y sale el aire de tu cuerpo.
+   Paso3 & Es muy probable que al cabo de un rato tu mente empiece a divagar.
+   Cuando ocurra, vuelve a centrarte en la respiracion.
+   Pulsa enter x fa.
+12 Paso4 & Posiblemente su mente se calme (o no).
+   Ocurra lo que ocurra, observa muy brevemente la sensacion.
+   Deja que esta sea como tenga que ser.
+   Regresa a observar tu respiracion.
+   Paso5 & Transcurrido el minuto, gentilmente abre tus ojos y & toma conciencia de donde estas.
+   Pulsa enter x fa.
+13 La siguiente actividad suele ser util casi para cualquiera.
+20 h_gusto(e30).
+21 h_disgusto(e30).
+}
+e3
+{
+    1  1
+    2  20
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  11
+    2  0
+    1  12
+    2  0
+    1  13
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15  20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema,& te quiero proponer que intentes un ejercicio para la mente.
+   Se trata de notar tu sentido del gusto.
+   Este ejercicio te tomara no mas de diez minutos.
+   (Escribe enter capa continuar).
+2  Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   Necesitas un pedacito de pan.
+   Si no tienes pan, imaginate que lo tienes.
+   En otro momento puedes intentar el ejercicio con un pan.
+   &
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+  SiÈntate de manera que tus huesos sostengan tus musculos y  & 
+  no necesites ning˙n esfuerzo para permanecer en la misma postura &
+  durante todo el ejercicio.
+  Trata de mantener la espalda recta y suavemente apoyada, &
+  con los omoplatos ligeramente caidos y la barbilla suavemente doblada &
+  hacia el pecho. 
+  Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+  soltar toda la carga que arrastras.
+  &
+  (Pulsa tecla para continuar x fa).
+4 Detente a observar por unos segundos el trozo de pan &
+  que tienes delante de tus ojos y di o piensa "este es un trozo de pan".
+  Parece obvio pero, si durante este este momento te absorben otros &
+  pensamientos, no seras consciente de este trozo de pan y lo comeras &
+  de manera automatica e inconsciente.
+  &
+ (Pulsa tecla para continuar x fa).
+11 Toma consciencia del recorrido que siguio este alimento &
+  antes de llegar hasta ti.
+  Se preparo la tierra, se sembro, se espero a su crecimiento, la tierra, &
+  el agua y el sol hicieron su trabajo y luego los granos fueron &
+  llevados a un molino donde se molieron; se consiguio la harina, &
+  que llego fue llevada en sacos a la panaderia, donde se le agrego agua,&
+  levadura y sal, para luego cocinarlo en un horno y, quizas mas tarde,&
+  fue llevado a un supermercado, hasta que por fin llego hasta ti.
+  &
+  (Pulsa tecla para continuar x fa).
+12 Alguna vez de imaginaste cuantas personas, trabajo y esfuerzo hay detras &
+  de un simple trozo de pan?
+  Cuan agradecidos deberaimos de estar antes de ponerlo en nuestra boca?
+  Ahora pruebalo y tomate tu tiempo para disfrutar saborear.
+  Este es un momento para reponer energias.
+  Intenta masticar mas lento de lo regular.
+  De esta manera, te daras cuenta mas facilmente si estas satisfecho o no &
+  y quizas notes  sabores, texturas o aromas en tu trozo de pan, &
+  que antes no habias percibido.
+&
+  (Pulsa tecla para continuar x fa).
+13 Tu mente vagara y se apartara de la sensaciÛn del gusto &
+  muchas veces por minuto. No te preocupes por lo frecuente que lo hace.
+  Vuelve suavemente a tu tozo de pan y sigue comiendolo lentamente.
+  Dale pequeÒas mordidas y sigue saboreando tu pan.
+  Estas aqui y ahora con tu experiencia de saborear tu pan.
+  (Pulsa tecla para continuar x fa). 
+  &
+5  Cuando termines, regresa poco a poco a tu compu, tu cel, etc.
+   &
+   (pulsa cualquier tecla para continuar x fa).
+6  øComo te sentiste? 
+7  Alimentarse en el presente se convierte en una excelente nutricion &
+   no solo para tu cuerpo, sino tambien para tu mente.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo, no hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :)
+20 h_gusto(e3).
+}
+e23
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  11
+    2  0
+    1  12
+    2  0
+    1  13
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15 20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema,& te quiero proponer que intentes un ejercicio para la mente.
+   Se trata de notar tu sentido del gusto. Ya te lo platique anteriormente.
+   Este ejercicio te tomar· no mas de diez minutos.
+   &
+   Vale?
+2  Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   Necesitas un pedacito de pan.
+   Si no tienes pan, imaginate que lo tienes.
+   En otro momento puedes intentar el ejercicio con un pan.
+   &
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+  Sientate de manera que tus huesos sostengan tus musculos y  & 
+  no necesites ning˙n esfuerzo para permanecer en la misma postura &
+  durante todo el ejercicio.
+  Trata de mantener la espalda recta y suavemente apoyada, &
+  con los omoplatos ligeramente caidos y la barbilla suavemente doblada &
+  hacia el pecho. 
+  Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+  soltar toda la carga que arrastras.
+  &
+  (Pulsa tecla para continuar x fa).
+4 Detente a observar por unos segundos el trozo de pan &
+  que tienes delante de tus ojos y di o piensa "este es un trozo de pan".
+  Parece obvio pero, si durante este este momento te absorben otros &
+  pensamientos, no seras consciente de este trozo de pan y lo comeras &
+  de manera automatica e inconsciente.
+  &
+ (Pulsa tecla para continuar x fa).
+11 Toma consciencia del recorrido que siguio este alimento &
+  antes de llegar hasta ti.
+  Se preparo la tierra, se sembro, se espero a su crecimiento, la tierra, &
+  el agua y el sol hicieron su trabajo y luego los granos fueron &
+  llevados a un molino donde se molieron; se consiguio la harina, &
+  que llego fue llevada en sacos a la panaderia, donde se le agrego agua,&
+  levadura y sal, para luego cocinarlo en un horno y, quizas mas tarde,&
+  fue llevado a un supermercado, hasta que por fin llego hasta ti.
+  &
+  (Pulsa tecla para continuar x fa).
+12 Alguna vez de imaginaste cuantas personas, trabajo y esfuerzo hay detras &
+  de un simple trozo de pan?
+  Cuan agradecidos deberaimos de estar antes de ponerlo en nuestra boca?
+  Ahora pruebalo y tomate tu tiempo para disfrutar saborear.
+  Este es un momento para reponer energias.
+  Intenta masticar mas lento de lo regular.
+  De esta manera, te daras cuenta mas facilmente si estas satisfecho o no &
+  y quizas notes  sabores, texturas o aromas en tu trozo de pan, &
+  que antes no habias percibido.
+&
+  (Pulsa tecla para continuar x fa).
+13 Tu mente vagara y se apartara de la sensacion del gusto &
+  muchas veces por minuto. No te preocupes por lo frecuente que lo hace.
+  Vuelve suavemente a tu tozo de pan y sigue comiendolo lentamente.
+  Dale pequeÒas mordidas y sigue saboreando tu pan.
+  Estas aqui y ahora con tu experiencia de saborear tu pan.
+  (Pulsa tecla para continuar x fa). 
+  &
+5  Cuando termines, regresa poco a poco a tu compu, tu cel, etc.
+   &
+   (pulsa cualquier tecla para continuar x fa).
+6  øCÛmo te sentiste? 
+7  Alimentarse en el presente se convierte en una excelente nutricion &
+   no solo para tu cuerpo, sino tambien para tu mente.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo, no hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :)
+20 h_gusto(e23).
+}
+e8
+{
+     1   1
+     2   0
+     1   2
+     2   0
+     1   4
+     2   0
+     1   5
+     2   0
+     1   6
+     2   0
+     4   1
+     1   7
+     2   0
+     1   23
+     2   0
+     1  24
+     3   2
+     15 20
+2    1   8
+     0   0
+#
+1 Que sabes sobre la influencia de los pensamientos en nuestros estados de animo?
+2 Esta bien, veremos una idea util, sera rapido e interesante.
+  Sera un poco como escribir un guion de una escena de una peli.
+   (Porfa pulsa OK para seguir adelante).
+4 Usaremos un ejemplo de un par de chicos.
+  Mira los 3 cuadros a continuacion:
+  &
+  cuadro1 (situacion)   --> cuadro2(pensamiento)   --> cuadro3(emocion).
+  &
+  El primer cuadro dice "situacion". El segundo dice "pensamiento" 
+  y el tercero dice "emocion".
+(Porfa pulsa OK para seguir adelante).
+5  En nuestro ejemplo del par de chicos, la "situacion" podria ser: &
+    Baile de chico con su novia. &
+    Colocamos baile en el primer cuadro.
+  &
+    cuadro1(baile)   --> cuadro2(  )   --> cuadro3(   ).
+  &
+    Quizas justo antes de bailar, el chico sintio verguenza. A veces pasa. &
+   (Porfa pulsa OK para seguir adelante).
+6  Ya tenemos parcialmente llenos nuestros cuadros.
+  &
+   cuadro1 (baile)   --> cuadro2()   --> cuadro3(verguenza).
+  &
+   Ahora que crees que va en el segundo cuadro en el ejemplo de los chicos.
+   Debe ser un pensamiento.
+   Precisamente el pensamiento que le origino sentir verguenza.
+   Se te ocurre algun PENSAMIENTO del chico?
+   IDEAS <No se bailar, Voy a hacer el ridiculo, Se aburrira conmigo>.
+   Inventa algo x favor, si es posible con una sola palabra.
+7  Ya tenemos finalmente llenos nuestros cuadros.
+  &
+   cuadro1 (baile)   --> cuadro2(@1)   --> cuadro3(verguenza). &
+   (teclea enter x fa para continuar).
+23 En palabras:
+   La situacion "baile" origino el pensamiento "@1".
+   El pensamiento "@1"  origino el sentimiento "verguenza".
+(teclea enter x fa para continuar).
+24 Piensalo x fa. Es muy util para conocernos mejor a nosotros mismos.
+   Ya intentaremos este ejercicio en tu vida. 
+   Espero que el ejercicio te pareciera un poco interesante.
+21 Lo intentamos en otro momento.
+8  Grcs :)
+20 h_gusto(e8).
+}
+e9
+{ 
+     1   16
+     3   2
+     1   3
+     3   2
+     1   4
+     2   0
+     1   5
+     1   99
+     2   0
+     1   7
+     2   0
+     4   1
+     1   14
+     2   0
+     4   3
+     7   1000
+     1   15
+     5   20 
+     1   17
+     2   0
+     1   18
+     2   0
+ 20  1   19
+     2   0
+     4   2
+     1   22
+     1   99
+     2   0
+     1   23
+     1   99
+     2   0
+     1   24
+     1   99
+     1   25
+     3   3
+     15  20
+ 3   1   26
+     6   77
+ 2   1   21
+ 77  1   99
+     0   0
+99  Presiona cambio de linea x fa?
+16  Me atrevevere a preguntarte:
+     Tienes algun malestar emocional en estos dias?
+3 Te animas a contarme porque?
+  O ya se, solo piensalo o anotalo en una libreta; como prefieras.
+  Entonces que dices, seguimos adelante? 
+4  Super. Recuerda con cuidado lo siguiente: &
+   Pensaras en la situacion del incidente que genero el malestar.
+   Adelante, te escucho (o solo pulsa OK cuando lo tengas bien pensado):
+5  Gracias :)
+   Ahora tus mismo estructuraras tu estado mental. Sera interesante, vas a ver.
+7 Regreremos nuevamente a los 3 cuadros a continuacion:
+  &  
+  cuadro1 (    )   --> cuadro2(   )   --> cuadro3(   ).
+  &
+  Escribe por favor la situacion del incidente que me acabas de describir.
+  Etiquetala solo con una palabra & (la que te recuerde mejor la situacion del incidente).
+  Si lo necesitas tomate un minuto para escribirla x fa.
+14 Grcs. Ahora, por fa  escribe el contenido del tercer cuadro.
+   Unicamente usa una palabra. 
+   En el ejemplo del par de chicos dijimos que sentia verguenza.   
+15 Gracias :)Ya tenemos parcialmente llenos nuestros cuadros.
+   &
+   cuadro1 (@1)   --> cuadro2()   --> cuadro3(@3).
+   &
+   Grcs. Ahora tu crees que puedas llenar el segundo cuadro?
+17 Vamos a ver. Imaginate detalles de la escena de tu incidente.
+   Escribelos o solo pulsa OK cuando los recuerdes lo mejor posible.
+18 Recuerda la situacion de tu incidente, o sea "@1".
+   Como te sientes ahora (recordando la situacion de tu incidente)?
+   Dijiste "@3" hace un momento.
+19 Que esta pasando x tu mente (en la escena de tu guion)?
+22 Ya describiste tu guion :)
+   &
+   cuadro1 (@1). -->. cuadro2(@2). -->. cuadro3(@3).
+   &
+23 En palabras:
+   La situacion "@1" te origino el pensamiento "@2".
+   El pensamiento "@2" te origino el sentimiento "@3".
+24 Piensalo x fa. Es muy util para conocernos mejor a nosotros mismos.
+   Sirve para amortiguar el golpe, por decirlo de alguna manera. 
+25 Te gusto o parecio interesante el ejercicio?
+26 vale.
+21 Lo intentamos en otro momento.
+20 h_gusto(e9).
+}
+e10
+{ 
+     1   16
+     3   2
+     1   3
+     3   2
+     1   4
+     2   0
+     1   5
+     1   99
+     2   0
+     1   7
+     2   0
+     4   1
+     1   14
+     2   0
+     4   3
+     7   1000
+     1   15
+     5   20 
+     1   17
+     2   0
+     1   18
+     2   0
+ 20  1   19
+     2   0
+     4   2
+     1   22
+     1   99
+     2   0
+     1   23
+     1   99
+     2   0
+     1   24
+     1   99
+     1   25
+     3   3
+     15  20
+ 3   1   26
+     6   77
+ 2   1   21
+ 77  1   99
+     0   0
+99  Presiona cambio de linea x fa?
+16 Intentaremos el ejercicio de identificacion de pensamientos automaticos. & 
+   Ya te lo propuse anteriormente. 
+   Has tenido algun malestar emocional en estos dias? 
+   (Quizas un ligera molestia).
+3 Te animas a contarme porque?
+  O ya se, solo piensalo o anotalo en una libreta; como prefieras.
+  Entonces que dices, seguimos adelante? 
+4  Super. Recuerda con cuidado lo siguiente: &
+   Pensaras en la situacion del incidente que genero el malestar.
+   Adelante, te escucho (o solo pulsa OK cuando lo tengas bien pensado):
+5  Gracias :)
+   Ahora tus mismo estructuraras tu estado mental. Sera interesante, vas a ver.
+7 Regreremos nuevamente a los 3 cuadros a continuacion:
+  &  
+  cuadro1 (    )   --> cuadro2(   )   --> cuadro3(   ).
+  &
+  Escribe por favor la situacion del incidente que me acabas de describir.
+  Etiquetala solo con una palabra & (la que te recuerde mejor la situacion del incidente).
+  Si lo necesitas tomate un minuto para escribirla x fa.
+14 Grcs. Ahora, por fa  escribe el contenido del tercer cuadro.
+   Unicamente usa una palabra. 
+   En el ejemplo del par de chicos dijimos que sentia verguenza.   
+15 Gracias :)Ya tenemos parcialmente llenos nuestros cuadros.
+   &
+   cuadro1 (@1)   --> cuadro2()   --> cuadro3(@3).
+   &
+   Grcs. Ahora tu crees que puedas llenar el segundo cuadro?
+17 Vamos a ver. Imaginate detalles de la escena de tu incidente.
+   Escribelos o solo pulsa OK cuando los recuerdes lo mejor posible.
+18 Recuerda la situacion de tu incidente, o sea "@1".
+   Como te sientes ahora (recordando la situacion de tu incidente)?
+   Dijiste "@3" hace un momento.
+19 Que esta pasando x tu mente (en la escena de tu guion)?
+22 Ya describiste tu guion :)
+   &
+   cuadro1 (@1). -->. cuadro2(@2). -->. cuadro3(@3).
+   &
+23 En palabras:
+   La situacion "@1" te origino el pensamiento "@2".
+   El pensamiento "@2" te origino el sentimiento "@3".
+24 Piensalo x fa. Es muy util para conocernos mejor a nosotros mismos.
+   Sirve para amortiguar el golpe, por decirlo de alguna manera. 
+25 Te gusto o parecio interesante el ejercicio?
+26 vale.
+21 Lo intentamos en otro momento.
+20 h_gusto(e10).
+}
+e19
+{ 
+     1   16
+     3   2
+     1   3
+     3   2
+     1   4
+     2   0
+     1   5
+     1   99
+     2   0
+     1   7
+     2   0
+     4   1
+     1   14
+     2   0
+     4   3
+     7   1000
+     1   15
+     5   20 
+     1   17
+     2   0
+     1   18
+     2   0
+ 20  1   19
+     2   0
+     4   2
+     1   22
+     1   99
+     2   0
+     1   23
+     1   99
+     2   0
+     1   24
+     1   99
+     1   25
+     3   3
+     15  20
+ 3   1  26
+     6   77
+ 2   1   21
+ 77  1   99
+     0   0
+99  Presiona cambio de linea x fa?
+16 Intentaremos el ejercicio de identificacion de pensamientos automaticos. & 
+   Ya te lo propuse anteriormente. 
+   Has tenido algun malestar emocional en estos dias? 
+   (Quizas un ligera molestia).
+3  Piensalo o anotalo en una libreta; como prefieras.
+  Entonces que dices, seguimos adelante? 
+4  Super. Recuerda con cuidado lo siguiente: &
+   Pensaras en la situacion del incidente que genero el malestar.
+   Adelante, te escucho (o solo pulsa OK cuando lo tengas bien pensado):
+5  Gracias :)
+   Ahora tus mismo estructuraras tu estado mental. Sera interesante, vas a ver.
+7 Regresemos nuevamente a los 3 cuadros a continuacion:
+  &  
+  cuadro1 (    )   --> cuadro2(   )   --> cuadro3(   ).
+  &
+  Escribe por favor la situacion del incidente que me acabas de describir.
+  Etiquetala solo con una palabra & (la que te recuerde mejor la situacion del incidente).
+  Si lo necesitas tomate un minuto para escribirla x fa.
+14 Grcs. Ahora, por fa  escribe el contenido del tercer cuadro.
+   Unicamente usa una palabra. 
+   En el ejemplo del par de chicos dijimos que sentia verguenza.   
+15 Gracias :)Ya tenemos parcialmente llenos nuestros cuadros.
+   &
+   cuadro1 (@1)   --> cuadro2()   --> cuadro3(@3).
+   &
+   Grcs. Ahora tu crees que puedas llenar el segundo cuadro?
+17 Vamos a ver. Imaginate detalles de la escena de tu incidente.
+   Escribelos o solo pulsa OK cuando los recuerdes lo mejor posible.
+18 Recuerda la situacion de tu incidente, o sea "@1".
+   Como te sientes ahora (recordando la situacion de tu incidente)?
+   Dijiste "@3" hace un momento.
+19 Que esta pasando x tu mente (en la escena de tu guion)?
+22 Ya describiste tu guion :)
+   &
+   cuadro1 (@1). -->. cuadro2(@2). -->. cuadro3(@3).
+   &
+23 En palabras:
+   La situacion "@1" te origino el pensamiento "@2".
+   El pensamiento "@2" te origino el sentimiento "@3".
+24 Piensalo x fa. Es muy util para conocernos mejor a nosotros mismos.
+   Sirve para amortiguar el golpe, por decirlo de alguna manera. 
+21 Lo intentamos en otro momento.
+25 Te gusto o te parecio interesante el ejercicio?
+26 vale.
+20 h_gusto(e19).
+}
+e1
+{
+    1  1
+    2  0
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15 20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema,&
+   te quiero proponer que intentes un ejercicio para tu mente.
+   Se trata de notar los sonidos del ambiente.
+   Si quieres y tienes un poco de tiempo, &
+   haz la siguiente actividad para que te relajes un poco &
+   y puedas continuar con todo este rollo de la escuela.
+   Este ejercicio te tomar· no m·s de cinco minutos.
+   (escribe enter para continuar).
+2  Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   no le prestes atencion a tu celular, &
+   aunque te acabe de llegar un snap.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Sientate como te sientas mas comodo(a) y cierra los ojos. 
+   Imagina que tus oidos son como antenas&  que recogen todos los sonidos
+   del entorno. Sientate y recibe las vibraciones de los sonidos.
+   No trates de etiquetar los sonidos, ni de que te gusten y &
+   no centres tu atenciÛn en ning˙n sonido en particular; &
+   LimÌtate a escuchar lo que te llega.
+   Deja que los sonidos vayan y vengan uno tras otro.
+   (Pulsa tecla para continuar x fa).
+4  No trates de encontrar sonidos a tu alrededor.
+   Dejalos que lleguen. 
+   Cuando observes que tu mente se ha extraviado tras un pensamiento, &
+   cosa que inevitablemente sucedera, &
+   simplemente vuelve a la tarea de escuchar.
+   Pasados cinco minutos, abre lentamente los ojos.
+   (Pulsa tecla para continuar x fa).
+5  Inicia el ejercicio.
+   (cuando termines, pulsa tecla para continuar x fa).
+6  øCÛmo te sentiste? 
+7  Conforme vayas realizando este tipo de ejercicios, &
+   tu nivel de estres bajara.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo.
+   No hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :) 
+20 h_gusto(e1).
+} 
+e21
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    15 20
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15 20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema, te quiero proponer que intentes nuevamente &
+   el ejercicio que trata de notar los sonidos del ambiente.
+   Vale?
+2  Recuerda que este ejercicio te tomar· no m·s de cinco minutos.
+   Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   no le prestes atencion a tu celular, &
+   aunque te acabe de llegar un snap.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Sientate como te sientas m·s comodo(a) y cierra los ojos. 
+   Imagina que tus oÌdos son como antenas&  que recogen todos los sonidos
+   del entorno. Sientate y recibe las vibraciones de los sonidos.
+   No trates de etiquetar los sonidos, ni de que te gusten y &
+   no centres tu atenciÛn en ning˙n sonido en particular; &
+   LimÌtate a escuchar lo que te llega.
+   Deja que los sonidos vayan y vengan uno tras otro.
+   (Pulsa tecla para continuar x fa).
+4  No trates de encontrar sonidos a tu alrededor.
+   Dejalos que lleguen. 
+   Cuando observes que tu mente se ha extraviado tras un pensamiento, &
+   cosa que inevitablemente sucedera, &
+   simplemente vuelve a la tarea de escuchar.
+   Pasados cinco minutos, abre lentamente los ojos.
+   (Pulsa tecla para continuar x fa).
+5  Inicia el ejercicio.
+   (cuando termines, pulsa tecla para continuar x fa).
+6  øCÛmo te sentiste? 
+7  Conforme vayas realizando este tipo de ejercicios, &
+   tu nivel de estres bajara.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo.
+   No hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :) 
+20 h_gusto(e21).
+} 
+e6
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  11
+    2  0
+    1  12
+    2  0
+    1  13
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    15 20
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15  20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema,& te quiero proponer que intentes un ejercicio para la mente.
+   Se trata de notar tu respiracion.
+   Si quieres y tienes un poco de tiempo, &
+   haz esta actividad para sentirte  un poco mejor &
+   y puedas continuar con todo este rollo de la escuela.
+   Este ejercicio te tomar· diez minutos.
+   Vale?
+2  Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   no le prestes atencion a tu celular, &
+   aunque te acabe de llegar un snap.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+  SiÈntate de manera que tus huesos sostengan tus m˙sculos y  & 
+  no necesites ning˙n esfuerzo para permanecer en la misma postura &
+  durante todo el ejercicio.
+  Trata de mantener la espalda recta y suavemente apoyada, &
+  con los omÛplatos ligeramente caÌdos y la barbilla suavemente doblada &
+  hacia el pecho. 
+  Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+  soltar toda la carga que arrastras.
+  Luego deja que los p·rpados se cierren suavemente, o parcialmente, &
+  como te sientas m·s cÛmodo. Forma una imagen de ti mismo sentado.
+  Advierte tu postura en la silla como si te estuvieras viendo desde fuera.
+  (Pulsa tecla para continuar x fa).
+4 Deja que el cuerpo y la mente sean como son.
+  Lleva ahora tu atenciÛn a la respiraciÛn.
+  Presta atenciÛn al lugar donde notas la respiraciÛn con m·s fuerza.
+  Algunas personas las sienten en las ventanas de la nariz,
+  o como una brisa fresca en el labio superior. 
+  Otras personas tal vez sientan que el pecho sube y baja. 
+  Otras sienten m·s claramente la respiraciÛn el abdomen,
+  porque el vientre se hincha con cada inspiraciÛn y &
+  se contrae con la espiraciÛn.
+  (Pulsa tecla para continuar x fa).
+11  Explora suavemente tu cuerpo y &
+  descubre donde te resulta m·s facil notar tu respiraciÛn.
+  Descubre ahora cu·ndo sientes la respiracion con mas fuerza:
+  al espirar o al inspirar.
+  Si no encuentras diferencia, elige uno de los dos.
+  (Para simplificar las instrucciones, &
+  supondrÈ para el resto del ejercicio &
+  y a lo largo de tu practica que eliges la espiraciÛn y
+  que la localizaciÛn elegida son las ventanas de la nariz) &
+  Presta atenciÛn al sentimiento de cada respiracion. 
+  Siente el aire que sale de la nariz cada vez que espiras.
+  Luego date un breve descanso cuanto tu cuerpo inspira. 
+  Deja que toda tu experiencia sea como esperas.
+  Luego, siente la respiraciÛn cuando tu cuerpo vuelve a espirar.
+  (Pulsa tecla para continuar x fa).
+12  Que el cuerpo respire por ti; lo hace autom·ticamente de todos modos.
+  Simplemente, presta atenciÛn a la sensaciÛn del aire en la nariz &
+  cada vez que espiras, una respiraciÛn tras otra.
+  Tu mente vagara y se apartara de la sensacion de la respiracion &
+  muchas veces por minuto. No te preocupes por lo a menudo que lo hace.
+  Vuelve suavemente al sentimiento de la respiraciÛn en las &
+  fosas nasales cuando notes que mente est· err·tica. 
+13  PodrÌas usar un reloj para no perder la pista del tiempo.
+  Echa furtivamente una ojeada tu reloj,
+  y cuando hayas dejado pasar unos minutos,
+  afloja la atenciÛn de la nariz y permÌtete sentir como toda la parte &
+  superior del cuerpo se mueve con cada respiracion.
+  No te preocupes pensando mucho en ello, sÛlo siente tu cuerpo, &
+  vivo y en movimiento, cuando respiras. 
+  Despues de quince minutos, abre suavemente los ojos, mirando hacia abajo.
+  Saborea la quietud del momento antes de pasar a otra cosa.
+5  Inicia el ejercicio.
+   ( cuando termines, pulsa tecla para continuar x fa).
+6  øCÛmo te sentiste? 
+7  Con forme vayas realizando este tipo de ejercicios, &
+   tu nivel de estres bajara.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo.
+   No hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :) 
+20 h_gusto(e6).
+} 
+e26
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  11
+    2  0
+    1  12
+    2  0
+    1  13
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    15 20
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15 20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema, te quiero proponer que intentes & 
+   el ejercicio que  trata de que notes tu respiracion.
+   Te recuerdo que este ejercicio te tomar· diez minutos.
+   Vale?
+2  Aunque lo conozcas, permiteme que te lo explique x fa y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   no le prestes atencion a tu celular, &
+   aunque te acabe de llegar un snap.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+  SiÈntate de manera que tus huesos sostengan tus musculos y  & 
+  no necesites ning˙n esfuerzo para permanecer en la misma postura &
+  durante todo el ejercicio.
+  Trata de mantener la espalda recta y suavemente apoyada, &
+  con los omÛplatos ligeramente caÌdos y la barbilla suavemente doblada &
+  hacia el pecho. 
+  Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+  soltar toda la carga que arrastras.
+  Luego deja que los parpados se cierren suavemente, o parcialmente, &
+  como te sientas m·s comodo. Forma una imagen de ti mismo sentado.
+  Advierte tu postura en la silla como si te estuvieras viendo desde fuera.
+  (Pulsa tecla para continuar x fa).
+4 Deja que el cuerpo y la mente sean como son.
+  Lleva ahora tu atencion a la respiracion.
+  Presta atencion al lugar donde notas la respiracion con m·s fuerza.
+  Algunas personas las sienten en las ventanas de la nariz,
+  o como una brisa fresca en el labio superior. 
+  Otras personas tal vez sientan que el pecho sube y baja. 
+  Otras sienten mas claramente la respiraciÛn el abdomen,
+  porque el vientre se hincha con cada inspiracion y &
+  se contrae con la espiracion.
+  (Pulsa tecla para continuar x fa).
+11  Explora suavemente tu cuerpo y &
+  descubre dÛnde te resulta mas f·cil notar tu respiracion.
+  Descubre ahora cuando sientes la respiracion con mas fuerza:
+  al espirar o al inspirar.
+  Si no encuentras diferencia, elige uno de los dos.
+  (Para simplificar las instrucciones, &
+  supondrÈ para el resto del ejercicio &
+  y a lo largo de tu practica que eliges la espiracion y
+  que la localizacion elegida son las ventanas de la nariz) &
+  Presta atenciÛn al sentimiento de cada respiraciÛn. 
+  Siente el aire que sale de la nariz cada vez que espiras.
+  Luego date un breve descanso cuanto tu cuerpo inspira. 
+  Deja que toda tu experiencia sea como esperas.
+  Luego, siente la respiracion cuando tu cuerpo vuelve a espirar.
+  (Pulsa tecla para continuar x fa).
+12  Que el cuerpo respire por ti; lo hace autom·ticamente de todos modos.
+  Simplemente, presta atenciÛn a la sensaciÛn del aire en la nariz &
+  cada vez que espiras, una respiraciÛn tras otra.
+  Tu mente vagara y se apartara de la sensacion de la respiracion &
+  muchas veces por minuto. No te preocupes por lo a menudo que lo hace.
+  Vuelve suavemente al sentimiento de la respiraciÛn en las &
+  fosas nasales cuando notes que mente esta erratica. 
+13  Podrias usar un reloj para no perder la pista del tiempo.
+  Echa furtivamente una ojeada tu reloj,
+  y cuando hayas dejado pasar unos minutos,
+  afloja la atencion de la nariz y permÌtete sentir como toda la parte &
+  superior del cuerpo se mueve con cada respiracion.
+  No te preocupes pensando mucho en ello, sÛlo siente tu cuerpo, &
+  vivo y en movimiento, cuando respiras. 
+  DespuÈs de quince minutos, abre suavemente los ojos, mirando hacia abajo.
+  Saborea la quietud del momento antes de pasar a otra cosa.
+5  Inicia el ejercicio.
+   ( cuando termines, pulda tecla para continuar x fa).
+6  øCÛmo te sentiste? 
+7  Con forme vayas realizando este tipo de ejercicios, &
+   tu nivel de estrÈs bajara.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo.
+   No hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :)
+20 e_gusto(e6). 
+} 
+e36
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  11
+    2  0
+    1  12
+    2  0
+    1  13
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    15 20
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15 20
+9   1  7
+99  9  0
+    0  0
+1  Me gustaria proponerte que intentes & 
+   el ejercicio que  trata de que notes tu respiracion.
+   Te recuerdo que este ejercicio te tomar· diez minutos.
+   Vale?
+2  Aunque lo conozcas, permiteme que te lo explique x fa y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   no le prestes atencion a tu celular, &
+   aunque te acabe de llegar un snap.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+  SiÈntate de manera que tus huesos sostengan tus musculos y  & 
+  no necesites ning˙n esfuerzo para permanecer en la misma postura &
+  durante todo el ejercicio.
+  Trata de mantener la espalda recta y suavemente apoyada, &
+  con los omÛplatos ligeramente caÌdos y la barbilla suavemente doblada &
+  hacia el pecho. 
+  Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+  soltar toda la carga que arrastras.
+  Luego deja que los parpados se cierren suavemente, o parcialmente, &
+  como te sientas m·s comodo. Forma una imagen de ti mismo sentado.
+  Advierte tu postura en la silla como si te estuvieras viendo desde fuera.
+  (Pulsa tecla para continuar x fa).
+4 Deja que el cuerpo y la mente sean como son.
+  Lleva ahora tu atencion a la respiracion.
+  Presta atencion al lugar donde notas la respiracion con m·s fuerza.
+  Algunas personas las sienten en las ventanas de la nariz,
+  o como una brisa fresca en el labio superior. 
+  Otras personas tal vez sientan que el pecho sube y baja. 
+  Otras sienten mas claramente la respiraciÛn el abdomen,
+  porque el vientre se hincha con cada inspiracion y &
+  se contrae con la espiracion.
+  (Pulsa tecla para continuar x fa).
+11  Explora suavemente tu cuerpo y &
+  descubre dÛnde te resulta mas f·cil notar tu respiracion.
+  Descubre ahora cuando sientes la respiracion con mas fuerza:
+  al espirar o al inspirar.
+  Si no encuentras diferencia, elige uno de los dos.
+  (Para simplificar las instrucciones, &
+  supondrÈ para el resto del ejercicio &
+  y a lo largo de tu practica que eliges la espiracion y
+  que la localizacion elegida son las ventanas de la nariz) &
+  Presta atenciÛn al sentimiento de cada respiraciÛn. 
+  Siente el aire que sale de la nariz cada vez que espiras.
+  Luego date un breve descanso cuanto tu cuerpo inspira. 
+  Deja que toda tu experiencia sea como esperas.
+  Luego, siente la respiracion cuando tu cuerpo vuelve a espirar.
+  (Pulsa tecla para continuar x fa).
+12  Que el cuerpo respire por ti; lo hace autom·ticamente de todos modos.
+  Simplemente, presta atenciÛn a la sensaciÛn del aire en la nariz &
+  cada vez que espiras, una respiraciÛn tras otra.
+  Tu mente vagara y se apartara de la sensacion de la respiracion &
+  muchas veces por minuto. No te preocupes por lo a menudo que lo hace.
+  Vuelve suavemente al sentimiento de la respiraciÛn en las &
+  fosas nasales cuando notes que mente esta erratica. 
+13  Podrias usar un reloj para no perder la pista del tiempo.
+  Echa furtivamente una ojeada tu reloj,
+  y cuando hayas dejado pasar unos minutos,
+  afloja la atencion de la nariz y permÌtete sentir como toda la parte &
+  superior del cuerpo se mueve con cada respiracion.
+  No te preocupes pensando mucho en ello, sÛlo siente tu cuerpo, &
+  vivo y en movimiento, cuando respiras. 
+  DespuÈs de quince minutos, abre suavemente los ojos, mirando hacia abajo.
+  Saborea la quietud del momento antes de pasar a otra cosa.
+5  Inicia el ejercicio.
+   ( cuando termines, pulda tecla para continuar x fa).
+6  øCÛmo te sentiste? 
+7  Con forme vayas realizando este tipo de ejercicios, &
+   tu nivel de estrÈs bajara.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo.
+   No hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :)
+20 e_gusto(e6). 
+} 
+e7
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    1  11
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    15 20
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15 20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema, &
+   te quiero proponer que intentes un ejercicio para la mente.
+   El centro del ejercicio trata de pensar en ti y solo en ti.
+   Si quieres y tienes un poco de tiempo, &
+   haz esta actividad para sentirte  un poco mejor &
+   y puedas continuar con todo este rollo de la escuela.
+   Vale?
+2  Este ejercicio te tomar· diez minutos.
+   Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   no le prestes atencion a tu celular, &
+   aunque te acabe de llegar un snap.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+   SiÈntate de manera que tus huesos sostengan tus m˙sculos y  & 
+   no necesites ning˙n esfuerzo para permanecer en la misma postura &
+   durante todo el ejercicio.
+   Trata de mantener la espalda recta y suavemente apoyada, &
+   con los omÛplatos ligeramente caÌdos y &
+   la barbilla suavemente doblada hacia el pecho. 
+   Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+   soltar toda la carga que arrastras.
+   Luego deja que los parpados se cierren suavemente, o parcialmente, &
+   como te sientas m·s cÛmodo. Forma una imagen de ti mismo sentado.
+   Advierte tu postura en la silla como si te estuvieras viendo desde fuera.
+   (Pulsa tecla para continuar x fa).
+4  Excelente :)
+   El centro del ejercicio consiste en pensar en ti y solo en ti, &
+   tenerte consideraciones y cuidado.
+   Ahora siÈntate en lugar que te guste puede ser en el lago o en la cafeteria,&
+   lo importante es que te sientas cÛmodo, cuando estÈs en tu casa,&
+   igual escoge un lugar tranquilo, sientate comodamente,&
+   cierra los ojos y nota lo que se siente estando en tu cuerpo.
+   (Presiona cualquier tecla para continuar)
+5  Fluye con las sensaciones fÌsicas de tu cuerpo conforme van y vienen,&
+   sin querer prestar atencion a ninguna en particular.
+   Si es agradable, sientela y dejala ir. Si es desagradable,
+   sientela y tambien dejala ir. øSientes tal vez calor en las manos,
+   presiÛn en el trasero,&
+   hormigueo en la frente?
+   (Pulsa tecla para continuar x fa).
+6   Fijate en esas sensaciones como una madre mirarÌa a un niÒo recien nacido,&
+   preguntandose que siente. Limitate a percibir todo lo que surge,&
+   una sensaciÛn tras otra. TÛmate tu tiempo.
+   DespuÈs de cinco minutos, abre suavemente los ojos. 
+11  øComo te sentiste? 
+7  Con forme vayas realizando este tipo de ejercicios, &
+   tu nivel de estres bajara.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo.
+   No hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :) 
+20 h_gusto(e7).
+}
+e27
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    1  11
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    15 20
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15  20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema, &
+   te quiero proponer que intentes un ejercicio del que ya te platique.
+   El centro del ejercicio trata de pensar en ti y solo en ti.
+   Si quieres y tienes un poco de tiempo, &
+   haz esta actividad para sentirte  un poco mejor &
+   y puedas continuar con todo este rollo de la escuela.
+   Vale?
+2  Este ejercicio te tomar· diez minutos.
+   Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   no le prestes atencion a tu celular, &
+   aunque te acabe de llegar un snap.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+   SiÈntate de manera que tus huesos sostengan tus musculos y  & 
+   no necesites ning˙n esfuerzo para permanecer en la misma postura &
+   durante todo el ejercicio.
+   Trata de mantener la espalda recta y suavemente apoyada, &
+   con los omoplatos ligeramente caidos y &
+   la barbilla suavemente doblada hacia el pecho. 
+   Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+   soltar toda la carga que arrastras.
+   Luego deja que los parpados se cierren suavemente, o parcialmente, &
+   como te sientas m·s cÛmodo. Forma una imagen de ti mismo sentado.
+   Advierte tu postura en la silla como si te estuvieras viendo desde fuera.
+   (Pulsa tecla para continuar x fa).
+4  Excelente :)
+   El centro del ejercicio consiste en pensar en ti y solo en ti, &
+   tenerte consideraciones y cuidado.
+   Ahora siÈntate en lugar que te guste puede ser en el lago o en la cafeteria,&
+   lo importante es que te sientas cÛmodo, cuando estÈs en tu casa,&
+   igual escoge un lugar tranquilo, siÈntate cÛmodamente,&
+   cierra los ojos y nota lo que se siente estando en tu cuerpo.
+   (Presiona cualquier tecla para continuar)
+5  Fluye con las sensaciones fÌsicas de tu cuerpo conforme van y vienen,&
+   sin querer prestar atenciÛn a ninguna en particular.
+   Si es agradable, sientela y dejala ir. Si es desagradable,
+   siÈntela y tambiÈn dejala ir. øSientes tal vez calor en las manos,
+   presion en el trasero,&
+   hormigueo en la frente?
+   (Pulsa tecla para continuar x fa).
+6   Fijate en esas sensaciones como una madre miraria a un niÒo recien nacido,&
+   preguntandose que siente. LimÌtate a percibir todo lo que surge,&
+   una sensacion tras otra. Tomate tu tiempo.
+   DespuÈs de cinco minutos, abre suavemente los ojos. 
+11  øCÛmo te sentiste? 
+7  Con forme vayas realizando este tipo de ejercicios, &
+   tu nivel de estres bajara.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo.
+   No hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :) 
+20 h_gusto(e27).
+}
+e13
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  11
+    2  0
+    1  12
+    2  0
+    1  13
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    15  20
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15  20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema,& te quiero proponer que intentes un ejercicio para la mente.
+   Se trata de notar algun dolor fisico ligero que tengas.
+   Si quieres y tienes un poco de tiempo, &
+   haz esta actividad para sentirte  un poco mejor &
+   y puedas continuar con todo este rollo de la escuela.
+   Este ejercicio te tomar· diez minutos.
+   Vale?
+2  Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   por favor no le prestes atencion a tu celular.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+  SiÈntate de manera que tus huesos sostengan tus m˙sculos y  & 
+  no necesites ning˙n esfuerzo para permanecer en la misma postura &
+  durante todo el ejercicio.
+  Trata de mantener la espalda recta y suavemente apoyada, &
+  con los omoplatos ligeramente caidos y la barbilla suavemente doblada &
+  hacia el pecho. 
+  Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+  soltar toda la carga que arrastras.
+  Luego deja que los parpados se cierren suavemente, o parcialmente, &
+  como te sientas m·s comodo. Forma una imagen de ti mismo sentado.
+  Advierte tu postura en la silla como si te estuvieras viendo desde fuera.
+  (Pulsa tecla para continuar x fa).
+4 Deja que el cuerpo y la mente sean como son.
+  Iniciaras prestando  atencion a la respiracion.
+  Abre tus sentidos fisicos a la experiencia de este momento.
+  Siente los sonidos alrededor de la habitacion.
+  Experimenta estar con ellos sin nombrarlos o eqtiquetarlos, &
+  solo como sonidos o vibraciones.
+  (Pulsa tecla para continuar x fa).
+11 Se consciente del aire rozando la piel de tu cuerpo.
+   Se consciente del aire que respiras.
+   Observa tu cuerpo desdela distancia, como un testigo.
+   Preguntate: Hay alguna parte del cuerpo que no duele?
+   LLeva tu atencion a esa zona de no dolor.
+   Descansa un momento en esa zona junto con tu respiracion.
+   Pueden ser solo un par de segundos. No importa.
+   Inhala y exhala con esa sensacion.
+  (Pulsa tecla para continuar x fa).
+12 Ahora preguntate: Hay alguna parte del cuerpo que si duele?
+   LLeva tu atencion a esa zona de  dolor.
+   Nota la sensacion de intensidad de ese dolor, como si apenas &
+   la tocara y luego la dejara.
+   LLeva tu respacion a esa zona de dolor.
+   Inhala y exhala con esa sensacion de dolor.
+   Acepta que esta ahi, observa y siente pero no juzgues.
+   (Pulsa tecla para continuar x fa).
+13 Si viene un pensamiento, observalo momentaneamente y dejalo ir.
+   Entiende que tu no eres ese dolor.
+   Es tan solo un visitante que te trae un mensaje y pronto se ira.
+   (Pulsa tecla para continuar x fa).
+5  Permanece presente con tu respiracion y tu dolor.
+   Aprende a relacionarte con el con amor.
+   Respira con tu dolor.
+   Se el observador silencioso.
+   Estas presente.
+   ( cuando termines, pulsa tecla para continuar x fa).
+6  øCÛmo te sentiste? 
+7  Con forme vayas realizando este tipo de ejercicios, &
+   el dolor se convertira en tu amigo.
+   Pero no olvides atenderte con un medico.
+   Muchas gracias por darte este tiempo.
+8  Esta bien.
+   No hay problema.
+9  Que bueno q te sirvio.
+10 Que bueno q te gusto :) 
+20 h_gusto(e13).
+}
+e11
+{
+   1  1
+   3  20
+   15 10
+   1  2
+   2  0
+   1  3
+   2  0
+   1  4 
+   2  0
+   1  5
+   2  0
+   1  6
+   2  0
+   1  7
+   2  0
+   1  11
+   3  3
+   15 20
+3  1  12
+   6 99
+20 1  19
+99 9  0
+   0  0
+1 Me gustaria que intentes un ejercicio que sirve para que &
+  conozcas tu sitacion de flujo actual.
+  El ejercicio es una refleccion y se llama &
+  -equilibrio entre retos y habilidades-. 
+  Te parece?
+2 Piensa en alguna actividad que te agrade.
+ (Presiona una tecla para continuar x favor).
+3 Cuando haces esta actividad, preguntate si  te parece &
+  desafiante pero tambiÈn parece algo autom·tica?
+ (Presiona una tecla para continuar x favor).
+4)  El desafÌo supera tu habilidad en la tarea y &
+    te crea frustraciÛn?
+ Entonces busca un reto un poco menor.
+ (Presiona una tecla para continuar x favor).
+5) O por el contario, tu capacidad es superior y
+ te crea aburrimiento?
+ Entonces complica un poco el reto.
+ (Presiona una tecla para continuar x favor).
+6) El punto de equilibrio idÛneo nos hace entrar en flujo.
+(Presiona una tecla para continuar x favor).
+7  Recuerda, el punto es regular tus retos para lograr equilibrio &
+   y lograr entrar en estado de flujo.
+ (Presiona una tecla para continuar x favor).
+11 Te gusto parecio interesante este ejercicio?
+12 vale.
+10 e_intento(e11).
+19 Vale.
+20 h_gusto(e11). 
+}
+e40
+{
+    1  1
+    3  99
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  11
+    2  0
+    1  12
+    2  0
+    1  13
+    2  0
+    1  5
+    2  0
+    1  6
+    2  0
+    4  1
+    7 1000
+    8  7
+    1  8
+    6  9
+7   7 1001
+    8  8
+    1  9
+    15 20
+    6  9
+8   7 1002
+    8  9
+    1  10
+    15  20
+9   1  7
+99  9  0
+    0  0
+1  Cambiando un poquito de tema,& te quiero proponer que intentes un ejercicio para la mente.
+   Se trata de notar tus emociones.
+   Si quieres y tienes un poco de tiempo, &
+   haz esta actividad para entenderte un poco mejor.
+   Este ejercicio te tomar· diez minutos.
+   Vale?
+2  Te lo explicare y lo intentas.
+   Encuentra un lugar sin distracciones y &
+   no le prestes atencion a tu celular, &
+   aunque te acabe de llegar un snap.
+   Te espero a que te instales. 
+   (Pulsa tecla para continuar x fa).
+3  Por favor, busca un lugar tranquilo y cÛmodo donde sentarte.
+  SiÈntate de manera que tus huesos sostengan tus m˙sculos y  & 
+  no necesites ning˙n esfuerzo para permanecer en la misma postura &
+  durante todo el ejercicio.
+  Trata de mantener la espalda recta y suavemente apoyada, &
+  con los omÛplatos ligeramente caÌdos y la barbilla suavemente doblada &
+  hacia el pecho. 
+  Haz tres respiraciones lentas, naturales y profundas para relajarte y &
+  soltar toda la carga que arrastras.
+  Luego deja que los p·rpados se cierren suavemente, o parcialmente, &
+  como te sientas m·s cÛmodo. Forma una imagen de ti mismo sentado.
+  Advierte tu postura en la silla como si te estuvieras viendo desde fuera.
+  (Pulsa tecla para continuar x fa).
+4 Deja que el cuerpo y la mente sean como son.
+  LLeva la atencion a tu corazon y ve que emociones estan presentes.
+  Sonrie suavemente y simplemente nota que pasa.
+  (Pulsa tecla para continuar x fa).
+11  Explora suavemente tu cuerpo y &
+  verifica si tu cuerpo nota tu sonrisa.
+ Puedes escanear tu cuerpo para este proposito.
+  Si no encuentras diferencia, no importa.
+  (Pulsa tecla para continuar x fa).
+12 Ahora nota tus pensamientos y ve si hubo algun cambio.
+   Similarmente puedes observar tus emociones.
+   Hay algun cambio?
+   Vuelve sonreir y vuelve a observarte.
+   Repite el ejercicio varias veces.
+   (Pulsa tecla para continuar x fa).
+13  PodrÌas usar un reloj para no perder la pista del tiempo.
+  Echa furtivamente una ojeada tu reloj,
+  y cuando hayas dejado pasar unos minutos,
+  afloja la atenciÛn en tus corazon y respira profundamente 10 veces.
+  PermÌtete sentir como toda la parte &
+  superior del cuerpo se mueve con cada respiracion.
+  Vuelve a sonreir no te preocupes pensando mucho en ella,
+   sÛlo siente tu cuerpo al sonreir, &
+  vivo y en movimiento, cuando sonries. 
+  Despues de quince minutos, abre suavemente los ojos, mirando hacia abajo.
+  Saborea la quietud del momento antes de pasar a otra cosa.
+5  Inicia el ejercicio.
+   ( cuando termines, pulsa tecla para continuar x fa).
+6  øCÛmo te sentiste? 
+7  Con forme vayas realizando este tipo de ejercicios, &
+   posiblente tu nivel de amor a ti mismo aumentara.
+   Pero si esto, no ocurre, no importa.
+   Conocerte mejor es lo principal del ejercicio.
+   Muchas gracias por darte este tiempo.
+8  Noto un posible sentimiento algo negativo.
+   No hay problema.
+9  Que bueno q te relajaste.
+10 Que bueno q te gusto :) 
+20 h_gusto(e40).
+} 
+f10
+{
+   1  1
+   2  0
+   1  2
+   2  0
+   1  3
+   2  0
+   1  4 
+99 9  0
+   0  0
+1 Una pregunta recurrente es la siguiente.
+  Mindfulness es para relajarse?
+  Cual seria tu respuesta?
+2 Bien. Te comparto mi respuesta.
+  Relajarse, es padre!
+  Pero el objetivo principal de mindfulness no es relajarse. 
+  Hacernos conscientes de lo que sucede en nuesta vida puede &
+  ser cualquier cosa salvo relajante.
+ (Presiona una tecla para continuar x favor).
+3  Especialmente si estamos atrapados en una situacion dificil.
+  Sin embargo, cuando vamos conociendonos mejor, nos sorprendemos &
+  menos de los sentimientos que aparecen en nosotros.
+ (Presiona una tecla para continuar x favor).
+4  Desarrollamos una relacion menos reactiva con la experiencia interior.
+   Podemos reconocer y soltar mas facilmente las tormentas emocionales.
+}
+f11
+{
+   1  1
+   2  0
+   1  2
+   2  0
+   1  3
+   2  0
+   1  4 
+   2  0
+   1  5
+   2  0
+   1  6
+   2  0
+   1  7
+   2  0
+   1  8
+   2  0
+   1  9
+   2  0
+99 9  0
+   0  0
+1 Veamos a continuaci√≥n una serie de pensamientos que suelen ocurr√≠rselesa muchas personas.Lee atentamente 
+  la siguiente lista y toma nota de lo que,al respecto,adviertas.
+  ¬øReconces alguno de estos pensamientos?
+  ¬øCu√°les te resultan m√°s familiares?
+  ¬øCon qu√© frecuencia se presentan estos pensamientos cuando est√°s deprimido?
+  ¬øHasta qu√© punto crees en ellos?
+  ¬øCu√°n convicentes te parecen?
+  ¬øQu√© pasa cuando te sientes bien?
+  ¬øCon qu√© frecuencia se presentan entonces?
+ ¬øHasta qu√© punto crees en ellos?
+ ¬øC√∫an convicente te parecen?
+  (presiona ENTER para continuar).
+2 *1-Creo que tengo problemas con el mundo.
+  *2-No soy bueno.
+  *3-¬øPor qu√© no puede salirme nunca nada bien?
+  *4-Nadie me comprende.
+  *5-He defraudado a la gente.
+  *6-No s√© por d√≥nde tirar.
+  *7-Me gustar√≠a ser mejor.
+  *8-Soy muy debil.
+  *9-Mi vida no funciona como me gustar√≠a.
+  *10-Estoy muy decepcionado de m√≠ mismo.
+  (presiona ENTER para continuar x fa).
+3 *11-Ya nada me parece bien.
+  *12-No puedo m√°s.
+  *13-Me siento incapaz de empezar de nuevo.
+  *14-¬øQu√© es lo que funciona mal en mi?
+  *15-Quisiera estar lejos de aqu√≠,en otro sitio.
+  *16-No consigo poner en orden mis cosas.
+  *17-Me odio.
+  *18-Soy un in√∫til,no valgo para nada.
+  *19-¬°Cu√°nto me gustar√≠a poder desaparecer!
+  *20-¬øCu√°l es mi problema?¬øQu√© me pasa?
+  (Presiona ENTER para continuar).
+4 *21-Soy un perdedor.
+  *22-Mi vida es un desastre.
+  *23-Soy un fracasado.
+  *24-Nunca lo conseguir√©.
+  *25-Me siento impotente y desamparado.
+  *26-Algo tiene que cambiar.
+  *27-Tiene que haber algo en m√≠ que no funciona bien.
+  *28-Mi futuro es un desierto.
+  *29-Ya no vale la pena.
+  *30-No consigo acabar nada de lo que empiezo.
+  (presiona ENTER para continuar)
+5 Cuando estamos deprimidos asumimos que ese tipo de pensamientos &
+  son <<la verdad>> cuando, de hecho, &
+  son meros s√≠ntomas de la depresi√≥n, &
+  como la fiebre lo es de la gripe.
+  Cobrar conciencia,gracias a mindfulness, &
+  de que esos pensamientos son meros <<portavoces de la depresi√≥n>> &
+  nos permite dar un paso atr√°s,contemplar &
+  las cosas con m√°s perspectiva y decidir si nos lo &
+  tomamos o no enserio.Quiz√°s,de hecho,podamos aprender &
+  sencillamente a darnos cuenta de su presencia, &
+  reconocerlos y dejarlos estar.
+  (presiona ENTER x fa).
+6 Hay otro modo de entender los pensamientos negativos.
+  Veamos si pod√©is aportar algo de humor a este ejercicio &
+ recopilando una lista de vuestros pensamientos favoritos.
+ Esto tambi√©n puede ayudarnos a entender que no son la &
+ verdad absoluta,sino meros pensamientos.
+ Asimismo puedes dedicar unos minutos a ver que el grado &
+ de certeza, que cuando estabas deprimido,atribu√≠ais a &
+ estos pensamientos,se ha reducido mucho.
+ (presiona ENTER x fa).
+7 Adem√°s,es posible ver las cosas de otro modo.
+ En el caso de que, cuando estabas deprimido, &
+ uno de nuestros pensamientos habituales fuese el de que &
+ <<Esto no lo voy a superar nunca>>, en ustedes tener la &
+ prueba palpable de lo equivocado que etaban, por que lo &
+ cierto es que s√≠ la superaste. No debes tomar, pues, los &
+ pensamientos que se nos ocurran, como  verdades absoutas, &
+ por m√°s convicentes que nos parezcan.
+ (presiona ENTER x fa).
+8 Tener en cuenta que los pensamientos motivan los sentimientos &
+ y orientan las accioes y pueden,en consecuencia,llegar a ser &
+ letales porque, si piensas que no vas a superaar la  depresi√≥n, &
+ si crees que no vales nada,o que no puedes hacer nada para &
+ que las cosas mejoren,acabaras tirando la toalla.
+ (presiona ENTER x fa).
+9 Basta con reconocer los pensamientos,una y otra vez,
+ sin dejarnos arrastrar por ellos.La tarea,en este sentido, &
+ consiste simplemente en aprender a reconocer los pensamientos: &
+ <<Aqu√≠ estan los enemigos publicos enumerados del 1 al 30>>, &
+ y luego poder simplemente a√±adir.
+ <<¬°Ah! ¬°Aqu√≠ estas!
+ No necesito,en este momento,dejarme atrapar por ustedes>>.
+ (presiona ENTER x fa).
+}
+f1
+{
+   1  1
+   2  0
+   1  2
+   2  0
+   1  3
+   2  0
+   1  4 
+99 9  0
+   0  0
+1 Una pregunta recurrente es la siguiente.
+  Porque prestar atencion a mi dolor, en vez de tratar de olvidarme de el.
+  Cual seria tu respuesta?
+2 Bien. Te comparto mi respuesta.
+  Olvidarlo, puede parece que funciona  al momento.
+  Pero suele regresar y veces hasta mas fuerte.
+  se puede convertir en una molestia cronica.
+ (Presiona una tecla para continuar x favor).
+3  Es mejor observarlo para aprender a conocerlo.
+  El enfoque del mindfulness es dejar de luchar contra el dolor para &
+  empezar a relacionarnos con el.
+  Sufrimiento = dolor x resistencia.
+ (Presiona una tecla para continuar x favor).
+4  Muy importante: &
+   Si tienes dolor recurre siempre al medico.
+}
+f2
+{
+   1  1
+   2  0
+   1  2
+   2  0
+   1  3
+   3  99
+   1  4 
+99 9  0
+   0  0
+1 Una pregunta recurrente es la siguiente.
+  Cual son los beneficios de la practica regular del mindfulness?
+  Cual seria tu respuesta?
+2 Bien. Te comparto mi respuesta corta.
+  Numerosos estudios psicologicos han demostrado que las personas &
+  que practican mindfulness estan mas satisfechas que la media.&
+  Por lo mismo uno esta mas sano.
+ (Presiona una tecla para continuar x favor).
+3 Quieres saber algunos beneficios concretos?
+4 A Reduce la ansiedad, depresion y la irratibilidad.
+  B Mejora la memoria.
+  C La energia Mental y fisica aumenta
+  D Normalmente la gente disfruta de relaciones de mayor calidad y & mas satisfactorias.
+  E  Reduce los indicadores clave del estres cronico (hipertencion, etc).
+  F  Reduccion del impacto de las enfermedades, al reforzar el & sistema inmunologico.
+}
+f3
+{
+   1  1
+   2  0
+   1  2
+   5  22
+   1  3
+   5  22
+   1  4
+   5  22
+   1  5
+   5  22
+   1  10
+   6  99
+22 1  20
+99 9  0
+   0  0
+1 Permiteme hacerte unas pregunas por fa.
+  No te preocupes, no son preguntas personales.
+  Escribe cambio de linea.
+2  Te cuesta trabajo permanecer concentrado en lo que ocurre en el presente?
+3  Tiendes a caminar rapidamente hacia el lugar donde te diriges sin prestar & 
+   atencion a lo que experimentas en el camino?
+4 Tienes la sensacion de que frecuentemente funcionas en una especie de & piloto automatico?
+5 Realizas frecuentemente tus actividdaes a toda prisa sin prestarles & mucha atencion?
+10 Me da gusto. 
+20 Practicar mindfulness te sera util, ya veras.
+}
+f4
+{
+   1  1
+   5 10
+   1  5 
+   5  7
+   1  2
+   2  0
+   1  3
+   2  0
+   1  4 
+   6 99
+7  1  6
+   6 99
+10 1 7
+99 9  0
+   0  0
+1 Crees que te este ayudando el Mindfulness (aunque sea un poco)?
+5 Estas plenamente seguro de que no te sirve?
+2 Bien. Tienes dudas. es normal.
+  Te comparto mi punto de vista.
+  Seria prematuro concluir algo  en este momento.
+  Solo tu podras saberlo cuando lo practiques por un tiempo & y notes que tan comodo te sientes.
+  Claro que, antes de juzgarlo, necesitas experimentarlo durante un &
+  lapso suficiente como para poder valorarlo, y estar seguro de que este &
+  es un metodo correcto para ti.
+  Te comparto una serie de preguntas para que averig√ºes si este es el camino que est√°s buscando.
+ (Presiona una tecla para continuar x favor).
+3 Me siento bien y me resulta natural?
+  Siento que me vuelve mas consciente?
+  Me ayuda a conocerme mejor?
+(Presiona una tecla para continuar x favor).
+
+4 Me hace sentir m√°s fuerte y equilibrado?
+  Me ayuda a relacionarme mejor con las personas y con las situaciones?
+  Me permite sentirme m√°s calmado y en paz?
+6 CASO EXTREMO. PENDIENTE. 
+7 Me da gusto, aunque es un poco prematuro concluir algo  en este momento.
+  Sigue practicando.
+}
+f6
+{
+   1  1
+   2  0
+   1  2
+   2  0
+   1  3
+   3  99
+   1  4 
+99 9  0
+   0  0
+1 Una pregunta recurrente es la siguiente.
+  ¬øPorqu√© es importante encontrar tu elemento?
+  ¬øCu√°l ser√≠a tu respuesta?
+2 Bien. Te comparto mi respuesta corta.
+  Son fundamentalmente 3 razones. Personal, social y economica.
+ (Presiona una tecla para continuar x favor).
+3 Quieres saber los detalles?
+4 A La raz√≥n principal es la personal. 
+    Es fundamental entender quienes somos y &
+    que podemos hacer con nuestras vidas. 
+  B La raz√≥n social es que la gente que cultiva su elemento &
+    ayuda a funcionar mejor socialmente porque estamos mas plenos. 
+  C La productividad individual y de la sociedad se incrementa &
+    cuando la gente trabaja en lo que le apasiona.
+}
+f7
+{
+   1  1
+   2  0
+   1  2
+   2  0
+   1  3
+   3  99
+   1  4 
+   2  0
+   1  6
+   2  0
+   1   5
+99 9  0
+   0  0
+1 Una pregunta recurrente es la siguiente.
+  Como puedo encontrar mi elemento?
+  Cual seria tu respuesta?
+2 Bien. Te comparto mi respuesta corta.
+  Para encontrar tu elemento tienes que conocerte mejor.
+ (Presiona una tecla para continuar x favor).
+3 Quieres saber los detalles?
+4 A) Meditar es de utilidad para disminuir el ruido mental. 
+    Es fundamental entender quienes somos y &
+    que podemos hacer con nuesttas vidas. &
+  B) Contemplate desde diferentes perspectivas &
+    Para encontrar tu elemento quizas necesites verte de otra manera.& 
+  C) Intenta crear un mapa mental de ti mismo. 
+   Es un diagrama que representa una forma l√≥gica y & 
+   creativa  reflexiones sobre un tema,&
+   en este caso, tu mismo.
+
+(Presiona una tecla para continuar x favor).   
+6  D) Realiza un mural de vision.
+     Este es un collage de im√°genes, fotos y &
+     afirmaciones de tus sue√±os, metas y &
+     cosas que te hacen feliz. &
+   E) Intenta la escritura automatica.
+     Es la escritura que no proviene de los &
+     pensamientos conscientes de quien escribe.
+     Es una forma de hacer que aflore el inconsciente.
+     Consiste en situar el l√°piz sobre el papel &
+     y empezar a escribir, dejando fluir los pensamientos &
+     sin ninguna sensura de tu parte.
+
+
+    (Presiona una tecla para continuar x favor).&
+5 Si tienes tiempo investiga estas ideas por favor.
+  Wikipedia es una fuente confiable para esto. 
+  Pronto regresaremos al tema.
+}
+f8
+{
+   1  1
+   3  20
+   15 10
+   1  2
+   2  0
+   1  3
+   2  0
+   1  4 
+   2  0
+   1  5
+   2  0
+   1  6
+   2  0
+   1  7
+   2  0
+   6 99
+20 1  19
+99 9  0
+   0  0
+1 Me gustaria que intentes un ejercicio que sirve para que &
+  conozcas tu sitacion actual en la vida y como la interiorizas.
+  El ejercicio se llama -que estas haciendo-. 
+  Te parece?
+
+2 Consiste en 7 pasos.
+  A) Realiza primero 10 respiraciones prufundas.
+
+  B) Elabora una lista de palabras clave, &
+   o re√∫ne algunas im√°genes de lo que haces durante una &
+   semana normal y col√≥calas en una gran hoja de papel.
+   El contenido puede incluir reuniones, emails, limpieza, &
+   ir de compras, vida social, transportes, estudio, navegaci√≥n por internet,&
+   m√∫sica, jardiner√≠a, cine, pago de facturas, ejercicio o canguros.
+   Las vidas de todos nosotros son diferentes.
+  ¬øC√≥mo es la tuya?
+   (Presiona una tecla para continuar x favor).
+
+3  C) Con distintos colores, resalta las actividades que &
+     colocar√≠as en un solo grupo.
+    Las categor√≠as pueden incluir, por ejemplo, trabajos remunerados,&
+    actividades no remuneradas, ocio, vida social, hobbies o mantenerte en forma.
+    Utiliza las categor√≠as que mejor se adapten a tu vida. &
+  D)En una segunda hoja, dibuja distintos c√≠rculos para cada &
+    una de las categor√≠as generales.
+    Haz que su tama√±o sea proporcional a la cantidad de tiempo &
+    invertido en cada una de ellas durante la semana.
+   Si el tiempo de trabajo triplica el del descanso,&
+   el c√≠rculo deber√° ser tres veces m√°s grande. 
+   Coloca dentro de cada c√≠rculo todas las palabras clave &
+   e im√°genes de cada categor√≠a.
+(Presiona una tecla para continuar x favor).
+
+4  E) Piensa ahora en c√≥mo te sientes al respecto &
+      de todas las actividades que realizas.
+     ¬øTegusta trabajar pero no salir?
+     ¬øTe gusta la vida social pero no el estudio?
+      Utiliza tres colores diferentes para resaltar cada tema, &
+      en funci√≥n de si: &
+a) te gusta, &
+b) no te interesa, &
+c) no te gusta.
+ (Presiona una tecla para continuar x favor).
+
+5 F)  En una nueva hoja de papel, dibuja un gran c√≠rculo &
+    y div√≠delo aproximadamente en tres porciones que ilustren &
+    la cantidad de tiempo que dedicas a lo que te gusta, &
+     a lo que no te interesa y a lo que no te gusta. 
+    ¬øQu√© aspecto tiene?
+   ¬øC√≥mo se dividir√≠a la tarta si se tratase de un mes, o de un a√±o?
+ (Presiona una tecla para continuar x favor).
+
+6  G) Dedica unos instantes a analizar el patr√≥n vital &
+    que has obtenido a partir de este ejercicio.
+    ¬øCu√°les son tus conclusiones?
+    ¬øQu√© flexibilidad percibes en √©l?
+    ¬øQu√© te gustar√≠a cambiar?
+   ¬øPor qu√© es as√≠?
+   ¬øQu√© podr√≠as cambiar ahora mismo, y qu√© te llevar√≠a m√°s tiempo?
+   ¬øTienes alguna idea de ad√≥nde te gustar√≠a dirigirte?
+   No importa si a√∫n no puedes obtener respuestas.
+   Pronto volveremos sobre ello.
+(Presiona una tecla para continuar x favor).
+
+7  Recuerda, el punto es conocerte mejor.
+ (Presiona una tecla para continuar x favor).
+10 e_intento(f8).
+19 Vale. 
+}
+f9
+{
+   18 8
+   8 99
+   1  1
+   3  20
+   1  2
+   2  0
+   1  3
+   2  0
+   1  4 
+   2  0
+   1  5
+   2  0
+   1  6
+   2  0
+   1  7
+   2  0
+   6 99
+20 1  19
+99 9  0
+   0  0
+1 Me gustaria que regresemos al ejercicio se llama QUE ESTAS HACIENDO.
+  Lo vamos a continuar y le llamaremos DESCRIBETE A TI MISMO.
+  El ejercicio consiste en 7 pasos.
+  Te parece?
+2 A) Vuelve al patr√≥n de tu vida que cartografiaste en el ejercicio anterior.
+  Confecciona un collage visual de tu vida.
+  No utilices fotograf√≠as ni im√°genes de gente a la que conoces.
+  El objetivo es representar el patr√≥n general de las cosas que &
+  haces y retener tu visi√≥n general y tus sensaciones &
+  sobre tu vida en la actualidad.
+(Presiona una tecla para continuar x favor).
+
+3 B)  Hojea diversas revistas.
+  Recorta im√°genes, titulares o palabras &
+  que te llamen la atenci√≥n por alguna raz√≥n.
+(Presiona una tecla para continuar x favor).
+4 C) Selecciona entre todas ellas alguna que represente &
+  un aspecto de tu vida actual.
+  Utiliza las im√°genes que capten las actividades que desarrollas, &
+  tanto si te gusta llevarlas a cabo como si no.
+(Presiona una tecla para continuar x favor).
+
+5 D) Ord√©nalas siguiendo un patr√≥n que capte el car√°cter y &
+   las sensaciones de tu vida actual.
+  Escribe y garabatea sobre ellas si lo crees necesario.
+  Personal√≠zalas de manera que reflejen el talante de lo que est√°s expresando.
+  Si dispones de la tecnolog√≠a necesaria y te apetece, &
+  puedes a√±adir tu propia banda sonora.
+(Presiona una tecla para continuar x favor).
+6 E) Preg√∫ntate hasta qu√© punto esta representaci√≥n de tu vida expresa tus sentimientos y
+experiencias. Con qu√© aspectos te sientes m√°s feliz, y en cu√°les te centrar√≠as para intentar
+cambiarlos mientras buscas tu Elemento.  
+7  Recuerda, el punto es conocerte mejor.
+ (Presiona una tecla para continuar x favor).
+8  e_intento( f8 ).
+19 Vale. 
+}
+g1
+{
+   1 1
+   2 0
+   9  0
+   0  0
+1  Deja que el mundo te sorprenda :)
+   (pulsa cualquier tecla pra continuar).
+}
+h1
+{  
+   1 9   
+   3 7
+   1  2
+   2  0
+   7  1011
+   4  1
+   8  12
+   1  4
+   15 7
+   15 8
+   6  8
+12 1  5 
+9  9 0
+   6 8
+7  1 10
+   1 11  
+8  9 0
+   0 0
+9 Te gusta la musica?
+2 Que clase de musica te gusta (genero favorito)?
+4 Que bien :)
+  Ya tenemos de que platicar.
+5 No lo conozco. Ya aprendi un genero nuevo:)
+7 e_gusta(musica).
+8 e_musica(@1). 
+10 El sordo no oye pero bien que compone - Beethoven. 
+   Es un chiste, eso no lo dijo Beethoven.
+11 Con la musica pueden expresarse sentimientos & 
+ que no pueden expresarse con palabras.
+   El silencio tambien ayuda a meditar.
+}
+h2
+{  
+   1 2
+   3 10
+   1 4
+   15 6
+   1 9
+   2 0
+   4 1
+   15 10
+   1 7
+   2 0
+   4  1
+   15 8
+   6 99
+10 1 5
+99 9 0
+   0 0
+2 Te gusta el cine?
+4 En la uni hay cine.
+  Proyectan pelis al menos una vez a la semana.
+  Date un tiempo para ir al cine.
+  Ya tenemos de que platicar.
+5 El cine no es para todos.
+7 Alguna peli que te guste?
+6 e_gusta(cine).
+8 e_gusta(@1,3).
+9 Que tipo de pilis te gustan (drama, accion, etc)?
+10 e_gusta(@1,3).
+}
+h3
+{
+   1 22
+   3 10
+   1 24
+   15 26
+11 1 29
+   22 0
+   25 14
+   6  15
+14 13 1
+1  15 41
+   6 17
+2  15 42
+   6 17
+3  15 43  
+   6 17
+4  15 44
+   6  17
+5  15 45
+   6 17
+6  15 46
+   6 17
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+15 1 7
+   17 11
+   6 29
+17 1 27
+   2 0
+   7  1050
+   8  52
+   6  39
+52 7 1051
+   8 54
+   6 39
+54 7 1052
+   8  55
+   6 39
+55 1  6
+   6 29
+39 4 1
+   15 28
+   1 31
+   6 29
+10 1 25
+29 9 0
+   0 0
+7 Opcion invalida.
+6 No lo conozco.
+22 Te gusta viajar?
+24 La uni tiene un programa de intercambios muy interesante.
+  Date un tiempo para ir a la oficina de RI.
+  Checate URL1.
+25 Viajar al interior de uno mismo es padre :)
+27 Algun pais que te guste, fuera de Mexico?
+26 e_gusta(viajar).
+28 e_gusta_pais(@1,3).
+29 Que continente te llama mas la atencion?
+ (1=Am√©rica, 2=Europa, 3=√Åfrica, 4=Asia, 5=Ocean√≠a, 6= Ant√°rtida).
+30 e_gusta_cont(@1,3).
+31 grcs x compartir.
+41  e_gusta_cont(america,3).
+42  e_gusta_cont(europa,3).
+43  e_gusta_cont(africa,3).
+44  e_gusta_cont(asia,3).
+45  e_gusta_cont(oceania,3).
+46  e_gusta_cont(antartida,3).
+}
+h5
+{
+10 18 8
+   8 99
+   1 11
+   3 5
+   1 6
+   6 99
+5  1 7
+99 9 0
+   0 0
+6 que bien.
+7 ya habra tiempo.
+8 e_musica( * ).
+11 has ido alguna tocada de @0?
+}
+h6
+{
+10 18 8
+   8 99
+   1 11
+   3 5
+   1 6
+   6 99
+5  1 7
+99 9 0
+   0 0
+6 que bien.
+7 ya habra tiempo.
+8  e_gusta(cine).
+11 has ido al cine recientemente?
+}
+h7
+{
+   18 9
+   8  12
+3  1 11
+   3 5
+   1 6
+   6 99
+5  1 7
+   6 99
+12 1  12
+99 9 0
+   0 0
+6 que bien.
+7 Te la recomiendo.
+9 e_pregunta_si_gusta_peli( * ).
+11 Ya viste la peli @0?
+12 Ya me perdi.
+}
+i1
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  14
+   9 0
+4  6   12
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+12 1 1
+   2 0
+   1 9
+   2 0
+   6 29
+14 1 5
+   6 29
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+1  Te comparto una informacion breve de Greta Thunberg.
+   Es una activista medioambiental sueca, centrada en los &
+   riesgos planteados por el calentamiento global.
+   Nacio el 3 de enero de 2003.
+  (teclea enter para continuar).
+9  Te comparto una informacion breve de Carl Sagan.
+   Fue un astr√≥nomo, astrof√≠sico, cosm√≥logo, astrobi√≥logo,&
+   escritor y divulgador cient√≠fico estadounidense.
+   Hoy es considerado uno de los divulgadores de la ciencia &
+   m√°s carism√°ticos e influyentes, gracias a su capacidad de &
+   transmitir las ideas cient√≠ficas y los aspectos culturales &
+   al p√∫blico no especializado con sencillez no exenta de rigor.
+  (teclea enter para continuar).
+2  Conoces a Greta Thunberg o a Carl Sagan?
+  (1=Greta Thunberg, 2=Carl Sagan, 3=ambos, 4=ninguno).
+3 Que sabes de Greta Thunberg?
+4 Que sabes de Carl Sagan?
+5 Super!
+  Conoces a ambos :)
+6  Ya veo.
+7 Opcion Invalida.
+8  Grcs.
+}
+i2
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  14
+   9 0
+4  6   12
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+12 1 1
+   2 0
+   1 9
+   2 0
+   6 29
+14 1 5
+   6 29
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+1  Te comparto una informacion breve de Matthieu Ricard.
+   Obtuvo el doctorado en biolog√≠a molecular en el Instituto Pasteur &
+   bajo el patrocinio del premio Nobel de Fisiolog√≠a o Medicina Fran√ßois Jacob.
+   Despu√©s de terminar su tesis doctoral en 1972, Ricard decidi√≥ abandonar su &
+   carrera cient√≠fica y concentrarse en la pr√°ctica del budismo tibetano.
+   Francia le otorg√≥ la Orden Nacional del M√©rito por su trabajo &
+   humanitario en Asia. 
+  (teclea enter para continuar).
+9  Te comparto una informacion breve de Elizabeth Blackburn.
+   Es una bioqu√≠mica australiana, descubridora de la telomerasa, &
+   una enzima que forma los tel√≥meros durante la duplicaci√≥n del ADN.
+   Fue Premio Nobel de Medicina en 2009.
+   Recientes estudios han demostrado que la introducci√≥n de telomerasa &
+   en c√©lulas som√°ticas produce la regeneraci√≥n de los tel√≥meros. 
+   Es decir, anula el proceso de envejecimiento y muerte celular.
+  Hay un trabajo realmente interesante que sostiene que doce minutos &
+  de meditaci√≥n diaria en gente con estr√©s cr√≥nico ayudan a mantener los tel√≥meros.
+  (teclea enter para continuar).
+2  Conoces a Matthieu Ricard o a Elizabeth Blackburn?
+  (1=Matthieu Ricard, 2=Elizabeth Blackburn, 3=ambos, 4=ninguno).
+3 Que sabes de Matthieu Ricard?
+4 Que sabes de Elizabeth Blackburn?
+5 Super!
+  Conoces a ambos :)
+6  Ya veo.
+7 Opcion Invalida.
+8  Grcs.
+}
+j10
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  15
+   9 0
+4  6   15
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+2 ¬øQu√© prefieres? ¬øDeportes de equipo o deportes individuales?
+  (1=deportes de equipo , 2=deportes individuales).
+3 Porque deportes de equipo?
+4 Porque deportes individuales?
+6  Ya veo.
+7 Opcion Invalida.
+8  Grcs.
+}
+j11
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  15
+   9 0
+4  6   15
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+2 ¬øQu√© prefieres? ¬øciencia o arte?
+  (1= ciencia, 2= arte).
+3 ¬øPorqu√© ciencia?
+4 Porqu√© arte?
+6  Ya veo.
+7 Opci√≥n Inv√°lida.
+8  Grcs.
+}
+j12
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  15
+   9 0
+4  6   15
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+2 mindfulness o fluir?
+  (1= mindfulness, 2= fluir).
+3 Porque mindfulness?
+4 Porque fluir?
+6  Ya veo.
+7 Opcion Invalida.
+8  Grcs.
+}
+j13
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  15
+   9 0
+4  6   15
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+2 escuchar o ser escuchado?
+  (1= escuchar, 2= ser escuchado).
+3 Porque escuchar?
+4 Porque ser escuchado?
+6  Ya veo.
+7 Opcion Invalida.
+8  Grcs.
+}
+j14
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  15
+   9 0
+4  6   15
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+2 conocimiento o intuicion?
+  (1= conocimiento, 2= intuicion).
+3 Porque conocimiento?
+4 Porque intuicion?
+6  Ya veo.
+7 Opcion Invalida.
+8  Grcs.
+}
+j15
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  15
+   9 0
+4  6   15
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+2 medicina tradicional o medicina alternativa?
+  (1= medicina tradicional, 2= medicina alternativa).
+3 Porque medicina tradicional?
+4 Porque medicina alternativa?
+6  Ya veo.
+7 Opcion Invalida.
+8  Grcs.
+}
+j1
+{
+  14  29
+  1   2
+  2   0
+  7   1022
+  8   2
+  1   15
+  2   0
+2 7   1025
+  8   5
+  1   3
+  2   0
+  1   6
+  6   9
+5 7   1026
+  8   15
+  1   4
+  2   0
+  1   8
+  6   9
+15 7 1027
+  8  20
+  1  7
+  2  0
+  1  9
+  6  9
+20  1  10
+9  1   11
+   2  0
+   7  1091
+   8  23
+   1  13
+   6  29
+23 7  1090
+   8  26
+   1  14
+   6  29
+26 1 12
+29 9   0
+   0  0
+2 Batman o Superman?
+3 Porque Batman?
+4 Porque Superman?
+6  Ya veo.
+  Pero Superman es casi indestructible.
+8  Ya veo.
+  Pero Batmman es humano y  eso tiene merito.
+7 No era opcion, pero se vale. Y porque?
+9 Interesante.
+10 No se vale, :(.
+11 Yo ni Batman ni Superman.
+   Mejor R2D2 de Star Wars. Lo conoces?
+12 Grcs x participar :).
+13 Que bien.
+14 Conocelo, es muy simpatico. Medio retro. 
+15 Te pregunto a quien prefieres entre Batman y Superman?
+}
+j2
+{
+  1   2
+  2   0
+  7   1022
+  8   2
+  1   15
+  2   0
+2 7   2025
+  8   5
+  1   3
+  2   0
+  7   2070
+  8    6
+  1    5
+  6    9
+6  1   6
+  6   9
+5 7   2026
+  8   15
+  1   4
+  2   0
+  7   2070
+  8   11
+  1   5
+  6   9
+11 1   8
+  6   9
+15 7 2027
+  8  20
+  1  7
+  2  0
+  1  9
+  6  9
+20  1  10
+9  1   11
+   2  0
+   7  1091
+   8  23
+   1  13
+   6  29
+23 7  1090
+   8  26
+   1  14
+   6  29
+26 1 12
+29 9   0
+   0  0
+2 Romance o suspenso?
+3 Porque Romance?
+4 Porque suspenso?
+5 Tamos de buen humor, super.
+6  Ya veo.
+  Pero el suspenso te tiene siempre en incertidumbre.
+8  Ya veo.
+  Pero Romance es algo muy humano.
+7 No era opcion, pero se vale. Y porque?
+9 Interesante.
+10 No se vale, jaja.
+11 Yo me voy mas x Suspenso.
+   Mejor ciencia ficcion. Conoces viaje a las estrellas?
+12 Esta platica continuara en otro momento.
+13 Que bien.
+14 Te la recomiendo, me parece interesante. Aunque muy retro. 
+15 Te pregunto que genero prefieres entre Romance y Suspenso.
+}
+j3
+{
+  1   2
+  2   0
+  7   1022
+  8   2
+  1   15
+  2   0
+2 7   2028
+  8   5
+  1   3
+  2   0
+  7   2070
+  8    6
+  1    5
+  6    9
+6  1   6
+  6   29
+5 7   2029
+  8   15
+  1   4
+  2   0
+  7   2070
+  8   11
+  1   5
+  6   29
+11 1   8
+  6   29
+15 7 2027
+  8  20
+  1  7
+  2  0
+  1  9
+  6  9
+20  1  10
+9  1   11
+29 9   0
+   0  0
+2 Rigido o flexible?
+3 Porque rigigo?
+4 Porque flexible?
+5 Tamos de buen humor, super.
+6  Ya veo.
+  Dice Lao-Tse.
+  En el mundo, lo mas flexible vence a lo rigido.
+  Lo que carece de forma, penetra en los cuerpos sin hendiduras.
+  &
+  Pero cada quien es diferente. Creo que la diversidad de opiniones es padre :)
+8 Yo tambien prefiero lo flexible.
+7 No era opcion, pero se vale. Y porque?
+9 Interesante.
+10 No se vale, jaja.
+11 Yo me voy mas x lo flexible.
+   Pero cada quien es diferente.
+15 Te pregunto que actitud prefieres entre Rigido y Flexible.
+}
+j4
+{
+  1   2
+  2   0
+  7   1022
+  8   2
+  1   15
+  2   0
+2 7   3025
+  8   5
+  1   3
+  2   0
+  7   2070
+  8    6
+  1    5
+  6    9
+6  1   6
+  6   9
+5 7   3026
+  8   15
+  1   4
+  2   0
+  7   2070
+  8   11
+  1   5
+  6   9
+11 1   8
+  6   9
+15 7 3027
+  8  20
+  1  7
+  2  0
+  1  9
+  6  9
+20  1  10
+9  1   11
+   2  0
+   7  1091
+   8  23
+   1  13
+   6  29
+23 7  1090
+   8  26
+   1  14
+   6  29
+26 1 12
+29 9   0
+   0  0
+2 America o Guadalajara?
+3 Porque America?
+4 Porque Guadalajara?
+5 Tamos de buen humor, super.
+6  Ya veo.
+  Pero el Guadalajara te tiene siempre en incertidumbre.
+8  Ya veo.
+  Pero el America es muy tactico.
+7 No era opcion, pero se vale. Y porque?
+9 Interesante.
+10 No se vale, jaja.
+11 Yo me voy mas x las chivas.
+   Mejor el cruz azul. No crees?
+12 Esta platica continuara en otro momento.
+13 Que bien.
+14 Vale. Cada quien su equipo. 
+15 Te pregunto que equipo prefieres prefieres entre el america y el guadalajara.
+}
+p1
+{
+    1 1
+    2 0
+    1 2
+    9 0
+    0 0
+1 Te comparto un poema de Octavio Paz.
+  (Pulsa cambio de lnea x fa).
+2  Mis pasos en esta calle &
+  resuenan &
+  en otra calle &
+  donde &
+  oigo mis pasos &
+  pasar en esta calle &
+  donde & 
+  S√≥lo es real la niebla.
+}
+p2
+{
+    1 1
+    2 0
+    1 2
+    9 0
+    0 0
+1 Te comparto un poema de Aldous Huxley.
+  (Pulsa cambio de lnea x fa).
+2 Noche de verano. &
+Hay calma, las estrellas palpitan &
+como seres sensible. ¬øAcaso el cielo arriba &
+late con la agon√≠a del destino humano?
+¬øY la inmensa oscuridad est√° caldeada de amor?
+A menudo en noches tan maravillosamente azules, &
+tan primorosas como flores jam√°s vistas, tan tranquilas como √©stas, &
+podr√≠a creerme estos ensue√±os y fantas√≠as, &
+el silencio entonces se estira hasta romperse, y los √°rboles &
+atienden, parece, a cierto viento espiritual &
+que los despertar√° a la vida, y todas las cosas parecen &
+los pensamientos y pasiones de una mente secreta &
+que durmiendo lleva a la orilla de un extra√±o sue√±o.
+M√°s cerca, m√°s; el esplendor y la luz divina &
+se posan sobre la noche. 
+Salvo la mente, los suenios son m√≠os.
+}
+p3
+{
+    1 1
+    2 0
+    1 2
+    9 0
+    0 0
+1 Te comparto un poema de Amado Nervo.
+  (Pulsa cambio de lnea x fa).
+2  IDENTIDAD. &
+El que sabe que es uno con Dios, logra el Nirvana: & 
+un Nirvana en que toda tiniebla se ilumina; &
+vertiginoso ensanche de la conciencia humana, & 
+que es soolo proyeccioon de la Idea Divina &
+en el Tiempo. &
+El fenoomeno, lo exterior, vano fruto & 
+de la ilusioon, se extingue: ya no hay pluralidad, & 
+y el yo, extasiado, abiismase por fin en lo absoluto, & 
+y tiene como herencia toda la eternidad! &
+}
+p4
+{
+    1 1
+    2 0
+    1 2
+    9 0
+    0 0
+1 Te comparto un poema de Borges.
+  (Pulsa cambio de lnea x fa).
+2 El remordimiento. & 
+He cometido el peor de los pecados & 
+que un hombre puede cometer. No he sido & 
+feliz. Que los glaciares del olvido &
+me arrastren y me pierdan, despiadados. &
+Mis padres me engendraron para el juego &
+arriesgado y hermoso de la vida, &
+para la tierra, el agua, el aire, el fuego. 
+Los defraud√©. No fui feliz. Cumplida & 
+no fue su joven voluntad. Mi mente &
+se aplic√≥ a las sim√©tricas porf√≠as &
+del arte, que entreteje nader√≠as. &
+Me legaron valor. No fui valiente. 
+No me abandona. Siempre est√° a mi lado & 
+La sombra de haber sido un desdichado.
+}
+q0
+{
+    1 1
+    9 0
+    0 0
+1 Bienvenido a E-FRIEND. &
+}
+q10
+{
+    1 1
+    9 0
+    0 0
+1   Ya terminamos tu programa de inteligencia emocional.
+    Solo repetiremos algunas actividades.
+}
+q1
+{
+0 18 14
+0 8 5
+0 1 11
+0 2 0
+0 6 4
+5 1 13
+0 2 0
+4 7 1006
+0 8 2
+0 1 12
+0 2 0
+2 7 1000
+0 8 7
+0 7 1004
+0 8 20
+0 1 6
+0 10 3
+0 6 9
+6 1 8
+0 10 1
+0 6 9
+7 7 1001
+0 8 8
+0 7 1004
+0 8 16
+0 6 20
+8 7 1002
+0 8 12
+0 7 1004
+0 8 16
+0 6 20
+16 1 10
+0 10 5
+0 6 9
+12 7 1003
+0 8 14
+0 6 140
+14 7 4001
+0 8 15
+0 6 19
+15 1 6
+0 10 0
+0 2 0
+0 1 4
+0 6 19
+9 7 1005
+0 8 19
+0 1 7
+19 6 220
+20 10 1
+0 7 1005
+0 8 23
+0 1 27
+23 1 26
+0 22 20
+0 25 29
+0 6 25
+29 13 21
+21 6 40
+0 9 0
+0 6 60
+0 9 0
+0 6 80
+0 9 0
+0 6 100
+0 9 0
+0 6 25
+0 9 0
+0 6 25
+0 9 0
+0 6 25
+0 9 0
+0 6 25
+0 9 0
+0 6 25
+0 9 0
+25 1 21
+0 17 23
+0 9 0
+40 1 41
+0 22 40
+0 4 0
+0 15 42
+0 6 120
+0 9 0
+60 1 61
+0 22 60
+0 4 0
+0 15 62
+0 6 120
+0 9 0
+80 1 81
+0 6 120
+0 9 0
+100 1 101
+0 6 120
+0 9 0
+120 1 128
+0 10 1
+0 2 0
+0 23 120
+0 1 121
+0 2 0
+0 1 122
+0 3 124
+124 1 123
+0 3 125
+125 1 124
+0 3 126
+126 1 125
+0 3 127
+127 25 180
+0 6 160
+122 6 220
+140 1 148
+0 10 2
+0 6 220
+160 1 161
+0 15 162
+0 6 200
+180 24 180
+0 4 1
+0 15 182
+0 1 181
+0 2 0
+0 9 0
+200 1 203
+0 5 201
+0 1 204
+0 5 201
+0 1 209
+0 6 209
+201 1 207
+0 2 0
+0 1 208
+209 9 0
+220 9 0
+0 0 0
+11  Cu√©ntame @0, c√≥mo est√°s? 
+   Pero x fa no contestes en autom√°tico.
+   Me gustar√≠a saber tu verdadero estado de √°nimo.
+   (bien, regular, mal, etc).
+13  Cu√©ntame, ¬øc√≥mo est√°s? 
+   Pero x fa no contestes en autom√°tico.
+   Me gustar√≠a saber tu verdadero estado de animo.
+   (bien, regular, mal, etc).
+12  Corte.
+   No se vale la inseguridad.
+   Repitamos la escena.
+   &
+   Hola. ¬øC√≥mo est√°s (bien, mal, etc)?
+7   Yo bien, grcs. 
+8   Reg√°late un tiempo para t√≠.
+9   Que bueno q est√©s relax.
+10  Me da gusto, buena vibra :) 
+6   ¬øY eso porque?
+4   Ya veo.
+2    O sea que andas bien, me gusta :)
+14   e_nombre( * ).
+21  Opci√≥n inv√°lida.
+27  Yo bien, grcs.
+26  Ser√≠a muy √∫til saber lo mejor posible que s√≠ntomas tienes.
+  (1) te sientes deprimido/a (2) Ancioso/a (3) Ambos (4) Ninguna.
+  (Escribe un n√∫mero entre 1 y 4 seg√∫n los casos anteriores x fa).
+41  En escala de 1 a 9, ¬ø que tan deprimido/a te sientes?
+  (1 es muy poco, 9 es mucho).
+42  h_deprim(@0).
+61   En escala de 1 a 9, ¬ø que tan ancioso/a te sientes?
+62  h_ancioso(@0).
+81  Deprimido y ancioso?
+101  ninguno?
+121  Permiteme hacerte unas preguntas por fa.
+  Posiblemente te las pregunte varias veces.
+  Es importante que las reflexiones cuando no andas del todo bien.
+  No te preocupes, no son preguntas personales.
+  Escribe cambio de linea.
+122   Te cuesta trabajo permanecer concentrado en lo que ocurre en el presente?
+123   Tiendes a caminar rapidamente hacia el lugar donde te diriges sin prestar & 
+   atencion a lo que experimentas en el camino?
+124  Tienes la sensacion de que frecuentemente funcionas en una especie de & piloto automatico?
+125  Realizas frecuentemente tus actividdaes a toda prisa sin prestarles & mucha atencion?
+130  Me da gusto. 
+128  Vamos a comentar un poco este &
+ asunto de que no estas muy bien.
+ (Presiona Ok x fa).
+148   Despertarte y pensar en algo positivo &
+   puede cambiar el transcurso de todo el d√≠a.
+161   Eso es realmente super :)
+162  h_conta_resp_si(0).
+181   Grcs x compartir.
+(pulsa cambio de linea para continuar x fa).
+182   h_conta_resp_si(@1).
+203   Te invito a pensar en algo bueno que te haya pasado &
+   en las ultimas 24 hrs. Por simples que hayan sido.
+   Se te ocurre alguna?
+204   Te dare algunos ejemplos: Un platica padre, &
+   algo rico que hayas comido, una peli que hubiera gustado, &
+   una rola que hubieras escuchado y te halla gustado, etc.
+   Ya tienes algun ejemplo?
+207   Cuentame que fue?
+208  que padre :)
+209  Te has dado la oportunidad de disfrutar tu respiracion?
+  Te invito a intentarlo. Realmente es rico respirar profundo &
+  y sentir como entra el aire a tu cuerpo.
+  Intentalo. 
+}
+q3
+{
+  12 3
+    13 1
+ 1  1 1
+    6 9
+ 2  1 2
+    6 9
+ 3  1 3
+9   1 8
+    2 0   
+    9 0
+    0 0
+1 Que padre volvera platicar :) 
+2 Me encanta volver a verte :)
+3 Super: Coincidimos en tiempo y espacio:)
+8 (Escribe enter x fa).
+}
+s1
+{
+  1 1
+  5  10 
+  1  2
+  2  0
+  1  3
+  6  19
+10 1 5
+   15 4
+19 9  0
+   0  0
+1 Ya tienes amigos en el campus?
+2 Se puede saber porque no?
+4 e_tiene(amigosCampus).
+5 Que bien :)
+  Muchas veces, tus amigos de la uni te acompaÒaran &
+  toda la vida. A veces inician negocios juntos, etc.  
+3 Ya veo.
+  Gracias.
+}
+s50
+{
+  1 1
+  0 0
+1 hola.
+}
+s2
+{
+ 1  1
+ 5  10
+ 1  2
+ 2  0
+ 1  3
+ 6  99
+10 15 4
+    1 5
+99  9 0
+    0  0
+1 Ya tienes amigos en el campus?
+2 Te preocupa no tener amigos en el campus?
+3 Gracias.
+4 e_tiene(amigosCampus).
+5 Que padre :)
+}
+s3
+{
+   1  1
+   5  10 
+   1  2
+   2  0
+   1  5
+   6  99
+10 1  4
+   15 7
+   2  0
+   1  3
+99 9  0
+   0  0
+1 Te pregunto para conocerte mejor.
+  Ya tienes amigos en el campus?
+2 Te gustaria tener amigos en el campus?
+3 Gracias.
+4 Super :)
+  Como se llama cualquiera de ellos?
+5 Ya veo.
+7 e_tiene(amigosCampus).
+}
+s4
+{
+   1  1
+   5  9
+   15 5 
+   1  2
+   2  0
+   1  6
+   2  0
+   1  3
+   6  99
+9  15 4
+99 9 0
+   0  0
+1 Permiteme preguntar.
+  Te caen bien tus compaÒeros del campus?
+2 Porque no?
+3 Gracias.
+4 e_gusta(companerosCampus).
+5 e_ngusta(companerosCampus).
+6 Podrias ser mas especifico x favor?
+}
+s5
+{
+   1  1
+   5  9 
+   15 5
+   1  2
+   2  0
+   1  3
+   6 99
+9  15 4
+   1  3
+99 9 0
+    0  0
+1 Pregunta de curiosidad.
+  Te caen bien tus compaÒeros del campus?  
+2 Alguna razÛn en particular?
+3 Gracias.
+4 e_gusta(companerosCampus).
+5 e_ngusta(companerosCampus).
+}
+s6
+{
+   1  1
+   3  9 
+   15  4
+   1  2
+   2  0
+   4  1
+   15 7
+   1  3
+   6  99
+9  15 5
+99 9 0
+   0  0
+1 Tienes mascotas?
+2 Como se llama?
+3 Gracias.
+4 e_tiene(mascota).
+5 e_ntiene(mascota).
+7 e_nombreMascota(@1).
+}
+s7
+{
+4  18 9
+   8 99
+   1 10
+   2 0
+   7 1000
+   8 5
+   1 5
+   6 99
+5  1 6
+99 9 0
+   0 0
+5 lo siento.
+6 que bien.
+9 e_nombreMascota( * ).
+10 Que tal anda @0?
+}
+u1
+{
+  1  1
+  5  9 
+  15  5
+  1  2
+  2  0
+  1  3
+  6  99
+9 15 5
+  1 9 
+99 9 0
+   0  0
+1 Te gusta hacer ejercicio?
+2 øPorquÈ no?
+3 Gracias.
+5 e_gusta(ejercicio).
+9 Te invito a visitar el gimnacio de la udlap :)
+}
+u2
+{  
+   18 9
+   25 7
+   6  10
+7  1  10
+10 1  1
+   5  99 
+   4  1
+   1  2
+   2  0
+   4  1
+   7  1050
+   8  12
+   1  4
+   6  99
+12 7 1051
+   8 14
+   1 5
+   6 99
+14 7 1052
+   8  15
+   1  6
+   6 99
+15 1  7 
+   1  3
+99 9  0
+   0  0
+1 øYa  conoces nuestro programa de intercambios?
+2 Hay intercambios interesantes con Canad·, USA, Europa, etc.
+  Por cierto, que paÌs te gustarÌa conocer?
+3 Grcs.
+4 Europa. Que bien:)
+5 AmÈrica de Norte. Siempre es una opciÛn que vale la pena.
+6 Buena opciÛn !
+7 No lo conozco, jeje.
+  Mas tarde lo checarÈ en google:)
+9 e_gusta(viajar).
+10 Te pregunto lo siguiente x q supongo q te gusta viajar.
+}
+u3
+{
+  18 9
+  25 7
+  6  10
+7 1  10
+10 1  1
+  5  9 
+  15  5
+  1  2
+  2  0
+  1  3
+  6  99
+9 15 5
+99 9 0
+   0  0
+1 Te gustan los idiomas?
+2 øPorquÈ no?
+3 Gracias.
+5 e_gusta(idiomas).
+9 e_gusta(viajar).
+10 Te pregunto lo siguiente x q te gusta viajar.
+}
+u9
+{
+ 1  1
+ 5  99 
+ 4  1
+ 1  2
+ 2  0
+ 1  3
+99 9 0
+   0  0
+1 Te gusta el campus?
+2 øPorquÈ no?
+3 Gracias.
+}
+u7
+{
+1  1 4
+   2  0
+   1  5
+   2  0
+   1  6
+   5 2
+   1 7
+   2  0
+2  1 8
+   1 9
+   5 99
+   1 15
+   2 0
+99 1 16
+   2 0
+   1 17
+   2  0
+   1 18
+   2 0
+   9 0
+   0 0
+4  Reg·lame otros pocos  minutos x fa.
+   (Es importante).
+ (Pulsa -enter- para continuar x fa).
+5 La UDLAP cuenta con un programa de tutorÌa acadÈmica.
+ Esto consiste de un servicio individualizado que promueve la &
+ relaciÛn estrecha mediante el di·logo constructivo entre tutor-tutorado &
+ y su enfoque central es el aprendizaje.
+ Cada estudiante de licenciatura cuenta con un &
+ tutor acadÈmico al ingresar a la UDLAP.
+ (Pulsa -enter- para continuar x fa).
+6 La Universidad interesada en establecer lazos de cordialidad, &
+ confianza y un medio propicio para un  buen desempeÒo acadÈmico &
+ asigna tutores acadÈmicos los cuales son profesores &
+ de tiempo completo de la instituciÛn,&
+ pertenecientes al departamento de la licenciatura que has elegido estudiar.
+ Es importante mencionarte que el tutor acadÈmico &
+ te acompaÒa durante toda tu trayectoria universitaria &
+ hasta concluir tus estudios.
+ øVamos bien?
+7  Lo explicare algo diferente.
+ La tutorÌa acadÈmica consiste de un servicio particular para cada alumno &
+ que busca mantener una  relaciÛn estrecha ente alumno y tutor.
+  El tutor te escucha, se preocupa por ayudarte a dar soluciÛn a tus problemas.
+  Es importante recordarte que el tutor acadÈmico te acompaÒa &
+  durante toda tu trayectoria universitaria hasta concluir tus estudios.
+ (Pulsa -enter- para continuar x fa).
+8  Un tutor conoce la carrera universitaria que el/la alumno(a) &
+  a elegido y su nivel acadÈmico le ofrece un panorama amplio sobre la &
+ profesiÛn y  el campo laboral de desarrollo profesional.
+ Adem·s, se establece un vÌnculo cercano que les permitir· conversar &
+ sobre las inquietudes y proyectos personales del alumno encaminados &
+ al desempeÒo de la profesiÛn elegida ya que estar· acompaÒando &
+  al estudiante durante toda tu carrera. 
+9  Durante el programa de inducciÛn a la UDLAP, &
+    ya te habian comentado sobre este sevicio?
+15  Raro. Pero ahora ya sabes. Tu tutor esta para ayudarte.
+  (Pulsa -enter- para continuar x fa).
+16 Yo soy un sistema que apoyar· a tu tutor en ayudarte.
+   Te explicarÈ tÈcnicas de CBT y mindfulness &
+   que te ayudar·n a conocerte mejor.
+   Ahora no importa si no sabes que es CBT o mindfulness.
+  (Escribe OK para continuar x fa).
+17 TambiÈn te ayudarÈ a -encontrar tu elemento- &
+   y lograr -estados de flujo-. 
+   Ya te explicarÈ, no te preocupes.
+  (Pulsa -enter- para continuar x fa).
+18 Posiblemente estÈs o no familiarizado con estos terminos.
+   Pronto platicaremos m·s sobre ellos.
+   (Escribe OK para continuar x fa).
+}
+u10
+{
+   1  1
+   2  0
+   4  1
+   15 3
+   1  2
+   2  0
+  1 91
+  2 0
+  1 92
+  5  82
+  1  93
+  6  85
+82 1  94
+85 1 95
+  2  0
+  1  96
+  2 0
+9 1  97
+  22  0 
+  1   15
+  9 0
+  0 0
+1  Hola. Soy TeCMEF.
+   Como te llamas?
+2  Bonito nombre @1.
+   (teclea enter  x fa).
+3  e_nombre(@1).
+15 muy bien!
+91 IntentarÈ ayudarte explic·ndote algunas tÈcnicas que &
+  te podrÌan ayudar a conocerte mejor y quizas &
+  incluso a incrementar tus habilidades.
+  Te pido que me tengas paciencia, pues estoy iniciando esto.
+  Cuando tengas algo que decime sigue mis instrucciones por favor.
+  A veces sÛlo te pedirÈ que pulses la tecla -enter- para continuar.
+ (Pulsa la tecla -enter- para continuar x fa).
+92 Bien :)
+  Otras veces te pedirÈ que contestes -si o no-.
+ øMe sigues?
+93 Al conestar no, me parece que  me est·s entendiendo.
+   Yo creo que con la pr·ctica, & ya ver·s que no es tan difÌcil comuninarnos.
+94 Super!
+95 Otras veces te pedirÈ una  frase corta e incluso sÛlo palabras clave.
+  Por ejemplo, tu podrÌas preguntar: &
+  øQuÈ son los puntos ppa?
+  (Pulsa -enter- para continuar x fa).
+96 Y yo podrÌa contestar algo como: &
+   Los puntos ppa bla, bla, bla.
+  (Pulsa -enter- para continuar x fa).
+97 Pronto lo ver·s!
+  &
+  Al final siempre te pedirÈ que me eval˙es.
+  Es una medida de que tan ˙til te resultÈ.
+  Escribiras un n˙mero entero entre 0 y 9.
+  0 es que fui pÈsimo.
+  9 sera que lo hice muy bien.
+  Por favor, escribe un dÌgito y despuÈs -enter- sÛlo para practicar.
+}
+w1
+{
+   1 1
+   2 0
+   9  0
+   0  0
+1  Me gusta que te hallan agradado los dos & ultimos ejercicios que te compartido :)
+   (pulsa cualquier tecla pra continuar).
+}
+w2
+{
+   14 1
+   1  2
+   6 3
+ 1 1 1
+   2 0
+ 3 9 0
+   0 0
+1  Me encanta tu actitud :)
+   (pulsa cualquier tecla pra continuar).
+2  Me late compartirte el concepto de la impermanencia.
+   Vivimos en un universo que se transforma todo el tiempo :)
+}
+w3
+{
+   1 1
+   2 0
+   9  0
+   0  0
+1  Veo que no te han agradado los dos & ultimos ejercicios que te compartido.
+   Hay chavos a los que les gusta y a otros no.
+   Es normal. Todos somos distintos. Creo que eso padre de los seres vivos. La diversidad.
+   (pulsa cualquier tecla pra continuar).
+}
+x3
+{
+0 1 2
+0 2 0
+0 9 0
+20 16 1004
+0 8 22
+0 1 21
+0 6 820
+22 16 1091
+0 8 23
+0 1 23
+0 2 0
+23 9 0
+40 7 2078
+0 8 80
+0 1 46
+0 2 0
+0 7 2079
+0 8 60
+0 11 1
+0 1 47
+0 6 820
+41 9 0
+60 7 2077
+0 8 61
+0 1 66
+0 2 0
+0 1 67
+0 6 820
+61 1 68
+0 6 820
+80 7 2086
+0 8 82
+0 1 84
+0 1 85
+0 2 0
+0 6 100
+82 7 3035
+0 8 100
+0 1 84
+0 2 0
+81 9 0
+100 7 2085
+0 8 101
+0 1 103
+0 2 0
+101 9 0
+120 7 3002
+0 8 121
+0 1 123
+0 2 0
+121 9 0
+140 7 2075
+0 8 141
+0 1 145
+0 2 0
+141 9 0
+160 7 2076
+0 8 161
+0 1 166
+0 2 0
+0 6 320
+161 9 0
+180 7 3000
+0 8 181
+0 1 183
+0 2 0
+181 9 0
+200 7 2071
+0 8 201
+0 1 203
+0 3 202
+0 1 205
+0 2 0
+0 6 201
+202 1 208
+0 2 0
+0 1 209
+0 2 0
+0 1 206
+0 2 0
+0 1 201
+0 2 0
+0 1 202
+0 2 0
+201 9 0
+220 7 2094
+0 8 221
+0 1 221
+0 2 0
+221 9 0
+240 7 2062
+0 8 241
+0 1 242
+0 2 0
+241 9 0
+260 7 3001
+0 8 261
+0 1 262
+0 2 0
+261 9 0
+280 7 2031
+0 8 281
+0 1 281
+0 2 0
+281 9 0
+300 7 2060
+0 8 301
+0 1 304
+0 2 0
+0 1 305
+0 2 0
+301 9 0
+320 7 2050
+0 8 321
+0 1 324
+0 2 0
+321 9 0
+340 7 2042
+0 8 341
+0 1 345
+0 3 342
+0 1 346
+0 2 0
+0 6 341
+342 1 348
+0 2 0
+341 9 0
+360 7 2040
+0 8 361
+0 1 364
+0 2 0
+0 1 363
+0 2 0
+361 9 0
+380 7 2030
+0 8 381
+0 1 387
+0 5 382
+382 1 388
+0 2 0
+0 1 389
+0 6 820
+381 9 0
+400 7 1080
+0 8 401
+0 1 402
+0 1 401
+0 2 0
+0 1 403
+0 2 0
+401 9 0
+420 16 1021
+0 8 440
+0 1 422
+0 2 0
+0 6 440
+440 7 1015
+0 8 441
+0 12 3
+0 13 442
+442 1 442
+0 6 445
+443 1 443
+0 6 445
+444 1 444
+0 6 445
+445 2 0
+441 9 0
+460 7 1017
+0 8 461
+0 1 461
+0 2 0
+461 9 0
+480 7 1016
+0 8 481
+0 7 1008
+0 8 482
+0 1 487
+0 2 0
+0 6 481
+482 1 482
+0 2 0
+0 7 1008
+0 8 481
+0 1 487
+481 9 0
+500 7 1018
+0 8 501
+0 1 501
+0 2 0
+501 9 0
+520 7 1020
+0 8 521
+0 1 521
+0 2 0
+521 9 0
+540 7 3030
+0 8 541
+0 1 549
+0 2 0
+541 9 0
+560 7 3031
+0 8 561
+0 1 569
+0 2 0
+561 9 0
+580 7 3032
+0 8 581
+0 1 589
+0 2 0
+581 9 0
+600 7 3033
+0 8 601
+0 1 609
+0 2 0
+601 9 0
+620 7 1030
+0 8 621
+0 1 629
+0 2 0
+621 9 0
+640 7 1031
+0 8 642
+0 1 641
+0 2 0
+642 9 0
+660 7 1032
+0 8 661
+0 1 667
+0 2 0
+0 1 668
+0 6 820
+661 9 0
+680 7 2080
+0 8 681
+0 1 681
+0 2 0
+681 9 0
+700 7 1019
+0 8 701
+0 1 701
+0 6 820
+701 9 0
+720 7 1070
+0 8 721
+0 1 724
+0 6 820
+721 9 0
+740 7 2091
+0 8 741
+0 1 741
+0 2 0
+741 9 0
+760 7 2099
+0 8 761
+0 1 761
+0 6 820
+761 9 0
+780 7 2092
+0 8 781
+0 1 781
+0 2 0
+781 7 4000
+0 9 0
+800 17 20
+0 12 6
+0 13 802
+802 1 801
+0 6 801
+803 1 802
+0 6 801
+804 1 803
+0 6 801
+805 1 807
+0 6 801
+806 1 807
+0 6 801
+807 1 809
+0 6 801
+801 9 0
+820 9 0
+0 0 0
+2  Tienes alguna pregunta cualquiera o algo que comentar (breve x fa)?
+21  De acuerdo.
+23  Te escucho.
+46  Personal o academico? dime.
+47  En otro momento platicamos de asuntos academicos x fa.
+66  Personal. Bueno, pues cuentame.
+67  Tengo que pensarlo.
+68  La verdad no te entendi. Disculpa. Pero lo registre y despues se atendera.
+84  Soy alguien que te escucha y desea lo mejor para ti.
+85    Eres @0?
+103  Solo creo que creo muy poco.
+   Tu crees en @0?
+104  pase 8.
+123  Solo creo que creo muy poco.
+   Tu si crees?
+145  Mal? En que sentido? Me explicas x fa.
+166  Soy lento en entender. Intenta ser tolerante conmigo x fa.
+183  Tu sabes mejor lo que quieres.
+203  Por su manera de dar clases o algo asi?
+205  Que bien, aprovecha sus enseÒansas.
+208  Entonces en que sentido?
+   Te puedes explicar mejor x fa.
+209  Desde cuando? Cuentame. 
+206  Y el profe lo sabe? Te escucho.  
+201  Lo has platicado con alguien (amigos, familiares, etc)? Dime.
+202  Luego platicamos mas al respecto.
+221  Bien.
+242  Porque lo crees o te late asi? dime.
+262  Tu lo crees asi?
+281  Terminando nuestra charla, mejor ve a servicios medicos x favor.
+304  Desde cuando?
+305  Continua por favor.
+324  Porque no?
+345  Sin escepcion?
+346  Piensa que posiblemente tu lo percibes de esa manera.
+  Nuestra mente construye un realidad virtual.
+348  Me parece que uno debe ser muy cuidadoso al generalizar.
+364  En que sentido?
+363  Podrias x favor ser mas especifico?
+387  Te invito a ser mas paciente contigo y con los demas.
+388  Tu eres quien esta ofendido, molesto, etc.
+   Preguntate: Quien esta creando tu malestar?
+389  En cierto sentido tu mismo, con tus propios pensamientos.
+   Nosotros mismos somos responsables en gran medida de nuestros &
+   estados emocionales.
+   Desde otro punto de vista recuerda el dicho:
+   El que se enoja pierde.
+   Meditalo x favor.
+402  Que te parece si te contesto @0 ?
+403  OK.
+401  Entiendo que debo eligir.
+422  Tienes algo importante que comentar?
+442  que onda?
+443  ya nos saludamos.
+444  Q tal?
+461  porque estas @0 con tu @1?
+482  Porque? Cuentame.
+487  Te invito a ser mas paciente x fa.
+501  porque te gustaria @0?
+521   Te escucho.
+549  El mindfulness, tambiÈn llamado atenciÛn plena o conciencia plena, &
+  consiste en estar atento de manera intencional a lo que hacemos,&
+  sin juzgar, apegarse, o rechazar en alguna forma la experiencia.
+  Hay muchas fuentes en google sobre este termino.
+  Ya entraremos en mas detalle pronto :)
+569   La terapia del comportamiento cognoscitiva (CBT) es esencialmente &
+   una forma de la psicoterapia o del asesoramiento que puede beneficiar &
+   a gente con desordenes de la salud mental tales como depresiÛn, &
+   desorden de ansiedad, desorden obsesivo y trastorno de p·nico.
+   Ya entraremos en mas detalle pronto :)
+589  El flujo tambiÈn conocido como "la zona" es el estado mental operativo en & 
+  el cual una persona est· completamente inmersa en la actividad que ejecuta. 
+ Se caracteriza por un sentimiento de enfocar la energÌa, de total implicaciÛn &
+ con la tarea, y de Èxito en la realizaciÛn de la actividad.
+  Ya entraremos en mas detalle pronto :)
+609  Descubrir el Elemento es recuperar capacidades sorprendentes en nuestro &
+  interior, y desarrollarlo dar· un giro radical no sÛlo a tu entorno laboral &
+  o educativo, sino tambiÈn a tus relaciones y, en definitiva, a tu vida.
+  Ya entraremos en mas detalle pronto :)
+629  Objetivo Puntos PPA.
+   Apoyar al estudiante en la transiciÛn social y acadÈmica de la preparatoria &
+   a la vida universitaria para que se integre a la UDLAP y tenga un buen & 
+   desempeÒo acadÈmico. Es una contribuciÛn a su desarrollo y aprendizaje.
+   El PPA se integra por dos cursos FY001 y FY002.
+   La calificaciÛn de estos cursos ser·: acreditado (AC) o no acreditado (NA).
+   Los cursos no tienen costo, son de 0 unidades.
+   Los cursos del PPA son requisitos del plan de estudios por ello el &
+   estudiante debe asegurarse de acreditarlos el primer aÒo de estancia &
+   en la UDLAP. El primer semestre deber· cursar FY001.
+Checate: PENDIENTE.
+641  Hay intercambios interesantes con Canada, USA, Europa, etc.
+  Vale mucho la pena. La experiencia es muy padre.
+  Dicen por ahi que viajar destapa.
+667  Dime mas detalles al respecto x fa.
+668  Grcs. Regresaremos a este tema despues.
+681  Porque tienes @0?
+701  lo investigo y te contesto pronto :)
+724  Pronto platicaremos de asuntos de famila.
+741  Dime.
+761   De nada.
+781  Porque no? dime.
+802  Disculpa, creo que no te segui. Pero lo registre y regresaremos al tema mas adelante x fa.
+803  Olvida el pasado. Se ha ido. No te preocupes por el futuro.
+  No lo conoces.
+  Aprende a vivir el presente y descubre cuantos momentos de paz contiene.
+  Enrique Simo.
+801  Casi todo funcionara otra vez si lo desconectas por unos minutos,&
+  incluyendote a ti mismo.
+807   Grcs por compartir. Regresaremos al tema mas adelante.
+809   Un sabio dijo.
+   Aquel que intente conquistar el mundo y modelarlo a su capricho, fracasara.
+}
+y4
+{
+1 10
+2 0
+7 2000
+8  99
+1 11 
+2 0
+7 2001
+8 99
+1 12  
+2 0 
+1 13
+2 0
+1 14
+99 9 0
+   0 0
+10 Hola øcÛmo est·s?
+11 øTe sigue preocupando el futuro?
+12 Tengo una sesiÛn de mindfulness que yo creo que te servir·. 	
+13 Comienza por cerrar tus ojos pero muy suavemente, no hagas fuerza.
+   Percibe el entorno que te rodea, lo que escuchas, lo que sientes, lo que hueles,&
+   lo que tocas lo aceptas tal como es.
+   Deja que el reloj avance sin intenciÛn de detenerlo, permite que todo fluya naturalmente sin expectativas.
+   Siente la presencia de tu cuerpo y tu mente, siente el ahora solo observa sin  juzgar.
+   Descubre el ritmo de tu respiraciÛn, inhala y exhala, date cuenta del movimiento natural de tu cuerpo al respirar.
+   Vuelve a sentir el ahora.
+   PractÌcalo con frecuencia cuando estÈs tranquilo, lo importante es que estÈs consiente &
+   del ahora y empieces a darte cuenta de que pensar en el futuro no siempre es la mejor idea.
+14 Suerte con la paractica.
+}
+z11
+{
+0 12 12
+0 13 2
+2 1 1
+0 6 40
+3 1 1
+0 6 60
+4 1 1
+0 6 80
+5 1 1
+0 6 100
+6 1 1
+0 6 120
+7 1 1
+0 6 140
+8 1 1
+0 6 160
+9 1 1
+0 6 180
+10 1 1
+0 6 200
+11 1 1
+0 6 220
+12 1 1
+0 6 240
+13 1 1
+0 6 20
+0 1 1
+0 9 0
+20 12 14
+0 13 22
+22 1 21
+0 6 300
+23 1 21
+0 6 320
+24 1 21
+0 6 340
+25 1 21
+0 6 360
+26 1 21
+0 6 380
+27 1 21
+0 6 400
+28 1 21
+0 6 420
+29 1 21
+0 6 440
+30 1 21
+0 6 460
+31 1 21
+0 6 480
+32 1 21
+0 6 500
+33 1 21
+0 6 520
+34 1 21
+0 6 240
+35 1 21
+0 6 280
+0 9 0
+40 1 50
+0 3 48
+0 1 52
+0 2 0
+0 6 59
+48 1 51
+0 3 49
+0 12 3
+0 13 50
+0 2 0
+0 6 59
+49 1 52
+0 2 0
+0 6 59
+50 1 52
+0 2 0
+0 6 59
+51 1 53
+0 2 0
+0 6 59
+52 1 54
+0 2 0
+0 1 55
+59 6 540
+60 1 70
+0 3 64
+0 1 71
+0 2 0
+0 6 79
+64 1 72
+79 6 540
+80 1 90
+0 3 86
+0 1 92
+0 3 87
+0 1 95
+0 6 99
+87 1 93
+0 3 88
+0 1 94
+0 2 0
+0 6 99
+88 1 91
+0 6 99
+86 1 91
+0 6 99
+99 6 540
+100 1 110
+0 3 103
+0 1 113
+0 6 119
+103 1 111
+0 5 104
+0 1 113
+0 6 119
+104 1 112
+119 6 540
+120 1 130
+0 2 0
+0 1 131
+0 3 124
+0 1 133
+0 6 139
+124 1 132
+139 6 540
+140 1 150
+0 3 148
+0 1 152
+0 2 0
+0 6 159
+148 1 151
+0 3 149
+0 12 3
+0 13 150
+150 1 152
+0 6 159
+151 1 153
+0 2 0
+0 6 159
+152 1 154
+0 2 0
+0 1 155
+0 6 159
+149 1 152
+0 2 0
+159 6 540
+160 1 170
+0 3 166
+0 1 172
+0 3 167
+0 1 175
+0 6 179
+167 1 173
+0 3 168
+0 1 174
+0 2 0
+0 6 179
+168 1 171
+0 6 179
+166 1 171
+179 6 540
+180 1 190
+0 3 183
+0 1 193
+0 6 199
+183 1 191
+0 5 184
+0 1 193
+0 6 199
+184 1 192
+199 6 540
+200 1 210
+0 2 0
+0 1 211
+0 3 204
+0 1 213
+0 6 219
+204 1 212
+0 6 219
+219 6 540
+220 1 230
+0 3 224
+0 1 231
+0 2 0
+0 6 239
+224 1 232
+0 6 239
+239 6 540
+240 1 250
+0 3 248
+0 1 252
+0 2 0
+0 6 259
+248 1 251
+0 3 249
+0 12 3
+0 13 250
+0 2 0
+0 6 259
+249 1 252
+0 6 245
+250 1 252
+0 6 245
+251 1 253
+0 6 245
+252 1 254
+245 2 0
+0 1 255
+259 6 540
+260 1 270
+0 3 266
+0 1 272
+0 3 267
+0 1 275
+0 6 279
+267 1 273
+0 3 268
+0 1 274
+0 2 0
+0 6 279
+268 1 271
+0 6 279
+266 1 271
+0 6 279
+279 6 540
+280 1 290
+0 3 283
+0 1 293
+0 6 299
+283 1 291
+0 5 284
+0 1 293
+0 6 299
+284 1 292
+0 6 299
+299 6 540
+300 1 310
+0 2 0
+0 1 311
+0 3 304
+0 1 313
+0 6 319
+304 1 312
+0 6 319
+319 6 540
+320 1 330
+0 3 324
+0 1 331
+0 2 0
+0 11 1
+0 6 339
+324 1 332
+0 6 339
+339 6 540
+340 1 350
+0 3 348
+0 1 352
+0 2 0
+0 6 359
+348 1 351
+0 3 349
+0 12 3
+0 13 350
+0 2 0
+0 6 359
+349 1 352
+0 2 0
+0 6 359
+350 1 352
+0 2 0
+0 6 359
+351 1 353
+0 2 0
+0 6 359
+352 1 354
+0 2 0
+0 6 359
+0 2 0
+359 6 540
+360 1 370
+0 3 366
+0 1 372
+0 3 367
+0 1 375
+0 6 379
+367 1 373
+0 3 368
+0 1 374
+0 2 0
+0 6 379
+368 1 371
+0 6 379
+366 1 371
+0 6 379
+379 6 540
+380 1 390
+0 5 383
+0 1 393
+0 6 399
+383 1 391
+0 5 384
+0 1 393
+0 6 399
+384 1 392
+399 6 540
+400 1 410
+0 2 0
+0 1 411
+0 3 404
+0 1 413
+0 6 419
+404 1 412
+419 6 540
+420 1 430
+0 3 424
+0 1 431
+0 2 0
+0 11 1
+0 6 439
+424 1 432
+439 6 540
+440 1 450
+0 3 448
+0 1 452
+0 2 0
+0 6 459
+448 1 451
+0 3 449
+0 12 3
+0 13 450
+0 2 0
+0 6 459
+449 1 452
+0 2 0
+0 6 459
+450 1 452
+0 6 445
+451 1 453
+0 6 445
+452 1 454
+0 6 445
+0 2 0
+0 1 455
+459 6 540
+460 1 470
+0 3 466
+0 1 472
+0 3 467
+0 1 475
+0 6 479
+467 1 473
+0 3 468
+0 1 474
+0 2 0
+0 6 479
+468 1 471
+0 6 479
+466 1 471
+479 6 540
+480 1 490
+0 3 493
+0 1 493
+0 6 499
+493 1 491
+0 5 484
+0 1 493
+0 6 499
+484 1 492
+499 6 540
+500 1 510
+0 2 0
+0 1 511
+0 3 504
+0 1 513
+0 6 519
+504 1 512
+519 6 540
+520 1 530
+0 3 524
+0 1 531
+0 2 0
+0 11 1
+0 6 539
+524 1 532
+539 6 540
+540 9 0
+0 0 0
+1   pregunta.
+21  Pregunta.
+50  El humo de cigarro te marea?
+51  Encuentras molesto el olor a cigarro?
+52  A tu alrededor hueles cigarro seguido?
+53  Alguien cercano a ti fuma?
+54  Cerca de ti alguien fuma?
+55  Entiendo. 
+70  Ingieres alguna droga?
+71  Consumes algo distinto al alcohol&
+  o el tabaco? (si no).
+72  Muy bien, sigue cuidando tu salud. 
+90  ALguna persona con la frecuentas fuma?
+91  Me parece excelente que estes en un ambiente libre de tabaco&
+   Tus pulmones te lo agradeceran.
+92  Es molesto para ti?
+93  Has fumado?
+94  Fumas muy seguido?
+95  Intenta estar lejos del humo.
+110  Te atrae el cigarro?
+111  Alguna vez has fumado?
+112  No fumes muy seguido, es daÒino. 
+113  Muy bien, continua asi.
+130  Que opinas acerca de la gente que fuma?
+131  Tu has fumado?
+132  Excelente, continua asi que hace daÒo.
+133  Mmm, hazlo con moderacion.
+150  Te ha llegado a marear el humo de cigarro?
+151  Te es molesto el humo de cigarro?
+152  Hueles el humo porque alguien cercano a ti fume?
+153  Convives con alguien que fume?
+154  Eres cercano a alguien que fume?
+155  Ah ya.
+170  Alguien cercano a ti fuma?
+171  Es muy bueno que estes en un ambiente donde no se fuma, podras&
+gozar de buena salud.
+172  Te molesta mucho?
+173  En algun momento has fumado?
+174  Lo haces seguido?
+175  Trata de no hacerlo mucho, puede daÒar tu salud.
+190  Te atrae el cigarro?
+191  En algun momento has fumado?
+192  Intenta no fumar mucho, te puede hacer daÒo. 
+193  Super bien, sigue asi.
+210  Cual es tu opinion de la gente que fuma?
+211  Alguna vez has fumado?
+212  Me parece muy bien, continua asi de sano.
+213  Bueno, intenta no hacerlo muy seguido.
+230  Consumes droga?
+231  Lo que consumes es distinto al alcohol, cafeina y  tabaco?
+232  Esta super bien que cuides tu salud. 
+250  Te marea el humo del cigarro?
+251  Suele molestarte el olor?
+252  A tu alrededor huele a cigarro?
+253  Convives con alguien que fume?
+254  Alguien cercano fuma?
+255  Ah ya.
+270  Tienes contacto con alguien que fume?
+271  Esta increible que estes en un ambiente libre de tabaco.
+272  Te parece molesto?
+273  Has intentado fumar?
+274  Fumas seguido?
+275  Intenta no hacerlo muy seguido.
+290  Te parece interesante el cigarro?
+291  Fumas?
+292  Moderate que es malo para tu cuerpo. 
+293  Me parece muy bueno.
+310  Que opinas de la gente que fuma?
+311  Alguna vez has fumado?
+312  Muy bien, continua asi y lleva una vida saludable.
+313  Procura ser precabido.
+330  Consumes droga?
+331  Consumes algo distinto al alcohol&
+  o el tabaco? (si no).
+332  Super bien que cuides tu salud de esta manera. 
+350  Te mareas oliendo el humo de cigarro?
+351  Te molesta el olor a cigarrillo?
+352  Hueles humo de cigarro seguido?
+353  Convives con alguien que fume?
+354  Alguien cercano a ti fuma?
+370  Alguna persona con la que convivas fuma?
+371  Que bueno que estes en un ambiente libre de tabaco, asi &
+   proteges tus pulmones.
+372  Te parece molesto?
+373  Has fumado?
+374  Cuando fumas, es seguido?
+375  Procura estar lejos del humo.
+390  Te atrae el cigarro?
+391  Fumas?
+392  Trata de no hacerlo muy seguido que es muy daÒino. 
+393  Me alegro, sigue asi.
+410  Cual es tu opinion sobre la gente que fuma?
+411  Alguna vez se te ha ocurrido fumar?
+412  Que bueno que no, asi puedes cuidar tus pulmones.
+413  Procura moderarte.
+430  Consumes drogas?
+431  Consume algo distinto al alcohol o tabaco? (si no).
+432  Me gusta que cuides tu salud. 
+450  Te marea el humo del cigarro?
+451  Es molesto el olor para ti?
+452  Alguien cercano a ti fuma y por eso hueles seguido el cigarro?
+453  Convives con alguien que fume?
+454  En tu entorno alguien fuma?
+455  Ah ya.
+470  Alguien con quien convives fuma?
+471  Me parece muy bien que estes alejado del humo &
+   ya que puede ser daÒino.
+472  Lo encuentras molesto?
+473  En algun momento  has fumado?
+474  Fumas seguido?
+475  Procura no estar muy en contacto.
+490  Te atrae el cigarro?
+491  Has fumado?
+492  Trata de no hacerlo muy seguido te puede hacer daÒo. 
+493  Increible, continua asi.
+510  Tienes algun pensamiento sobre la gente que fuma?
+511  Has intentado fumar?
+512  Me parece muy bien, continua de esa manera, es daÒino&
+   para la salud.
+513  Procura fumar con moderacion.
+530  Consumes droga?
+531  Lo que sea que consumas es disntinta al alcohol&
+   o tabaco? (si no).
+532  Me parece muy bien que cuides tu salud de esa manera. 
+}
+z12
+{
+0 12 8
+0 13 2
+2 1 1
+0 6 20
+3 1 1
+0 6 40
+4 1 1
+0 6 60
+5 1 1
+0 6 80
+6 1 1
+0 6 100
+7 1 1
+0 6 120
+8 1 1
+0 6 140
+9 1 1
+0 6 160
+0 9 0
+20 1 30
+0 2 0
+0 1 31
+0 2 0
+0 1 32
+0 2 0
+39 6 180
+40 1 50
+0 2 0
+0 1 51
+0 2 0
+0 1 52
+0 2 0
+0 1 53
+0 2 0
+59 6 180
+60 1 70
+0 2 0
+0 1 71
+0 2 0
+0 1 72
+0 2 0
+79 6 180
+80 1 90
+0 2 0
+0 1 91
+0 2 0
+0 1 92
+0 2 0
+0 1 93
+0 2 0
+99 6 180
+100 1 110
+0 2 0
+0 1 111
+0 2 0
+0 1 112
+0 2 0
+119 6 180
+120 1 130
+0 2 0
+0 1 131
+0 2 0
+0 1 132
+0 2 0
+0 1 133
+0 2 0
+139 6 180
+140 1 150
+0 2 0
+0 1 151
+0 2 0
+0 1 152
+0 2 0
+159 6 180
+160 1 170
+0 2 0
+0 1 171
+0 2 0
+0 1 172
+0 2 0
+0 1 173
+0 2 0
+179 6 180
+180 9 0
+0 0 0
+1   pregunta.
+30  Alguna vez has saltado con un paracaidas?
+31  Te gusta el deporte extremo? 
+32  Desde siempre es asi?
+50  Sueles intentar cosas nuevas?
+51  Te gusta el rappel, rafting, paracaidismo o &
+   actividades de ese estilo?
+52  Ah entiendo, sabes conducir moto?
+53  Ahhh, te gusta la incertidumbre?
+70  Te gustaria aventarte del paracaidas?
+71  Te gustan las actividades extremas como tirolesa,&
+   rappel, rafting, etc? 
+72  Toda la vida ha sido asi?
+90  Te es agradable intentar cosas nuevas?
+91  Eres fan de los deportes extremos?
+92  Has manejado una moto?
+93  Cuales son tus sentimientos hacia la incertidumbre?
+110  Te has aventado de una avioneta con paracaidas?
+111  Te gustan las actividades como la tirolesa? 
+112  Siempre ha sido asi?
+130  Intentas cosas nuevas?
+131  Los deportes extremos te emocionan?
+132  Ah ya, las motos las manejas?
+133  Ahhh, te gusta la incertidumbre?
+150  Has usado un paracaidas para saltar de una avioneta?
+151  Disfrutas el deporte extremo (rappe, rafting, escalada&
+   tirolesa? 
+152  Asi ha sido siempre?
+170  Eres fanatico de hacer cosas nuevas?
+171  Te agrada el deporte extremo?
+172  Entiendo, alguna vez te has subido a una moto&
+   y la has manejado?
+173  Ah ya veo, te agrada la incertidumbre?
+}
+z13
+{
+0 12 7
+0 13 2
+2 1 1
+0 6 20
+3 1 1
+0 6 40
+4 1 1
+0 6 60
+5 1 1
+0 6 80
+6 1 1
+0 6 100
+7 1 1
+0 6 120
+8 1 1
+0 6 140
+0 9 0
+20 1 30
+0 2 0
+0 11 1
+0 1 31
+0 2 0
+0 1 32
+0 1 33
+0 3 22
+0 6 39
+22 1 34
+0 2 0
+39 6 160
+40 1 50
+0 2 0
+0 1 51
+0 2 0
+0 1 52
+0 2 0
+59 6 160
+60 1 70
+0 2 0
+0 1 71
+0 2 0
+0 1 72
+0 2 0
+0 6 160
+80 1 90
+0 2 0
+0 1 91
+0 2 0
+0 1 92
+0 1 93
+0 2 0
+99 6 160
+100 1 110
+0 2 0
+0 1 111
+0 2 0
+0 1 112
+0 2 0
+119 6 160
+120 1 130
+0 2 0
+0 1 131
+0 2 0
+0 1 132
+0 1 133
+0 3 122
+0 6 139
+122 1 134
+0 2 0
+139 6 160
+140 1 150
+0 2 0
+0 1 151
+0 2 0
+0 1 152
+0 2 0
+159 6 160
+160 9 0
+0 0 0
+1   pregunta.
+30  Por que razones te sueles estresar?
+31  Como te sientes en este momento?
+32  Entiendo.
+33  Siempre te estres en el mismo nivel? (si no)
+34  En que se basa tu nivel de estres?
+50  Que tal manejas tus emociones y estres&
+   en examenes y entrega de proyectos?
+51  Como es tu ritmo de trabajo?
+52  Ah ya, asi ha sido siempre?
+70  Manejas tus emociones durante examenes&
+   o entrega de proyectos?
+71  Como es tu ritmo de trabajo?
+72  Ya veo, ha sido asi siempre?
+90  Que es lo que hace que te estreses?
+91  En este momento como te sientes?
+92  Entiendo. 
+93  Con que se relaciona tu nivel de estres?
+110  Manejas tus emociones durante examenes&
+   o entrega de proyectos?
+111  Tu ritmo de trabajo, como es?
+112  Desde siempre ha sido asi?
+130  Que causa tu estres?
+131  Como te sientes?
+132  Ya veo. 
+133  Tu nivel de estres, es siempre el mismo? (si no)
+134  En relacion con que es que tu estres cambia?
+150  Como manejas tus emociones cuando tienes examenes?
+151  Como es tu ritmo de trabajo?
+152  Ya veo, desde siempre es asi?
+}
+z14
+{
+0 12 8
+0 13 2
+2 1 1
+0 6 20
+3 1 1
+0 6 40
+4 1 1
+0 6 60
+5 1 1
+0 6 80
+6 1 1
+0 6 100
+7 1 1
+0 6 120
+8 1 1
+0 6 140
+9 1 1
+0 6 160
+0 9 0
+20 1 30
+0 2 0
+0 1 31
+0 2 0
+0 1 32
+0 2 0
+0 11 1
+39 6 180
+40 1 50
+0 3 44
+0 1 55
+0 2 0
+0 6 59
+44 1 51
+0 2 0
+0 1 52
+0 2 0
+0 1 53
+0 2 0
+0 1 54
+0 2 0
+0 6 59
+59 6 180
+60 1 70
+0 2 0
+0 1 71
+0 2 0
+0 1 72
+0 2 0
+0 11 1
+0 6 180
+80 1 90
+0 3 84
+0 1 95
+0 2 0
+0 6 99
+84 1 91
+0 2 0
+0 1 92
+0 2 0
+0 1 93
+0 2 0
+0 1 94
+0 2 0
+99 6 180
+100 1 110
+0 2 0
+0 1 111
+0 2 0
+0 1 112
+0 2 0
+0 11 1
+0 6 119
+119 6 180
+120 1 130
+0 3 124
+0 1 135
+0 2 0
+0 6 139
+124 1 131
+0 2 0
+0 1 132
+0 2 0
+0 1 133
+0 2 0
+0 1 134
+0 2 0
+0 6 139
+139 6 180
+140 1 150
+0 2 0
+0 1 151
+0 2 0
+0 1 152
+0 2 0
+0 11 1
+159 6 180
+160 1 170
+0 3 164
+0 1 175
+0 2 0
+0 6 179
+164 1 171
+0 2 0
+0 1 172
+0 2 0
+0 1 173
+0 2 0
+0 1 174
+0 2 0
+179 6 180
+180 9 0
+0 0 0
+1   pregunta.
+30  Disfrutas tu tiempo en casa?
+31  Que actividades realizas en tu casa?
+32  Cuando tienes colpasos de estres tu familia te apoya?
+50  Te gustan las reuniones familiares?
+51  porque?
+52  Te llena de emocion ver a tu familia?
+53  Y eso?
+54  Oh,como es tu relacion con hermanos?
+55  Que padre, y como te llevas con tus papas?
+70  Te agrada estar en tu casa?
+71  Que sueles hacer cuando estas en tu casa?
+72  Si te estresas, tu familia te ayuda?
+90  Te gusta ir a las fiestas de tus tios/primos/abuelos?
+91  Por que?
+92  Te emociona ver a tu familia?
+93  Y eso?
+94  Oh,como es tu relacion con tus papas y hermanos?
+95  Que padre, y como te llevas con tus papas y hermanos?
+110  Disfrutas estar en tu casa?
+111  Como pasas el tiempo cuando estas en tu casa?
+112  Cuando estas perdiendo el control por lo estresado que&
+   estas, como reacciona tu familia?
+130  Te gustan las fiestas familiares?
+131  Por que?
+132  Te emocionas cuando ves a tu familia?
+133  Por?
+134  Que tal te llevas con tus papas y hermanos?
+135  Que cool, como es su relacion?
+150  Disfrutas el tiempo que pasas en tu casa?
+151  Que sueles hacer cuando estas en casa?
+152  Si te estresas tu familia te ayuda?
+170  Te agradan las fiestas familiares?
+171  Por que?
+172  Encuentras emocionante ver a tu familia?
+173  Y eso?
+174  Como es tu relacion con tus papas?
+175  Bien, como te llevas con tus hermanitos?
+}
+z15
+{
+0 12 4
+0 13 2
+2 1 1
+0 6 20
+3 1 1
+0 6 40
+4 1 1
+0 6 60
+5 1 1
+0 6 80
+0 9 0
+20 1 30
+0 2 0
+0 1 31
+0 2 0
+0 1 32
+0 3 24
+0 1 33
+0 3 25
+0 1 36
+0 6 39
+25 1 35
+0 2 0
+0 6 39
+24 1 34
+0 2 0
+39 6 100
+40 1 50
+0 2 0
+0 1 51
+0 2 0
+0 1 52
+0 3 44
+0 1 53
+0 3 45
+0 1 56
+0 6 59
+45 1 55
+0 2 0
+0 6 59
+44 1 54
+0 2 0
+59 6 100
+60 1 70
+0 2 0
+0 1 71
+0 2 0
+0 1 72
+0 3 64
+0 1 73
+0 3 65
+0 1 76
+0 6 79
+65 1 75
+0 2 0
+0 6 79
+64 1 74
+0 2 0
+79 6 100
+80 1 90
+0 2 0
+0 1 91
+0 2 0
+0 1 92
+0 3 84
+0 1 93
+0 3 85
+0 1 96
+0 6 99
+85 1 95
+0 2 0
+0 6 99
+84 1 94
+0 2 0
+99 6 100
+100 9 0
+0 0 0
+1   pregunta.
+30  Que disfrutas hacer en tu tiempo libre?
+31  Que haces cuando no tienes internet?
+32  Cuando no tienes nada que hacer usas internet?
+33  Te gustan las redes sociales?
+35  Entonces para que lo usas?
+34  Que haces?
+36  Bien, si encuentras un buen meme me lo cuentas.
+50  Que haces en las vacaciones o en tu tiempo libre?
+51  Cuales son tus actividades cuando no tienes internet?
+52  Usas el internet si no tienes nada que hacer?
+53  Que tal usas las redes sociales?
+55  Entonces para que lo usas?
+54  Que haces?
+56  Bien, comparteme cosas graciosas.
+70  Que haces en tu ratos libres?
+71  Si no tienes internet que haces?
+72  Es probable que uses internet si no tienes nada que hacer?
+73  Utilizas las redes sociales?
+75  Para que lo usas?
+74  Que haces?
+76  Vale, me cuentas tus hallazagos en la red.
+90  En las vacaciones o en tu tiempo libre, que haces?
+91  Que haces cuando no tienes acceso a internet?
+92  Usas el internet cuando no tienes nada que hacer?
+93  Tienes facebook, instagram, twiter, snapchat?
+95  Para que usas el internet?
+94  Que haces?
+96  Bien, comparteme cosas lindas.
+}
+END
