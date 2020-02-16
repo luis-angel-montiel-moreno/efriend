@@ -1,0 +1,66 @@
+j2
+{
+  1   2
+  2   0
+  7   1022
+  8   2
+  1   15
+  2   0
+2 7   2025
+  8   5
+  1   3
+  2   0
+  7   2070
+  8    6
+  1    5
+  6    9
+6  1   6
+  6   9
+5 7   2026
+  8   15
+  1   4
+  2   0
+  7   2070
+  8   11
+  1   5
+  6   9
+11 1   8
+  6   9
+15 7 2027
+  8  20
+  1  7
+  2  0
+  1  9
+  6  9
+20  1  10
+9  1   11
+   2  0
+   7  1091
+   8  23
+   1  13
+   6  29
+23 7  1090
+   8  26
+   1  14
+   6  29
+26 1 12
+29 9   0
+   0  0
+2 Romance o suspenso?
+3 Porque Romance?
+4 Porque suspenso?
+5 Tamos de buen humor, super.
+6  Ya veo.
+  Pero el suspenso te tiene siempre en incertidumbre.
+8  Ya veo.
+  Pero Romance es algo muy humano.
+7 No era opcion, pero se vale. Y porque?
+9 Interesante.
+10 No se vale, jaja.
+11 Yo me voy mas x Suspenso.
+   Mejor ciencia ficcion. Conoces viaje a las estrellas?
+12 Esta platica continuara en otro momento.
+13 Que bien.
+14 Te la recomiendo, me parece interesante. Aunque muy retro. 
+15 Te pregunto que genero prefieres entre Romance y Suspenso.
+}

@@ -1,0 +1,187 @@
+h1
+{  
+   1 9   
+   3 7
+   1  2
+   2  0
+   7  1011
+   4  1
+   8  12
+   1  4
+   15 7
+   15 8
+   6  8
+12 1  5 
+9  9 0
+   6 8
+7  1 10
+   1 11  
+8  9 0
+   0 0
+9 Te gusta la musica?
+2 Que clase de musica te gusta (genero favorito)?
+4 Que bien :)
+  Ya tenemos de que platicar.
+5 No lo conozco. Ya aprendi un genero nuevo:)
+7 e_gusta(musica).
+8 e_musica(@1). 
+10 El sordo no oye pero bien que compone - Beethoven. 
+   Es un chiste, eso no lo dijo Beethoven.
+11 Con la musica pueden expresarse sentimientos & 
+ que no pueden expresarse con palabras.
+   El silencio tambien ayuda a meditar.
+}
+h2
+{  
+   1 2
+   3 10
+   1 4
+   15 6
+   1 9
+   2 0
+   4 1
+   15 10
+   1 7
+   2 0
+   4  1
+   15 8
+   6 99
+10 1 5
+99 9 0
+   0 0
+2 Te gusta el cine?
+4 En la uni hay cine.
+  Proyectan pelis al menos una vez a la semana.
+  Date un tiempo para ir al cine.
+  Ya tenemos de que platicar.
+5 El cine no es para todos.
+7 Alguna peli que te guste?
+6 e_gusta(cine).
+8 e_gusta(@1,3).
+9 Que tipo de pilis te gustan (drama, accion, etc)?
+10 e_gusta(@1,3).
+}
+h3
+{
+   1 22
+   3 10
+   1 24
+   15 26
+11 1 29
+   22 0
+   25 14
+   6  15
+14 13 1
+1  15 41
+   6 17
+2  15 42
+   6 17
+3  15 43  
+   6 17
+4  15 44
+   6  17
+5  15 45
+   6 17
+6  15 46
+   6 17
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+15 1 7
+   17 11
+   6 29
+17 1 27
+   2 0
+   7  1050
+   8  52
+   6  39
+52 7 1051
+   8 54
+   6 39
+54 7 1052
+   8  55
+   6 39
+55 1  6
+   6 29
+39 4 1
+   15 28
+   1 31
+   6 29
+10 1 25
+29 9 0
+   0 0
+7 Opcion invalida.
+6 No lo conozco.
+22 Te gusta viajar?
+24 La uni tiene un programa de intercambios muy interesante.
+  Date un tiempo para ir a la oficina de RI.
+  Checate URL1.
+25 Viajar al interior de uno mismo es padre :)
+27 Algun pais que te guste, fuera de Mexico?
+26 e_gusta(viajar).
+28 e_gusta_pais(@1,3).
+29 Que continente te llama mas la atencion?
+ (1=América, 2=Europa, 3=África, 4=Asia, 5=Oceanía, 6= Antártida).
+30 e_gusta_cont(@1,3).
+31 grcs x compartir.
+41  e_gusta_cont(america,3).
+42  e_gusta_cont(europa,3).
+43  e_gusta_cont(africa,3).
+44  e_gusta_cont(asia,3).
+45  e_gusta_cont(oceania,3).
+46  e_gusta_cont(antartida,3).
+}
+h5
+{
+10 18 8
+   8 99
+   1 11
+   3 5
+   1 6
+   6 99
+5  1 7
+99 9 0
+   0 0
+6 que bien.
+7 ya habra tiempo.
+8 e_musica( * ).
+11 has ido alguna tocada de @0?
+}
+h6
+{
+10 18 8
+   8 99
+   1 11
+   3 5
+   1 6
+   6 99
+5  1 7
+99 9 0
+   0 0
+6 que bien.
+7 ya habra tiempo.
+8  e_gusta(cine).
+11 has ido al cine recientemente?
+}
+h7
+{
+   18 9
+   8  12
+3  1 11
+   3 5
+   1 6
+   6 99
+5  1 7
+   6 99
+12 1  12
+99 9 0
+   0 0
+6 que bien.
+7 Te la recomiendo.
+9 e_pregunta_si_gusta_peli( * ).
+11 Ya viste la peli @0?
+12 Ya me perdi.
+}

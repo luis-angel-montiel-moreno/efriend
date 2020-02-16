@@ -1,0 +1,2 @@
+# Archivo de tokens (unidades atomicas de conversacion)
+# tokens_all.cod

@@ -1,0 +1,109 @@
+z15
+{
+0 12 4
+0 13 2
+2 1 1
+0 6 20
+3 1 1
+0 6 40
+4 1 1
+0 6 60
+5 1 1
+0 6 80
+0 9 0
+20 1 30
+0 2 0
+0 1 31
+0 2 0
+0 1 32
+0 3 24
+0 1 33
+0 3 25
+0 1 36
+0 6 39
+25 1 35
+0 2 0
+0 6 39
+24 1 34
+0 2 0
+39 6 100
+40 1 50
+0 2 0
+0 1 51
+0 2 0
+0 1 52
+0 3 44
+0 1 53
+0 3 45
+0 1 56
+0 6 59
+45 1 55
+0 2 0
+0 6 59
+44 1 54
+0 2 0
+59 6 100
+60 1 70
+0 2 0
+0 1 71
+0 2 0
+0 1 72
+0 3 64
+0 1 73
+0 3 65
+0 1 76
+0 6 79
+65 1 75
+0 2 0
+0 6 79
+64 1 74
+0 2 0
+79 6 100
+80 1 90
+0 2 0
+0 1 91
+0 2 0
+0 1 92
+0 3 84
+0 1 93
+0 3 85
+0 1 96
+0 6 99
+85 1 95
+0 2 0
+0 6 99
+84 1 94
+0 2 0
+99 6 100
+100 9 0
+0 0 0
+1   pregunta.
+30  Que disfrutas hacer en tu tiempo libre?
+31  Que haces cuando no tienes internet?
+32  Cuando no tienes nada que hacer usas internet?
+33  Te gustan las redes sociales?
+35  Entonces para que lo usas?
+34  Que haces?
+36  Bien, si encuentras un buen meme me lo cuentas.
+50  Que haces en las vacaciones o en tu tiempo libre?
+51  Cuales son tus actividades cuando no tienes internet?
+52  Usas el internet si no tienes nada que hacer?
+53  Que tal usas las redes sociales?
+55  Entonces para que lo usas?
+54  Que haces?
+56  Bien, comparteme cosas graciosas.
+70  Que haces en tu ratos libres?
+71  Si no tienes internet que haces?
+72  Es probable que uses internet si no tienes nada que hacer?
+73  Utilizas las redes sociales?
+75  Para que lo usas?
+74  Que haces?
+76  Vale, me cuentas tus hallazagos en la red.
+90  En las vacaciones o en tu tiempo libre, que haces?
+91  Que haces cuando no tienes acceso a internet?
+92  Usas el internet cuando no tienes nada que hacer?
+93  Tienes facebook, instagram, twiter, snapchat?
+95  Para que usas el internet?
+94  Que haces?
+96  Bien, comparteme cosas lindas.
+}

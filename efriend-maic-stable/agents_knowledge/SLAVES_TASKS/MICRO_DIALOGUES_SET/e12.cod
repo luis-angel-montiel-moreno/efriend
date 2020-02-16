@@ -1,0 +1,89 @@
+e12
+{
+   1 1
+   22 0 
+   25 1
+1  1 2
+   2 0
+   1 3
+   2 0
+   1 4
+   2 0
+   1 5
+   2 0
+   1 6
+   2 0
+   1 7
+   2 0
+   1 8
+   2 0
+   1 9
+   2 0
+   1 10
+   2 0
+   1 12
+   3  9
+   1  15
+   3  16
+   15 17
+   6 11
+16 15 18
+   6  11
+9  1 14
+11 1  20 
+   9 0
+   0 0
+1 Si estás de acuerdo me gustaría hablarte de los sentimientos &
+   y su relación con los sentimientos.
+   (0 Bueno de algo servirá,  1 Me interesa).
+2 Va a ser un dialogo hipotetico. Solo para tratar de darme a entender.
+  (Escribe OK para continuar).
+3 ¿Puedes pensar en algunos momentos en el transcurso de la semana &
+   en los que te hayas sentido mal?
+ (Tu respuesta hipotetica: Sí, hoy cuando salí de mi clase).
+ (pulsa cambio de linea para continuar). 
+4  ¿Cuál fue el sentimiento que experimentaste?
+    ¿Estabas triste, angustiado, enojado? 
+   (Tu respuesta hipotetica: Triste )
+5  ¿Qué estabas viendo o escuchando?
+  (Tu respuesta hipotetica: Escuche a un compañero decir &
+   que  había sacado 100 en su examen).
+   (pulsa cambio de linea para continuar).
+6  ¿Y qué pensaste?
+   (Tu respuesta hipotetica: Que nunca podré sacar 100.
+    (pulsa cambio de linea para continuar).
+7  Entiendo.
+   Estos pensamientos son conocidos como pensamientos automáticos, &
+   y todos los tenemos.
+   No estas intentando pensar en eso, pero llegan a tu mente de todas formas.
+   A veces son muy rápidos y eso nos hace más conscientes &
+   de la emoción (tristeza) que del pensamiento.
+  En ocasiones estos pensamientos pueden no ser reales, &
+  pero igual nos afectan.
+   (Tu respuesta hipotetica: Ah).
+   (pulsa cambio de linea para continuar).
+8 Lo que haremos es enseñarte a identificar estos pensamientos automáticos &
+  y evaluar si son correctos.
+  Evaluemos el pensamiento “Nunca podré sacar 100” &
+  ¿Cómo te sentirías al darte cuenta de que este solo &
+  fue un pensamiento tratando de engañarte &
+  y que cuando deseches esta tristeza, &
+  te des cuenta de que eres tan capaz de sacar 100 como tu compañero?
+  (Tu respuesta hipotetica: Estaría mejor).
+  (pulsa cambio de linea para continuar).
+9 ¿Tienes una hoja a la mano o algo donde anotar?
+  (Tu respuesta hipotetica: Si).
+  (pulsa cambio de linea para continuar).
+10 Vale, por fa escribe en una hoja.
+  -Nunca podré sacar 100- me hace sentir triste, &
+  ¿Te das cuenta que tu pensamiento influye en lo que sientes?
+ (Tu respuesta hipotetica: mmm si).
+  (pulsa cambio de linea para continuar).
+12 Me di a entender?
+14 Pensare mas tarde como explicarme mejor.
+15 Que bien :)
+   Te parecio interesante el ejercicio?
+17 h_gusto(e12).
+18 h_disgusto(e12).
+20 Grcs.
+}

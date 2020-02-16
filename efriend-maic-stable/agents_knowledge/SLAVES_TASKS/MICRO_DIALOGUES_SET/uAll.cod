@@ -1,0 +1,228 @@
+u1
+{
+  1  1
+  5  9 
+  15  5
+  1  2
+  2  0
+  1  3
+  6  99
+9 15 5
+  1 9 
+99 9 0
+   0  0
+1 Te gusta hacer ejercicio?
+2 ¿Porqué no?
+3 Gracias.
+5 e_gusta(ejercicio).
+9 Te invito a visitar el gimnacio de la udlap :)
+}
+u2
+{  
+   18 9
+   25 7
+   6  10
+7  1  10
+10 1  1
+   5  99 
+   4  1
+   1  2
+   2  0
+   4  1
+   7  1050
+   8  12
+   1  4
+   6  99
+12 7 1051
+   8 14
+   1 5
+   6 99
+14 7 1052
+   8  15
+   1  6
+   6 99
+15 1  7 
+   1  3
+99 9  0
+   0  0
+1 ¿Ya  conoces nuestro programa de intercambios?
+2 Hay intercambios interesantes con Canadá, USA, Europa, etc.
+  Por cierto, que país te gustaría conocer?
+3 Grcs.
+4 Europa. Que bien:)
+5 América de Norte. Siempre es una opción que vale la pena.
+6 Buena opción !
+7 No lo conozco, jeje.
+  Mas tarde lo checaré en google:)
+9 e_gusta(viajar).
+10 Te pregunto lo siguiente x q supongo q te gusta viajar.
+}
+u3
+{
+  18 9
+  25 7
+  6  10
+7 1  10
+10 1  1
+  5  9 
+  15  5
+  1  2
+  2  0
+  1  3
+  6  99
+9 15 5
+99 9 0
+   0  0
+1 Te gustan los idiomas?
+2 ¿Porqué no?
+3 Gracias.
+5 e_gusta(idiomas).
+9 e_gusta(viajar).
+10 Te pregunto lo siguiente x q te gusta viajar.
+}
+u9
+{
+ 1  1
+ 5  99 
+ 4  1
+ 1  2
+ 2  0
+ 1  3
+99 9 0
+   0  0
+1 Te gusta el campus?
+2 ¿Porqué no?
+3 Gracias.
+}
+u7
+{
+1  1 4
+   2  0
+   1  5
+   2  0
+   1  6
+   5 2
+   1 7
+   2  0
+2  1 8
+   1 9
+   5 99
+   1 15
+   2 0
+99 1 16
+   2 0
+   1 17
+   2  0
+   1 18
+   2 0
+   9 0
+   0 0
+4  Regálame otros pocos  minutos x fa.
+   (Es importante).
+ (Pulsa -enter- para continuar x fa).
+5 La UDLAP cuenta con un programa de tutoría académica.
+ Esto consiste de un servicio individualizado que promueve la &
+ relación estrecha mediante el diálogo constructivo entre tutor-tutorado &
+ y su enfoque central es el aprendizaje.
+ Cada estudiante de licenciatura cuenta con un &
+ tutor académico al ingresar a la UDLAP.
+ (Pulsa -enter- para continuar x fa).
+6 La Universidad interesada en establecer lazos de cordialidad, &
+ confianza y un medio propicio para un  buen desempeño académico &
+ asigna tutores académicos los cuales son profesores &
+ de tiempo completo de la institución,&
+ pertenecientes al departamento de la licenciatura que has elegido estudiar.
+ Es importante mencionarte que el tutor académico &
+ te acompaña durante toda tu trayectoria universitaria &
+ hasta concluir tus estudios.
+ ¿Vamos bien?
+7  Lo explicare algo diferente.
+ La tutoría académica consiste de un servicio particular para cada alumno &
+ que busca mantener una  relación estrecha ente alumno y tutor.
+  El tutor te escucha, se preocupa por ayudarte a dar solución a tus problemas.
+  Es importante recordarte que el tutor académico te acompaña &
+  durante toda tu trayectoria universitaria hasta concluir tus estudios.
+ (Pulsa -enter- para continuar x fa).
+8  Un tutor conoce la carrera universitaria que el/la alumno(a) &
+  a elegido y su nivel académico le ofrece un panorama amplio sobre la &
+ profesión y  el campo laboral de desarrollo profesional.
+ Además, se establece un vínculo cercano que les permitirá conversar &
+ sobre las inquietudes y proyectos personales del alumno encaminados &
+ al desempeño de la profesión elegida ya que estará acompañando &
+  al estudiante durante toda tu carrera. 
+9  Durante el programa de inducción a la UDLAP, &
+    ya te habian comentado sobre este sevicio?
+15  Raro. Pero ahora ya sabes. Tu tutor esta para ayudarte.
+  (Pulsa -enter- para continuar x fa).
+16 Yo soy un sistema que apoyará a tu tutor en ayudarte.
+   Te explicaré técnicas de CBT y mindfulness &
+   que te ayudarán a conocerte mejor.
+   Ahora no importa si no sabes que es CBT o mindfulness.
+  (Escribe OK para continuar x fa).
+17 También te ayudaré a -encontrar tu elemento- &
+   y lograr -estados de flujo-. 
+   Ya te explicaré, no te preocupes.
+  (Pulsa -enter- para continuar x fa).
+18 Posiblemente estés o no familiarizado con estos terminos.
+   Pronto platicaremos más sobre ellos.
+   (Escribe OK para continuar x fa).
+}
+u10
+{
+   1  1
+   2  0
+   4  1
+   15 3
+   1  2
+   2  0
+  1 91
+  2 0
+  1 92
+  5  82
+  1  93
+  6  85
+82 1  94
+85 1 95
+  2  0
+  1  96
+  2 0
+9 1  97
+  22  0 
+  1   15
+  9 0
+  0 0
+1  Hola. Soy TeCMEF.
+   Como te llamas?
+2  Bonito nombre @1.
+   (teclea enter  x fa).
+3  e_nombre(@1).
+15 muy bien!
+91 Intentaré ayudarte explicándote algunas técnicas que &
+  te podrían ayudar a conocerte mejor y quizas &
+  incluso a incrementar tus habilidades.
+  Te pido que me tengas paciencia, pues estoy iniciando esto.
+  Cuando tengas algo que decime sigue mis instrucciones por favor.
+  A veces sólo te pediré que pulses la tecla -enter- para continuar.
+ (Pulsa la tecla -enter- para continuar x fa).
+92 Bien :)
+  Otras veces te pediré que contestes -si o no-.
+ ¿Me sigues?
+93 Al conestar no, me parece que  me estás entendiendo.
+   Yo creo que con la práctica, & ya verás que no es tan difícil comuninarnos.
+94 Super!
+95 Otras veces te pediré una  frase corta e incluso sólo palabras clave.
+  Por ejemplo, tu podrías preguntar: &
+  ¿Qué son los puntos ppa?
+  (Pulsa -enter- para continuar x fa).
+96 Y yo podría contestar algo como: &
+   Los puntos ppa bla, bla, bla.
+  (Pulsa -enter- para continuar x fa).
+97 Pronto lo verás!
+  &
+  Al final siempre te pediré que me evalúes.
+  Es una medida de que tan útil te resulté.
+  Escribiras un número entero entre 0 y 9.
+  0 es que fui pésimo.
+  9 sera que lo hice muy bien.
+  Por favor, escribe un dígito y después -enter- sólo para practicar.
+}

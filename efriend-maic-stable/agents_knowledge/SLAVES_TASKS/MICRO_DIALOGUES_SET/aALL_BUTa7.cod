@@ -1,0 +1,126 @@
+a1
+{  
+   1 2
+   3  99 
+   1 4
+   2 0
+   4 1
+   7 2081
+   8 1
+   1 6
+   1 5
+   2 0
+   1 7
+   1 8
+   6 10
+1  7 2083
+   8 11
+   1 9
+   1 10
+   2 0
+   1 12
+   6 10
+11 1 5
+   2 0
+   1 3
+10 15 14
+99 9 0 
+   0 0
+2 Encuentras algun curso dificil?
+4 Cual curso?
+3 Pensaremos tu tutor, yo y tu mismo estrategias &
+  para que tengas exito en el curso, te parece?
+5 Por que encuentras @1 dificil?
+6 Las famosas Mates.
+7 Acude al centro de matematicas. Esta dentro de  CN 205.
+  Preguntale a la secretaria a la entrada.
+8 De todos modos, pensaremos tu tutor, yo y tu mismo estrategias &
+  para que tengas exito en el curso.
+9 Rayos, a mi tambien me costaba trabajo.
+10 Que tema se te dificulta?
+12 Bueno, pensaremos como facilitar las cosas para ti.
+14  e_cursodif(@1).
+}
+a4
+{  
+   1 2
+   3  99 
+   1 4
+   2 0
+   1 5
+   3 7
+   1 8
+   6 99
+7  1 3
+99 9 0
+   0 0
+2 ENCUENTRAS algun profe dificil?
+4 Cual profe? (inventa un pseudonimo si prefieres)
+3 Ya veo, pensaremos tu tutor, yo y tu mismo estrategias &
+  para que tengas exito con el/la profe.
+5 La materia que imparte te parece complicada?
+8 Posiblemente sea la materia y no el profesor, pero pensaremos en una &
+  forma para que te vaya muy bien en el curso.
+}
+a3
+{  
+   1 2
+   3  99 
+   1 4
+   2 0
+   4 1
+   7 2081
+   8 7
+   1 5
+   6 99
+7  7 2083
+   8 15
+   1 6
+   6 99
+15 1 3
+99 9 0
+   0 0
+2 Encuentras algun curso facil?
+4 Cual curso?
+3 Muy bien, pero no te confies x fa.
+5 Las matematicas =) &
+  Impresionante, solo no te vayas a confiar.
+6 Wow! Te felicito, a mi me costaba mucho, solo no te confies.
+}
+a6
+{  
+   1 2
+   3  99 
+   1 4
+   3 14
+   1 3
+   6 99
+14 1 5
+   2 0
+   1 6
+   6 99
+99 9 0
+   0 0
+2 Encuentras algun profe buena onda?
+4 Lo consideras barco?
+3 Muy bien, pero no te confies x fa.
+5 Por que lo consideras buena onda?
+6 Excelente, mucho exito!
+}
+a8
+{
+   18 8
+   8 99
+   1 2
+   3 10
+   1 3
+   6 99
+10 1 4
+99 9 0
+   0 0
+4  Con calma, te propongo platicar con tu profe de @0.
+3  Super. Pero no bajes la guardia.
+2  Tengo una pregunta sobre el curso que sentias dificil. &
+   Vas bien en @0 ?
+8  e_cursodif( * ).
+}

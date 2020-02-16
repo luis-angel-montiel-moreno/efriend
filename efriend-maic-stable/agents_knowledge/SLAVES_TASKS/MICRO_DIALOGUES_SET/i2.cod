@@ -1,0 +1,72 @@
+i2
+{
+   9 0
+11 1 2
+   22 0
+   25  10
+   6  15
+10 13 1
+1  1  3
+   6 17
+2  1  4
+   6 17
+3  6  14
+   9 0
+4  6   12
+   9 0
+5  6  15
+   9 0
+6  6  15
+   9 0
+7  6  15
+   9 0
+8  6  15
+   9 0
+9  6  15
+   9 0
+12 1 1
+   2 0
+   1 9
+   2 0
+   6 29
+14 1 5
+   6 29
+15 1 7
+   17 11
+   6 29
+17 2  0
+   12 2
+   13 18
+18 1  6
+   6 29
+19 1 8
+29 9  0
+   0  0
+1  Te comparto una informacion breve de Matthieu Ricard.
+   Obtuvo el doctorado en biología molecular en el Instituto Pasteur &
+   bajo el patrocinio del premio Nobel de Fisiología o Medicina François Jacob.
+   Después de terminar su tesis doctoral en 1972, Ricard decidió abandonar su &
+   carrera científica y concentrarse en la práctica del budismo tibetano.
+   Francia le otorgó la Orden Nacional del Mérito por su trabajo &
+   humanitario en Asia. 
+  (teclea enter para continuar).
+9  Te comparto una informacion breve de Elizabeth Blackburn.
+   Es una bioquímica australiana, descubridora de la telomerasa, &
+   una enzima que forma los telómeros durante la duplicación del ADN.
+   Fue Premio Nobel de Medicina en 2009.
+   Recientes estudios han demostrado que la introducción de telomerasa &
+   en células somáticas produce la regeneración de los telómeros. 
+   Es decir, anula el proceso de envejecimiento y muerte celular.
+  Hay un trabajo realmente interesante que sostiene que doce minutos &
+  de meditación diaria en gente con estrés crónico ayudan a mantener los telómeros.
+  (teclea enter para continuar).
+2  Conoces a Matthieu Ricard o a Elizabeth Blackburn?
+  (1=Matthieu Ricard, 2=Elizabeth Blackburn, 3=ambos, 4=ninguno).
+3 Que sabes de Matthieu Ricard?
+4 Que sabes de Elizabeth Blackburn?
+5 Super!
+  Conoces a ambos :)
+6  Ya veo.
+7 Opcion Invalida.
+8  Grcs.
+}

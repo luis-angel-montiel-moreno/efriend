@@ -1,0 +1,59 @@
+f9
+{
+   18 8
+   8 99
+   1  1
+   3  20
+   1  2
+   2  0
+   1  3
+   2  0
+   1  4 
+   2  0
+   1  5
+   2  0
+   1  6
+   2  0
+   1  7
+   2  0
+   6 99
+20 1  19
+99 9  0
+   0  0
+1 Me gustaria que regresemos al ejercicio se llama QUE ESTAS HACIENDO.
+  Lo vamos a continuar y le llamaremos DESCRIBETE A TI MISMO.
+  El ejercicio consiste en 7 pasos.
+  Te parece?
+2 A) Vuelve al patrón de tu vida que cartografiaste en el ejercicio anterior.
+  Confecciona un collage visual de tu vida.
+  No utilices fotografías ni imágenes de gente a la que conoces.
+  El objetivo es representar el patrón general de las cosas que &
+  haces y retener tu visión general y tus sensaciones &
+  sobre tu vida en la actualidad.
+(Presiona una tecla para continuar x favor).
+
+3 B)  Hojea diversas revistas.
+  Recorta imágenes, titulares o palabras &
+  que te llamen la atención por alguna razón.
+(Presiona una tecla para continuar x favor).
+4 C) Selecciona entre todas ellas alguna que represente &
+  un aspecto de tu vida actual.
+  Utiliza las imágenes que capten las actividades que desarrollas, &
+  tanto si te gusta llevarlas a cabo como si no.
+(Presiona una tecla para continuar x favor).
+
+5 D) Ordénalas siguiendo un patrón que capte el carácter y &
+   las sensaciones de tu vida actual.
+  Escribe y garabatea sobre ellas si lo crees necesario.
+  Personalízalas de manera que reflejen el talante de lo que estás expresando.
+  Si dispones de la tecnología necesaria y te apetece, &
+  puedes añadir tu propia banda sonora.
+(Presiona una tecla para continuar x favor).
+6 E) Pregúntate hasta qué punto esta representación de tu vida expresa tus sentimientos y
+experiencias. Con qué aspectos te sientes más feliz, y en cuáles te centrarías para intentar
+cambiarlos mientras buscas tu Elemento.  
+7  Recuerda, el punto es conocerte mejor.
+ (Presiona una tecla para continuar x favor).
+8  e_intento( f8 ).
+19 Vale. 
+}

@@ -1,0 +1,111 @@
+z13
+{
+0 12 7
+0 13 2
+2 1 1
+0 6 20
+3 1 1
+0 6 40
+4 1 1
+0 6 60
+5 1 1
+0 6 80
+6 1 1
+0 6 100
+7 1 1
+0 6 120
+8 1 1
+0 6 140
+0 9 0
+20 1 30
+0 2 0
+0 11 1
+0 1 31
+0 2 0
+0 1 32
+0 1 33
+0 3 22
+0 6 39
+22 1 34
+0 2 0
+39 6 160
+40 1 50
+0 2 0
+0 1 51
+0 2 0
+0 1 52
+0 2 0
+59 6 160
+60 1 70
+0 2 0
+0 1 71
+0 2 0
+0 1 72
+0 2 0
+0 6 160
+80 1 90
+0 2 0
+0 1 91
+0 2 0
+0 1 92
+0 1 93
+0 2 0
+99 6 160
+100 1 110
+0 2 0
+0 1 111
+0 2 0
+0 1 112
+0 2 0
+119 6 160
+120 1 130
+0 2 0
+0 1 131
+0 2 0
+0 1 132
+0 1 133
+0 3 122
+0 6 139
+122 1 134
+0 2 0
+139 6 160
+140 1 150
+0 2 0
+0 1 151
+0 2 0
+0 1 152
+0 2 0
+159 6 160
+160 9 0
+0 0 0
+1   pregunta.
+30  Por que razones te sueles estresar?
+31  Como te sientes en este momento?
+32  Entiendo.
+33  Siempre te estres en el mismo nivel? (si no)
+34  En que se basa tu nivel de estres?
+50  Que tal manejas tus emociones y estres&
+   en examenes y entrega de proyectos?
+51  Como es tu ritmo de trabajo?
+52  Ah ya, asi ha sido siempre?
+70  Manejas tus emociones durante examenes&
+   o entrega de proyectos?
+71  Como es tu ritmo de trabajo?
+72  Ya veo, ha sido asi siempre?
+90  Que es lo que hace que te estreses?
+91  En este momento como te sientes?
+92  Entiendo. 
+93  Con que se relaciona tu nivel de estres?
+110  Manejas tus emociones durante examenes&
+   o entrega de proyectos?
+111  Tu ritmo de trabajo, como es?
+112  Desde siempre ha sido asi?
+130  Que causa tu estres?
+131  Como te sientes?
+132  Ya veo. 
+133  Tu nivel de estres, es siempre el mismo? (si no)
+134  En relacion con que es que tu estres cambia?
+150  Como manejas tus emociones cuando tienes examenes?
+151  Como es tu ritmo de trabajo?
+152  Ya veo, desde siempre es asi?
+}

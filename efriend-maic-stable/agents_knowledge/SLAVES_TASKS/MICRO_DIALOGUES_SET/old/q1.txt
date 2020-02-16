@@ -1,0 +1,49 @@
+q1
+{
+   + Hola. Como estas?
+     *(1006) {No se que, creo que, supongo que}
+       [T]+ Corte.
+            No se vale la inseguridad.
+            Repitamos la escena.
+            &
+            Hola. Como estas?
+     CONTINUE
+     <
+     *(1000) :(, =(, Triste,...
+     AND
+       *(1004) {no, nada}
+         [T]+ O sea que andas bien, me gusta :)
+              (edo_animo_global=3)
+         [F]+ Noto un sentimiento algo negativo.
+              (edo_animo_global=1)
+     *(1001) {Relaj, ...}
+     AND
+       *(1004) {no, nada}
+         [T]+ No muy relajado, vaya.
+              (edo_animo_global=2)
+         [F]+ Que bueno q estes relax!
+              (edo_animo_global=3)
+     *(1002) {Super, ...}
+     AND
+       *(1004) {no, nada}
+         [T]+  Noto un sentimiento algo negativo.
+               Animate:
+               (edo_animo_global=1)
+         [F]+  Que bien, buena vibra :)
+               (edo_animo_global=5)
+     *(1003) {Regular, ...}
+         [T]+ Regular, no es malo.
+               (edo_animo_global=2)
+         [F]+  Y eso porque?
+               (edo_animo_global=0)
+           * ----
+           + Ya veo.
+     >
+     *(1005) {Y tu,...}
+         [T]+ Yo bien, grcs.
+
+
+         
+
+             
+

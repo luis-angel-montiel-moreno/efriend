@@ -1,0 +1,234 @@
+a71
+{
+0 1 5
+0 2 0
+0 7 2093
+0 8 2
+0 1 1
+0 2 0
+0 7 1016
+0 8 6
+0 1 2
+0 2 0
+0 7 2093
+0 8 7
+0 6 140
+6 7 2093
+0 8 7
+0 1 3
+0 6 140
+7 1 4
+0 6 260
+2 9 0
+20 7 1000
+0 8 22
+0 1 21
+0 11 0
+0 2 0
+0 7 2087
+0 8 160
+0 6 120
+22 9 0
+40 7 1001
+0 8 43
+0 7 1004
+0 8 44
+0 1 42
+0 11 1
+0 2 0
+0 4 1
+0 15 41
+0 7 2087
+0 8 160
+0 6 120
+44 1 43
+0 11 4
+0 6 260
+43 9 0
+60 7 1002
+0 8 64
+0 7 1004
+0 8 65
+0 1 62
+0 11 2
+0 2 0
+0 4 1
+0 15 61
+0 7 2087
+0 8 160
+0 6 120
+65 1 63
+0 11 5
+0 6 260
+64 9 0
+80 7 1003
+0 8 85
+0 1 84
+0 11 3
+0 3 84
+0 1 86
+0 2 0
+0 4 1
+0 15 81
+0 7 2087
+0 8 160
+0 6 120
+84 1 85
+0 6 260
+85 9 0
+100 1 107
+0 11 2
+0 2 0
+0 4 1
+0 15 101
+0 1 108
+0 6 260
+120 1 122
+0 3 122
+0 1 123
+122 1 124
+0 3 121
+0 1 125
+0 6 260
+121 1 126
+0 6 260
+140 1 151
+0 3 145
+0 1 142
+0 2 0
+0 4 1
+0 15 141
+0 1 143
+0 2 0
+0 1 144
+0 3 146
+0 1 147
+0 3 147
+0 1 149
+0 2 0
+0 6 142
+145 1 145
+0 2 0
+0 1 146
+0 6 260
+146 1 146
+0 6 260
+147 1 148
+0 6 260
+142 9 0
+160 7 2065
+0 8 166
+0 1 164
+0 3 167
+0 1 163
+167 1 161
+0 2 0
+0 4 1
+0 15 161
+0 1 162
+0 6 260
+166 9 0
+180 7 2089
+0 8 187
+0 1 184
+0 6 260
+187 9 0
+200 7 2090
+0 8 209
+0 1 205
+0 6 260
+209 9 0
+220 7 2093
+0 8 229
+0 1 221
+0 2 0
+0 1 222
+0 2 0
+0 1 223
+0 6 260
+229 9 0
+240 1 246
+0 2 0
+0 1 247
+0 6 260
+260 9 0
+0 0 0
+5  Que onda! como vas con la uni?
+1  Por que dices que no sabes?
+2  Entiendo. Porque estas o te sientes asi?
+3  Ya veo. 
+4  Por lo pronto, nota la impermanencia de las emociones, pensamientos, etc.
+  Ya regresaremos en otra sesion al tema.
+21  Y eso por que? Cuentame detalles de forma breve.
+42  No muy relax, por que?. Cuentame detalles de forma breve.
+43  Que bueno que vaya relax! Disfruta, otro dia hablamos.
+41  d_problemaAlumno(@1).
+61  d_problemAlumno(@1).
+62  No muy bien.Por que? Cuentame detalles de forma breve.
+63  Me alegro! Que siga bien :) Hablamos despues.
+81  d_problemAlumno(@1).
+84  Regular, no es malo. Crees que las cosas pudieran empeorar?   
+85  Muy bien, esa es la actitud:)   
+86  Dice un maestro, mantener claridad y ecuanimidad.
+  Pero dime, por que te sientes asi?
+  califs, profes, etc.
+101  d_RespPosiblementeGrosera(@1).
+107  Por que dices eso?
+108  Te comparto algo que dijo Rumi.
+  Cuando empiezas a caminar, aparece el camino.
+122  Las calificaciones son regularmente una de las mayores aflicciones. &
+   Bueno, tal parece ser que el mundo se mueva con numeros y aunque no nos parezca, por ahora &
+   no podemos hacer mucho al respecto. He notado que entre mas nos preocupe una situacion, &
+   menos mejora y es peor la preocupacion entonces te recomiendo que simplemente hagas tu mayor &
+   esfuerzo, no pienses en la nota sino en dar tu maximo. Crees poder hacerlo?
+123  Excelente! Adelante, pues, a pensar siempre en hacer todo lo mejor que puedas =).
+124  Yo pienso que si puedes, no dejes que tus pensamientos de controlen, controlalos tu y cada vez &
+   que te llegue a la mente la palabra calificaciones, simplemente observala.
+   Incluso, Hazte amigo de ella. O simplemente sal a caminar o haz alguna cosa que te guste.
+   Te parece? 
+125  Excelente! Te deseo mucho exito =).
+126  Bueno, esta bien si no quieres intentarlo. Solo fue una recomendacion pero entonces tu podrias &
+   encontrar una estrategia para que te sientas mejor.
+151  Sientes algun malestar fisico?
+142  En que parte del cuerpo?
+141  d_DolorFisico(@1).
+143  Desde hace cuanto tienes la molestia?
+144  Puedes asociarlo con alguna situacion en especifico que hayas pasado? &
+   Una que a raiz de eso te hayas empezado a sentir mal.
+145  Notas algun cambio en ti, cualquiera que sea? 
+146  Observa como las sensaciones van y vienen.
+147  Quieres contarme al respecto?
+148  Esta bien, intenta relajar tu cuerpo. Descansa un rato.
+  Si hay molestias mejor acude al medico.
+149  Te leo, cuentame.
+164  Esta situacion te provoca un estres que no puedes controlar?
+161  Dirias que te sientes deprimido, triste, preocupado o ansioso?
+162  Entiendo. Tomalo con calma. Si te sigue afectando podrias enfermar &
+  Deseate lo mejor para ti.
+  Repite. Que sea yo feliz. Que este sano. 
+163  Bueno, creo que el estres es una sensacion comun entre los estudiantes. 
+  Observalo un momento y nota que le ocurre. Dsminuye, aumenta.
+  Como si fueras un cientifico, y tu cuerpo fuera tu laboratorio.
+184  Ya veo. La familia es un tema delicado. Ten paciencia para que no te &
+   afecte tanto. Necesito tiempo para pensar en algo que te ayude, mientras tanto &
+   intenta distraerte haciendo algo que te guste. Hablamos luego.
+205  No te aflijas tanto por una relacion sentimental. Aun eres muy joven &
+   aferrarse a las personas no es una buena idea porque siempre vas a sufrir &
+   Si fuiste tu quien cometio el error, tomalo como un aprendizaje y una preparacion &
+   para ser mejor persona. Pero si crees que se puede enmendar la situacion, comienza &
+   por pedir disculpas no solo con palabras, tambien con acciones &
+   Si no fuiste el responsable de los sucedido, &
+   agradece los buenos momentosy espera a que alguien mas llegue a tu vida, Mafalda &
+   diria que no llores por el Sol o las lagrimas te impediran ver las estrellas. &
+   Tomalo con calma, estaras bien. Hablamos otro dia.
+221  Sientes alguna molestia fisica?
+222  Puedes identificar que fue lo que sucedio desde que comenzaste a senirte mal?
+223  Tension es quien crees que beberiar ser.
+  Relajacion es quien eres de verdad.
+  ANONIMO.
+  Te invito a hacer algo que te guste.
+246  Por que dices eso?
+247  Cuantas mas maneras tenemos para conectar,&
+  mas desesperados parecemos estar por desconectar.
+  Pico Iyer.
+}

@@ -1,0 +1,121 @@
+z12
+{
+0 12 8
+0 13 2
+2 1 1
+0 6 20
+3 1 1
+0 6 40
+4 1 1
+0 6 60
+5 1 1
+0 6 80
+6 1 1
+0 6 100
+7 1 1
+0 6 120
+8 1 1
+0 6 140
+9 1 1
+0 6 160
+0 9 0
+20 1 30
+0 2 0
+0 1 31
+0 2 0
+0 1 32
+0 2 0
+39 6 180
+40 1 50
+0 2 0
+0 1 51
+0 2 0
+0 1 52
+0 2 0
+0 1 53
+0 2 0
+59 6 180
+60 1 70
+0 2 0
+0 1 71
+0 2 0
+0 1 72
+0 2 0
+79 6 180
+80 1 90
+0 2 0
+0 1 91
+0 2 0
+0 1 92
+0 2 0
+0 1 93
+0 2 0
+99 6 180
+100 1 110
+0 2 0
+0 1 111
+0 2 0
+0 1 112
+0 2 0
+119 6 180
+120 1 130
+0 2 0
+0 1 131
+0 2 0
+0 1 132
+0 2 0
+0 1 133
+0 2 0
+139 6 180
+140 1 150
+0 2 0
+0 1 151
+0 2 0
+0 1 152
+0 2 0
+159 6 180
+160 1 170
+0 2 0
+0 1 171
+0 2 0
+0 1 172
+0 2 0
+0 1 173
+0 2 0
+179 6 180
+180 9 0
+0 0 0
+1   pregunta.
+30  Alguna vez has saltado con un paracaidas?
+31  Te gusta el deporte extremo? 
+32  Desde siempre es asi?
+50  Sueles intentar cosas nuevas?
+51  Te gusta el rappel, rafting, paracaidismo o &
+   actividades de ese estilo?
+52  Ah entiendo, sabes conducir moto?
+53  Ahhh, te gusta la incertidumbre?
+70  Te gustaria aventarte del paracaidas?
+71  Te gustan las actividades extremas como tirolesa,&
+   rappel, rafting, etc? 
+72  Toda la vida ha sido asi?
+90  Te es agradable intentar cosas nuevas?
+91  Eres fan de los deportes extremos?
+92  Has manejado una moto?
+93  Cuales son tus sentimientos hacia la incertidumbre?
+110  Te has aventado de una avioneta con paracaidas?
+111  Te gustan las actividades como la tirolesa? 
+112  Siempre ha sido asi?
+130  Intentas cosas nuevas?
+131  Los deportes extremos te emocionan?
+132  Ah ya, las motos las manejas?
+133  Ahhh, te gusta la incertidumbre?
+150  Has usado un paracaidas para saltar de una avioneta?
+151  Disfrutas el deporte extremo (rappe, rafting, escalada&
+   tirolesa? 
+152  Asi ha sido siempre?
+170  Eres fanatico de hacer cosas nuevas?
+171  Te agrada el deporte extremo?
+172  Entiendo, alguna vez te has subido a una moto&
+   y la has manejado?
+173  Ah ya veo, te agrada la incertidumbre?
+}

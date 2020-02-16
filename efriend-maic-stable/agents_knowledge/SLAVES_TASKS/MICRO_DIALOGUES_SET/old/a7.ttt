@@ -1,0 +1,88 @@
+a7
+{
+   + Como va la uni?
+     *(1000) :(, =(, Triste,...
+     AND
+       *(1004) {no, nada}
+         [T]+  O sea que vas bien.
+               Me da gusto.
+              (escuela=3)
+         [F]+ Noto un sentimiento algo negativo.
+              Vamos a ver.
+              (escuela=1)
+               ???
+     *(1001) {Relaj, ...}
+     AND
+       *(1004) {no, nada}
+         [T]+ No muy relax, vaya.
+              (escuela=2)
+         [F]+ Que bueno q la escuela vaya relax!
+              (escuela=3)
+     *(1002) {Super, ...}
+     AND
+       *(1004) {no, nada}
+         [T]+  Noto un sentimiento algo negativo.
+               Vamos a ver
+               (escuela=1)
+               ???
+         [F]+  Que bueno, que siga bien :) 
+               (escuela=5)
+     *(1003) {Regular, ...}
+         [T]+ Regular, no es malo.
+               (escuela=3)
+         [F]+  Y eso porque?
+               (escuela=0)
+           * ----
+           + Ya veo.
+   
+
+19  1 37
+    5 29   
+    1  41
+    3  39
+    1  42
+    2  0
+    1  43
+    2  0
+    1  44
+    2  0
+    1  45
+    2  0
+    1  46
+    2  0
+    1  47
+    6  9
+29  1  40
+    2  0
+    1  38
+    6  9
+39  1   22
+    6   9
+9   9  0
+    0  0
+
+8  Noto un sentimiento algo negativo.
+   Vamos a ver.
+9  Que bueno q la escuela vaya relax!
+10 Que bueno, que siga bien :) 
+12 Regular, no es malo.
+20 Y eso porque?
+21 Ya veo.
+22 OK. No suena mal.
+31 No muy relax, vaya.
+32 O sea que vas bien.
+32   Me da gusto :)
+37 ¿puedes identificar lo que pasa x tu mente?
+38 Que puedas identificar lo que pasa x tu mente es un buen principio.
+40 ¿Qué está pasando por tu mente? 
+41  Mmm ¿Dirias que te sinties algo triste?
+42  Ya veo ¿Puedes identificar dónde sientes la tristeza? 
+43 Ya entiendo, cuando te pregunté por tu escuela, te sentiste triste.
+   ¿Sabes que pasaba por tu mente?
+44 ¿Algo mas que agregar?
+45 ¿Qué pasaba por tu mente en el momento que te sentiste mal?
+46 ¿Crees que estabas pensando en las clases? ¿o en la gente que conoces?
+47 Entiendo. Bueno por hoy está bien, relájate y platicamos la próxima sesión.
+   Que estes muy bien:)
+             
+

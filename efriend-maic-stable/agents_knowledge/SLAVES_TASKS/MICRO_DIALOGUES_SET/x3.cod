@@ -1,0 +1,396 @@
+x3
+{
+0 1 2
+0 2 0
+0 9 0
+20 16 1004
+0 8 22
+0 1 21
+0 6 820
+22 16 1091
+0 8 23
+0 1 23
+0 2 0
+23 9 0
+40 7 2078
+0 8 80
+0 1 46
+0 2 0
+0 7 2079
+0 8 60
+0 11 1
+0 1 47
+0 6 820
+41 9 0
+60 7 2077
+0 8 61
+0 1 66
+0 2 0
+0 1 67
+0 6 820
+61 1 68
+0 6 820
+80 7 2086
+0 8 82
+0 1 84
+0 1 85
+0 2 0
+0 6 100
+82 7 3035
+0 8 100
+0 1 84
+0 2 0
+81 9 0
+100 7 2085
+0 8 101
+0 1 103
+0 2 0
+101 9 0
+120 7 3002
+0 8 121
+0 1 123
+0 2 0
+121 9 0
+140 7 2075
+0 8 141
+0 1 145
+0 2 0
+141 9 0
+160 7 2076
+0 8 161
+0 1 166
+0 2 0
+0 6 320
+161 9 0
+180 7 3000
+0 8 181
+0 1 183
+0 2 0
+181 9 0
+200 7 2071
+0 8 201
+0 1 203
+0 3 202
+0 1 205
+0 2 0
+0 6 201
+202 1 208
+0 2 0
+0 1 209
+0 2 0
+0 1 206
+0 2 0
+0 1 201
+0 2 0
+0 1 202
+0 2 0
+201 9 0
+220 7 2094
+0 8 221
+0 1 221
+0 2 0
+221 9 0
+240 7 2062
+0 8 241
+0 1 242
+0 2 0
+241 9 0
+260 7 3001
+0 8 261
+0 1 262
+0 2 0
+261 9 0
+280 7 2031
+0 8 281
+0 1 281
+0 2 0
+281 9 0
+300 7 2060
+0 8 301
+0 1 304
+0 2 0
+0 1 305
+0 2 0
+301 9 0
+320 7 2050
+0 8 321
+0 1 324
+0 2 0
+321 9 0
+340 7 2042
+0 8 341
+0 1 345
+0 3 342
+0 1 346
+0 2 0
+0 6 341
+342 1 348
+0 2 0
+341 9 0
+360 7 2040
+0 8 361
+0 1 364
+0 2 0
+0 1 363
+0 2 0
+361 9 0
+380 7 2030
+0 8 381
+0 1 387
+0 5 382
+382 1 388
+0 2 0
+0 1 389
+0 6 820
+381 9 0
+400 7 1080
+0 8 401
+0 1 402
+0 1 401
+0 2 0
+0 1 403
+0 2 0
+401 9 0
+420 16 1021
+0 8 440
+0 1 422
+0 2 0
+0 6 440
+440 7 1015
+0 8 441
+0 12 3
+0 13 442
+442 1 442
+0 6 445
+443 1 443
+0 6 445
+444 1 444
+0 6 445
+445 2 0
+441 9 0
+460 7 1017
+0 8 461
+0 1 461
+0 2 0
+461 9 0
+480 7 1016
+0 8 481
+0 7 1008
+0 8 482
+0 1 487
+0 2 0
+0 6 481
+482 1 482
+0 2 0
+0 7 1008
+0 8 481
+0 1 487
+481 9 0
+500 7 1018
+0 8 501
+0 1 501
+0 2 0
+501 9 0
+520 7 1020
+0 8 521
+0 1 521
+0 2 0
+521 9 0
+540 7 3030
+0 8 541
+0 1 549
+0 2 0
+541 9 0
+560 7 3031
+0 8 561
+0 1 569
+0 2 0
+561 9 0
+580 7 3032
+0 8 581
+0 1 589
+0 2 0
+581 9 0
+600 7 3033
+0 8 601
+0 1 609
+0 2 0
+601 9 0
+620 7 1030
+0 8 621
+0 1 629
+0 2 0
+621 9 0
+640 7 1031
+0 8 642
+0 1 641
+0 2 0
+642 9 0
+660 7 1032
+0 8 661
+0 1 667
+0 2 0
+0 1 668
+0 6 820
+661 9 0
+680 7 2080
+0 8 681
+0 1 681
+0 2 0
+681 9 0
+700 7 1019
+0 8 701
+0 1 701
+0 6 820
+701 9 0
+720 7 1070
+0 8 721
+0 1 724
+0 6 820
+721 9 0
+740 7 2091
+0 8 741
+0 1 741
+0 2 0
+741 9 0
+760 7 2099
+0 8 761
+0 1 761
+0 6 820
+761 9 0
+780 7 2092
+0 8 781
+0 1 781
+0 2 0
+781 7 4000
+0 9 0
+800 17 20
+0 12 6
+0 13 802
+802 1 801
+0 6 801
+803 1 802
+0 6 801
+804 1 803
+0 6 801
+805 1 807
+0 6 801
+806 1 807
+0 6 801
+807 1 809
+0 6 801
+801 9 0
+820 9 0
+0 0 0
+2  Tienes alguna pregunta cualquiera o algo que comentar (breve x fa)?
+21  De acuerdo.
+23  Te escucho.
+46  Personal o academico? dime.
+47  En otro momento platicamos de asuntos academicos x fa.
+66  Personal. Bueno, pues cuentame.
+67  Tengo que pensarlo.
+68  La verdad no te entendi. Disculpa. Pero lo registre y despues se atendera.
+84  Soy alguien que te escucha y desea lo mejor para ti.
+85    Eres @0?
+103  Solo creo que creo muy poco.
+   Tu crees en @0?
+104  pase 8.
+123  Solo creo que creo muy poco.
+   Tu si crees?
+145  Mal? En que sentido? Me explicas x fa.
+166  Soy lento en entender. Intenta ser tolerante conmigo x fa.
+183  Tu sabes mejor lo que quieres.
+203  Por su manera de dar clases o algo asi?
+205  Que bien, aprovecha sus enseñansas.
+208  Entonces en que sentido?
+   Te puedes explicar mejor x fa.
+209  Desde cuando? Cuentame. 
+206  Y el profe lo sabe? Te escucho.  
+201  Lo has platicado con alguien (amigos, familiares, etc)? Dime.
+202  Luego platicamos mas al respecto.
+221  Bien.
+242  Porque lo crees o te late asi? dime.
+262  Tu lo crees asi?
+281  Terminando nuestra charla, mejor ve a servicios medicos x favor.
+304  Desde cuando?
+305  Continua por favor.
+324  Porque no?
+345  Sin escepcion?
+346  Piensa que posiblemente tu lo percibes de esa manera.
+  Nuestra mente construye un realidad virtual.
+348  Me parece que uno debe ser muy cuidadoso al generalizar.
+364  En que sentido?
+363  Podrias x favor ser mas especifico?
+387  Te invito a ser mas paciente contigo y con los demas.
+388  Tu eres quien esta ofendido, molesto, etc.
+   Preguntate: Quien esta creando tu malestar?
+389  En cierto sentido tu mismo, con tus propios pensamientos.
+   Nosotros mismos somos responsables en gran medida de nuestros &
+   estados emocionales.
+   Desde otro punto de vista recuerda el dicho:
+   El que se enoja pierde.
+   Meditalo x favor.
+402  Que te parece si te contesto @0 ?
+403  OK.
+401  Entiendo que debo eligir.
+422  Tienes algo importante que comentar?
+442  que onda?
+443  ya nos saludamos.
+444  Q tal?
+461  porque estas @0 con tu @1?
+482  Porque? Cuentame.
+487  Te invito a ser mas paciente x fa.
+501  porque te gustaria @0?
+521   Te escucho.
+549  El mindfulness, también llamado atención plena o conciencia plena, &
+  consiste en estar atento de manera intencional a lo que hacemos,&
+  sin juzgar, apegarse, o rechazar en alguna forma la experiencia.
+  Hay muchas fuentes en google sobre este termino.
+  Ya entraremos en mas detalle pronto :)
+569   La terapia del comportamiento cognoscitiva (CBT) es esencialmente &
+   una forma de la psicoterapia o del asesoramiento que puede beneficiar &
+   a gente con desordenes de la salud mental tales como depresión, &
+   desorden de ansiedad, desorden obsesivo y trastorno de pánico.
+   Ya entraremos en mas detalle pronto :)
+589  El flujo también conocido como "la zona" es el estado mental operativo en & 
+  el cual una persona está completamente inmersa en la actividad que ejecuta. 
+ Se caracteriza por un sentimiento de enfocar la energía, de total implicación &
+ con la tarea, y de éxito en la realización de la actividad.
+  Ya entraremos en mas detalle pronto :)
+609  Descubrir el Elemento es recuperar capacidades sorprendentes en nuestro &
+  interior, y desarrollarlo dará un giro radical no sólo a tu entorno laboral &
+  o educativo, sino también a tus relaciones y, en definitiva, a tu vida.
+  Ya entraremos en mas detalle pronto :)
+629  Objetivo Puntos PPA.
+   Apoyar al estudiante en la transición social y académica de la preparatoria &
+   a la vida universitaria para que se integre a la UDLAP y tenga un buen & 
+   desempeño académico. Es una contribución a su desarrollo y aprendizaje.
+   El PPA se integra por dos cursos FY001 y FY002.
+   La calificación de estos cursos será: acreditado (AC) o no acreditado (NA).
+   Los cursos no tienen costo, son de 0 unidades.
+   Los cursos del PPA son requisitos del plan de estudios por ello el &
+   estudiante debe asegurarse de acreditarlos el primer año de estancia &
+   en la UDLAP. El primer semestre deberá cursar FY001.
+Checate: PENDIENTE.
+641  Hay intercambios interesantes con Canada, USA, Europa, etc.
+  Vale mucho la pena. La experiencia es muy padre.
+  Dicen por ahi que viajar destapa.
+667  Dime mas detalles al respecto x fa.
+668  Grcs. Regresaremos a este tema despues.
+681  Porque tienes @0?
+701  lo investigo y te contesto pronto :)
+724  Pronto platicaremos de asuntos de famila.
+741  Dime.
+761   De nada.
+781  Porque no? dime.
+802  Disculpa, creo que no te segui. Pero lo registre y regresaremos al tema mas adelante x fa.
+803  Olvida el pasado. Se ha ido. No te preocupes por el futuro.
+  No lo conoces.
+  Aprende a vivir el presente y descubre cuantos momentos de paz contiene.
+  Enrique Simo.
+801  Casi todo funcionara otra vez si lo desconectas por unos minutos,&
+  incluyendote a ti mismo.
+807   Grcs por compartir. Regresaremos al tema mas adelante.
+809   Un sabio dijo.
+   Aquel que intente conquistar el mundo y modelarlo a su capricho, fracasara.
+}

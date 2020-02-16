@@ -1,0 +1,155 @@
+c1
+{
+    1  1
+    5  9 
+    1  2
+    2  0
+    1  3
+    2  0
+    1  4
+    2  0
+    1  5
+    2  0
+    1  6
+    6  99
+9   1  10
+99  9  0
+    0  0
+1 ¿Conoces el concepto de -estar en tu elemento-?
+2 Te comentare brevemente de que se trata.
+ (presiona tecla para continuar x fa).
+3 Todos somos únicos, todos sabemos hacer algo mejor que el de al lado,&
+  todos sentimos la  pasión por una actividad que nos encanta y para la que &
+  estamos dotados. El Elemento es eso, es la confluencia entre nuestras aptitudes &
+  y nuestra vocación natural.
+ (presiona tecla para continuar x fa).
+4  Estar en el Elemento significa perder la noción del tiempo, &
+  estar conectado con tu yo más interno, que las ideas fluyan &
+  de dentro para afuera y al revés, sentir que estás en armonía con el mundo &
+  que te rodea. En definitiva, disfrutar y ser feliz.
+ (presiona tecla para continuar x fa).
+
+5 Para llegar al Elemento tienes primero que saber qué es lo que &
+  te hace diferente del resto, segundo sentir pasión por ello, &
+  tercero quererlo con todas tus fuerzas y por último, con la actitud adecuada, &
+  crear las oportunidades para conseguirlo.
+  (presiona tecla para continuar x fa).
+6 Ya te di una idea, busca tu elemento :)
+10 Que padre que lo conoces :)
+}
+c2
+{
+   1  1
+   5  10
+   1  10
+   3  8
+   1  13
+   3  9
+   1  11
+   6 99
+8  1 12
+   1  3
+   6 99
+9  1  14
+   6  99
+10 1  4
+   2  0
+   4  1
+   15  5
+99 9 0
+   0  0
+1 Crees estar "en tu elemento"? 
+3 Gracias.
+4 Cual es tu elemento? (tu carrera, algun deporte, etc)
+5 e_su_elemento(@1).
+10 Sientes   pasión por una actividad que te  encante?
+11 Entonces esa actividad podria ser tu elemento.
+12 Entonces es posible que no hayas encontrado todavia tu elemento.
+13 Quieres llevar a cabo esta actividad con todas tus fuerzas?
+14 Posiblemente estes cerca de estar en tu emento.
+}
+c3
+{
+   1  1
+   5  9 
+   1  2
+   3  8
+   15 12
+   1  3
+   1  6
+   2  0
+   1  4
+   1  6
+   2  0
+   1  5
+   1  6
+   2  0
+   6  99
+8  15 14
+9  1 10
+   15 11 
+99 9 0
+   0  0
+1 ¿Conoces el concepto de -estar en estado de flujo-?
+2 Te gustaria saber de que se trata?
+3 El Flow (también llamado fluir) es un importante concepto en psicología,&
+  que podríamos definir como el estado mental en el cual una persona está &
+  completamente inmersa en la actividad que ejecuta.
+  Se caracteriza por un sentimiento de total implicación con la tarea que &
+  se experimenta mientras la actividad está en curso.
+  El concepto de flujo fue propuesto inicialmente por el psicólogo y &
+ catedrático Mihály Csíkszentmihályi en 1975 y a partir de entonces se ha &
+ difundido extensamente en diferentes campos, siendo especialmente importante &
+  en el ámbito de la psicología positiva.
+4 Ya en el contexto de la psicología positiva podemos definir el flow &
+  como el alcance de un estado de felicidad o placer mediante a través &
+ de la realización de una actividad en la que la persona se encuentra &
+ completamente concentrada y absorta. En este estado de abstracción,&
+ es cuando decimos que hemos perdido la noción del tiempo &
+ (distorsión del sentido temporal) o que se nos ha pasado el tiempo volando.
+  Durante este estado de flujo es normal alcanzar la plenitud creativa,&
+ dejarnos llevar sin distracciones, y disfrutar de las tareas &
+ por el mero placer de realizarlas, sin perseguir el éxito.
+ En otras palabras, se disfruta de la tarea en sí misma y &
+ no del objetivo a cumplir. Según Csikszentmihalyi, el éxito,&
+ como la felicidad, debe ser una consecuencia directa de la dedicación &
+ a algo más grande que uno mismo.
+5 Hay que tener en consideración que la actividad que nos permite alcanzar &
+ este estado debe situarse en un punto medio entre lo rutinario o aburrido y &
+ lo estresante. En ninguno de los dos extremos mencionados será posible &
+ alcanzar el estado de flow. También es imprescindible que las habilidades &
+ de la persona esté en equilibrio con la demanda de la tarea.
+ Si una tarea nos parece extremadamente difícil o no estamos capacitados &
+ para hacerla, nos producirá ansiedad y no podremos ‘fluir con ella’.
+ Por el contrario, si una tarea nos resulta demasiado fácil,&
+ no supondrá el suficiente desafío para lograr el estado &
+ de flujo.
+ Checate: PENDIENTE.
+6  (presiona tecla para continuar x fa).
+10 Que padre que lo conoces :)
+11 e_conoce(edoFlujo).
+12 e_gustaria_saber(flujo).
+14 e_ngustaria_saber(flujo).
+}
+c4
+{
+   1  1
+   5  8
+   15  5  
+   1  2
+   2  0
+   1  3
+   6  99
+8  15  4
+   1  6
+   2  0
+   1  3
+99 9  0
+   0  0
+1 Crees que ya experimentaste  "el fluir"?
+2 Porque crees que no has experimentado "el fluir"?
+3 Gracias.
+4 e_cree_experimento(flujo).
+5 e_ncree_experimento(flujo).
+6 Porque crees que ya experimentaste  "el fluir"?
+}
