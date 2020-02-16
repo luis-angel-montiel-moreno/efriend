@@ -50,7 +50,7 @@ REQUIREMENTS
 CONTACT
 ---
 
-Dr. MAURICIO JAVIER OSORIO GALINDO.\
+[Dr. MAURICIO JAVIER OSORIO GALINDO](https://scholar.google.com/citations?user=_r5Pl14AAAAJ&hl=es&oi=sra).\
 Department of Actuarial Science, Physics and Mathematics.\
 Universidad de las Américas Puebla.\
 Ex Hacienda Sta. Catarina Mártir S/N.\
@@ -59,7 +59,7 @@ Puebla, MX.\
 email: osoriomauri@gmail.com
 
 
-M.Sc. LUIS ANGEL MONTIEL MORENO\
+[M.Sc. LUIS ANGEL MONTIEL MORENO](https://www.linkedin.com/in/luis-angel-montiel-moreno-88849b152/)\
 Independent Researcher.\
 Puebla, Puebla, MX.\
 email:luis.montiel.moreno@gmail.com
