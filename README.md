@@ -23,17 +23,20 @@ RUNNING Efriend-MAIC-console
 
 In bash console-terminal run the following commands: 
 
+Only for the first session.
 ```
 make reset
+make pipe_line_quantitative
 sh reset.sh
 ```
 
-For running quantitative version (presented in submitted research paper to [TPLP](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming)):
+For running a session quantitative version (presented in submitted research paper to [TPLP](https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming)):
 
 ```
-make pipe_line_quantitative
 sh pipe_line_quantitative.sh
 ```
+
+**Note.** E-friend MAIC proposes-computes-composes a different consecutive session each time you run `sh pipe_line_quantitative.sh` until all the sessions are finished. If you want to reset and start from the first session please run the command `sh reset.sh`
 
 ---
 CONTACT
@@ -41,9 +44,9 @@ CONTACT
 ```
 Dr. MAURICIO JAVIER OSORIO GALINDO
 Department of Actuarial Science, Physics and Mathematics.
-Universidad de las Américas Puebla, 
-Ex Hacienda Sta. Catarina Mártir S/N. 
-San Andrés Cholula, 
+Universidad de las AmÃ©ricas Puebla, 
+Ex Hacienda Sta. Catarina MÃ¡rtir S/N. 
+San AndrÃ©s Cholula, 
 Puebla, MX.
 ```
 email: osoriomauri@gmail.com
