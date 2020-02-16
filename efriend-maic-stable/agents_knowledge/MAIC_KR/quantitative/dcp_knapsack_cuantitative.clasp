@@ -1,0 +1,100 @@
+%% Por lo pronto esta fijo a tuplas de tamaño 4 (o sea camino visita 4 vertices)
+%% Facil de generalizar
+
+#show camino1/4.
+
+
+%%#show sol_eq/1.
+%%#show bel/2.
+%%#show gan_exacta/1.
+
+%%#show sol_ge/4.
+%#show resta_sets/3.
+
+#const gan_max = 100.
+#const pathL_max = 3.
+#const capacidad_max = 15.
+
+
+%%%set(0.. max_set).
+t_steps(1.. pathL_max).
+tgana(1..gan_max).
+
+%% CHECAR
+tpeso(0..capacidad_max).
+
+%% Y= {X}
+cod(X,Y) :-
+  set(Y),
+  v(X),
+  X1= X-1,
+  Y = 2 ** X1.
+
+% V in S
+bel(V,S) :-
+ v(V),
+ set(S),
+ set(S1),
+ cod(V,S1),
+ S2= S1 & S,
+ S2 > 0.
+
+
+
+% S1= S \{k}
+resta_sets(S,K,S1):-
+ v(K),
+ set(S), set(S1), set(S3),
+ cod(K,S3),
+ not bel(K,S1),
+ S=S1?S3.
+
+
+
+%%%%%%%%%%%% FUERZA BRUTA %%%%%%%%%%%%%%%%%%%%%%%
+% fuerza bruta para testigo
+camino1(X1,X2,X3,X4) :-
+ X2!=X3, X2!= X4, X3!=X4, X1!=X2, X1!=X4, X1!=X3,
+ g(X1,X2,G1),
+ g(X2,X3,G2),
+ g(X3,X4,G3),
+ g_v(X1,H1),
+ g_v(X2,H2),
+ g_v(X3,H3),
+ g_v(X4,H4),
+ G=G1+G2+G3+H1+H2+H3+H4,
+ peso(X1,P1),
+ peso(X2,P2),
+ peso(X3,P3),
+ peso(X4,P4),
+ P= P1+ P2+P3+P4,
+ P <= capacidad_max,
+ gan_exacta(G).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5 optimo con fuerza bruta
+gan_exacta(G):-
+  gan_brutef(G),
+  not better_brutef(G).
+
+ gan_brutef(G) :-
+ X2!=X3, X2!= X4, X3!=X4, X1!=X2, X1!=X4, X1!=X3,
+ g(X1,X2,G1),
+ g(X2,X3,G2),
+ g(X3,X4,G3),
+ g_v(X1,H1),
+ g_v(X2,H2),
+ g_v(X3,H3),
+ g_v(X4,H4),
+ G=G1+G2+G3+H1+H2+H3+H4,
+ peso(X1,P1),
+ peso(X2,P2),
+ peso(X3,P3),
+ peso(X4,P4),
+ P= P1+ P2+P3+P4,
+ P <= capacidad_max,
+ not better_brutef(G).
+ 
+ better_brutef(G) :-
+ tgana(G), tgana(G1),
+ gan_brutef(G1), G1 > G. 
+

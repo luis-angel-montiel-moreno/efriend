@@ -1,0 +1,74 @@
+
+%a
+abierto(a1). abierto(a3). abierto(a4).
+abierto(a6). abierto(a8). abierto(a71).
+
+%c
+abierto(c1). abierto(c2). abierto(c3). abierto(c4).
+
+%e
+abierto(e8). abierto(e9). abierto(e10).
+abierto(e1). abierto(e3). abierto(e6).
+abierto(e19). abierto(e11). abierto(e13). abierto(e12).
+abierto(e7).  
+abierto(e21). abierto(e23). abierto(e26).
+abierto(e27). abierto(e30). abierto(e31). abierto(e36).
+abierto(e32).
+abierto(e40).
+
+%f
+abierto(f1). abierto(f2). abierto(f3).
+ abierto(f4). abierto(f6). abierto(f7).
+abierto(f8).  abierto(f9). abierto(f10).
+%%abierto(f5).
+
+%g
+abierto(g1).
+
+%h
+abierto(h1). abierto(h2). abierto(h3).
+abierto(h5). abierto(h6). abierto(h7). 
+
+%i
+abierto(i1). abierto(i2).
+
+
+%j
+abierto(j1).
+abierto(j2).
+abierto(j3).
+abierto(j4).
+abierto(j10).
+abierto(j11).
+abierto(j12).
+abierto(j13).
+abierto(j14).
+abierto(j15).
+
+%p
+abierto(p1).  abierto(p2). abierto(p3). abierto(p4).
+
+%s
+abierto(s1).
+abierto(s2).
+abierto(s3).
+abierto(s4).
+abierto(s5).
+abierto(s6).
+abierto(s7).
+
+%u
+abierto(u1). abierto(u2). abierto(u3).  abierto(u9). abierto(u7). abierto(u10).
+
+%w
+abierto(w1).
+abierto(w2).
+abierto(w3).
+
+%z
+%%%%%% abierto(z11).  HAY ERRORES ASTRID
+%abierto(z12).
+%abierto(z13).
+%abierto(z14).
+%abierto(z15).
+

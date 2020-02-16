@@ -1,0 +1,684 @@
+
+
+recurso(i1).
+etapa(1,i1).
+
+recurso(i2).
+etapa(2,i2).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+recurso(c6).
+etapa(3,c6).
+
+
+%%%%%%%%%%%%%%%%%%%  EMPATIA conocer, preguntas
+
+recurso(s1).
+etapa(1,s1).
+
+recurso(s2).
+etapa(2,s2).
+
+recurso(s3).
+etapa(3,s3).
+
+recurso(s4).
+etapa(1,s4).
+
+recurso(s5).
+etapa(2,s5).
+
+recurso(s6).
+etapa(2,s6).
+
+recurso(s7).
+etapa(3,s7).
+
+
+ejemplo(s1,amigos).
+ejemplo(s2,amigos).
+ejemplo(s3,amigos).
+ejemplo(s4,companeros).
+ejemplo(s5,companeros).
+ejemplo(s6,mascotas).
+ejemplo(s7,mascotas).
+
+belongs(amigos,personal).
+belongs(companeros,personal).
+belongs(mascotas,personal).
+
+%%%%%%%%%%%%%%%%%%%  CAMPUS y servicios udlap INFO
+
+%ejemplo(u1,gimnacio_udlap).
+ejemplo(u2,intercambios_udlap).
+ejemplo(u3,f_americano_udlap).
+ejemplo(u4,cine_udlap).
+ejemplo(u5,puntos_ppa).
+ejemplo(u6,serv_med_udlap).
+ejemplo(u7,tutoria_udlap).
+ejemplo(u8,alberca_udlap).
+ejemplo(u9,campus_udlap).
+ejemplo(u10,efriend).
+
+belongs(gimnacio_udlap,udlap).
+belongs(intercambios_udlap,udlap).
+belongs(cine_udlap,udlap).
+belongs(puntos_ppa,udlap).
+belongs(serv_med_udlap,udlap).
+belongs(tutoria_udlap,udlap).
+belongs(efriend,udlap).
+belongs(alberca_udlap,udlap).
+belongs(f_americano,udlap).
+belongs(arte_udlap,udlap).
+
+recurso(u1).
+etapa(2,u1).
+
+recurso(u2).
+etapa(1,u2).
+
+recurso(u3).
+etapa(2,u3).
+
+recurso(u4).
+etapa(3,u4).
+
+recurso(u5).
+etapa(4,u5).
+
+recurso(u6).
+etapa(4,u6).
+
+recurso(u7).
+%etapa(1,u7).
+
+recurso(u8).
+etapa(4,u8).
+
+recurso(u9).
+etapa(3,u9).
+
+recurso(u10).
+%etapa(1,u10).
+
+
+%%%%%%%%%%%%%%%% INFORMACION CULTURAL
+
+ejemplo(i1, inf_cult).
+ejemplo(i2, inf_cult).
+
+belongs(inf_cult, cultura).
+
+
+%%%%%%%%% PREGUNTAS (MUY PERSONALES) ?????????????????????????
+
+recurso(z15).
+etapa(4,z15).
+recurso(z11).
+etapa(4,z11).
+
+recurso(z12).
+etapa(4,z12).
+
+recurso(z13).
+etapa(4,z13).
+
+recurso(z14).
+etapa(4,z14).
+
+ejemplo(z15,preguntasA).
+ejemplo(z11,preguntasA).
+ejemplo(z12,preguntasA).
+ejemplo(z13,preguntasA).
+ejemplo(z14,preguntasA).
+
+belongs(preguntasA,preguntas).
+
+%%%%%%%%%%%%%%%%%%%%%%%% Diagnostico WELL BEING
+
+recurso(w1).
+%etapa(2,w1).
+
+recurso(w2).
+%etapa(5,w2).
+
+recurso(w3).
+%etapa(6,w3).
+
+ejemplo(w1,eval_wellbeing).
+ejemplo(w2,eval_wellbeing).
+ejemplo(w2,eval_wellbeing).
+
+belongs(eval_wellbeing, diagnostico).
+
+%%%%%%%%%%%%%%%%%% Motivacion WELL BEING
+
+recurso(g1).
+ejemplo(g1, gif).
+belongs(gif, motivation).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%  JUEGO??? Mas bien preguntas de preferencia para conocer al alumno
+
+recurso(j1).
+etapa(1,j1).
+
+recurso(j2).
+etapa(1,j2).
+
+recurso(j3).
+etapa(2,j3).
+
+recurso(j4).
+etapa(3,j4).
+
+recurso(j10).
+etapa(4,j10).
+
+recurso(j11).
+etapa(2,j11).
+
+recurso(j12).
+etapa(3,j12).
+
+recurso(j13).
+etapa(2,j13).
+
+recurso(j14).
+etapa(3,j14).
+
+recurso(j15).
+etapa(3,j15).
+
+belongs(juego1,juegos).
+
+ejemplo(j1, juego1).
+ejemplo(j2, juego1).
+ejemplo(j3, juego1).
+ejemplo(j4, juego1).
+ejemplo(j10, juego1).
+ejemplo(j11, juego1).
+ejemplo(j12, juego1).
+ejemplo(j13, juego1).
+ejemplo(j14, juego1).
+ejemplo(j15, juego1).
+ejemplo(j16, juego1).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%% HOBBY %%%%%%%%%%%%%%%%%
+
+recurso(h1).
+etapa(1,h1).
+
+recurso(h2).
+etapa(1,h2).
+
+recurso(h3).
+etapa(1,h3).
+
+recurso(h4).
+etapa(2,h4).
+
+recurso(h5).
+etapa(3,h5).
+
+recurso(h6).
+etapa(3,h6).
+
+recurso(h7).
+etapa(4,h7).
+
+recurso(h9).
+etapa(4,h9).
+
+
+
+ejemplo(h1, hobby).
+ejemplo(h2, hobby).
+ejemplo(h3, hobby).
+ejemplo(h4, hobby).
+ejemplo(h5, hobby).
+ejemplo(h6, hobby).
+ejemplo(h7, hobby).
+ejemplo(h9, hobby).
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%5 ACADEMICO
+
+recurso(a1).
+etapa(1,a1).
+
+recurso(a2).
+etapa(1,a2).
+
+recurso(a3).
+etapa(2,a3).
+
+recurso(a4).
+etapa(2,a4).
+
+recurso(a5).
+etapa(4,a5).
+
+recurso(a6).
+etapa(4,i6).
+
+%caso epecial Siempre
+recurso(a71).
+
+
+recurso(a8).
+etapa(4,a8).
+
+recurso(a9).
+etapa(4,a9).
+
+
+%recurso(a10).
+%etapa(7,a10).
+
+%recurso(a11).
+%etapa(7,a11).
+
+%recurso(a12).
+%etapa(8,a12).
+
+
+ejemplo(a1,curso_d).
+ejemplo(a2,curso_i).
+ejemplo(a3,curso_f).
+ejemplo(a4,profe_d).
+ejemplo(a5,profe_i).
+ejemplo(a6,profe_f).
+ejemplo(a71,escuela).
+ejemplo(a8,curso_d).
+ejemplo(a9,mate).
+ejemplo(a10,califs_parciales).
+ejemplo(a11,examenes_parciales).
+ejemplo(a12,empty_slot).
+
+belongs(curso_d,cursos).
+belongs(curso_i,cursos).
+belongs(curso_f,cursos).
+belongs(profe_d,profes).
+belongs(profe_i,profes).
+belongs(profe_f,profes).
+
+
+%%%%%%%%%%%  ELEMENTO
+
+recurso(f6).
+%etapa(3,f6).
+
+recurso(f7).
+%etapa(3,f7).
+
+recurso(f8).
+etapa(1,f8).
+
+recurso(f9).
+etapa(4,f9).
+
+recurso(c1).
+etapa(2,c1).
+
+recurso(c2).
+etapa(3,c2).
+
+
+
+ejemplo(f6, preguntasElem).
+ejemplo(f7, preguntasElem).
+ejemplo(f8, ejercElem).
+ejemplo(f9, ejercElem).
+
+ejemplo(c1,conoce_elemento).
+ejemplo(c2,cree_estar_en_su_elemento).
+
+% No intentar f9 si no se intento f8
+antes(f8,f9).
+
+%%% No intentar f6 si no se pregunto x c1  V x c2
+%%%antes_V(c1,c2,f6).
+
+% No intentar f7 si no se pregunto x c1  V x c2
+antes_V(c1,c2,f7).
+
+% No intentar f8 si no se pregunto x c1  V x c2
+antes_V(c1,c2,f8).
+
+belongs(conoce_elemento,elemento).
+belongs(cree_estar_en_su_elemento,elemento).
+
+belongs(preguntasElem,preguntas).
+
+%%?????????????????
+belongs(ee,orient_voc).
+
+%%%%%%%%%%%%%%%% MINDFULNESS
+
+recurso(e1).
+recurso(e2).
+recurso(e3).
+recurso(e4).
+recurso(e5).
+recurso(e6).
+recurso(e7).
+
+recurso(e13).
+recurso(e21).
+recurso(e23).
+recurso(e26).
+recurso(e27).
+recurso(e30).
+recurso(e31).
+recurso(e32).
+recurso(e36).
+recurso(e40).
+
+
+
+%%recurso(c5).
+%%etapa(5,c5).
+
+recurso(f1).
+etapa(3,f1).
+
+recurso(f2).
+etapa(2,f2).
+
+recurso(f3).
+etapa(2,f3).
+
+recurso(f4).
+etapa(3,f4).
+
+recurso(f5).
+etapa(3,f5).
+
+etapa(2,e21).
+etapa(3,e26).
+etapa(2,e32).
+etapa(4,e36).
+etapa(4,e27).
+
+recurso(f10).
+etapa(4,f10).
+
+ejemplo(e1,aten_sonid).
+ejemplo(e2,aten_vista).
+ejemplo(e3,aten_gusto).
+ejemplo(e4,aten_olfato).
+ejemplo(e5,aten_tacto).
+ejemplo(e6,aten_resp).
+ejemplo(e7,auto_love).
+ejemplo(e13,aten_dolor_f).
+ejemplo(e21,aten_sonid).
+ejemplo(e23,aten_gusto).
+ejemplo(e26,aten_resp).
+ejemplo(e27,auto_love).
+ejemplo(e30,aten_resp).
+ejemplo(e31,aten_resp).
+ejemplo(e36,aten_resp).
+ejemplo(e40,aten_emo).
+
+belongs(aten_sonid,mfns).
+
+ejemplo(f1, preguntasMfns).
+ejemplo(f2, preguntasMfns).
+ejemplo(f3, preguntasMfns).
+ejemplo(f4, preguntasMfns).
+ejemplo(f5, preguntasMfns).
+
+belongs(o_a,mfns).
+
+ejemplo(f10, preguntasMfns).
+
+ejemplo(c5,conoce_mnfns).
+
+% No se vale (intentar e21 si no ha realizado x e1)
+antes(e1, e21).
+
+% No se vale (intentar e26 si no ha realizado x e6)
+antes(e6, e26).
+
+% No se vale (intentar e36 si no ha realizado x e6)
+antes(e6, e36).
+
+% No se vale (intentar e30 si no ha realizado x e6)
+%%% antes(e6, e30).
+
+
+% No se vale (intentar e31 si no ha realizado x e30)
+antes(e30, e31).
+
+% No se vale (intentar e27 si no ha realizado x e7)
+antes(e7, e27).
+
+% No se vale (intentar e23 si no ha realizado x e3)
+antes(e3, e23).
+
+% No se vale (intentar f1 si no ha realizado x e13)
+antes(e13, f1).
+
+% No se vale (intentar f10 si no ha realizado x e13)
+antes(e13, f10).
+
+belongs(preguntasMfns,preguntas).
+
+belongs(aten_vista,mfns).
+belongs(aten_gusto,mfns).
+belongs(aten_dolor_f,mfns).
+belongs(aten_olfato,mfns).
+belongs(aten_tacto,mfns).
+belongs(aten_resp,mfns).
+belongs(aten_emo,mfns).
+belongs(auto_love,mfns).
+
+
+%%%%%%%% FLUJO
+
+recurso(c3).
+etapa(2,c3).
+
+recurso(c4).
+etapa(3,c4).
+
+ejemplo(e11,flj).
+
+ejemplo(c3,conoce_flujo).
+
+ejemplo(c4,cree_experimenta_flujo).
+
+belongs(conoce_flujo,flujo).
+belongs(cree_experimenta_flujo,flujo).
+
+belongs(flj,mejorar_desemp).
+
+%%%%%%%%%%%%%%%% Terapia cognitiva
+
+
+recurso(e8).
+recurso(e9).
+recurso(e10).
+recurso(e11).
+recurso(e12).
+
+recurso(e19).
+
+ejemplo(c6,conoce_tc).
+ejemplo(e8,pens_rap).
+ejemplo(e9,pens_rap).
+ejemplo(e19,pens_rap).
+ejemplo(e10,pens_rap).
+ejemplo(e12,pens_rap).
+
+belongs(pens_rapido,tcnv).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%55  Poemas  Cultura  -- Empatia???
+
+recurso(p1).
+etapa(1,p1).
+
+recurso(p2).
+etapa(2,p2).
+
+recurso(p3).
+etapa(3,p3).
+
+recurso(p4).
+etapa(4,p4).
+
+
+ejemplo(p1,poemas).
+ejemplo(p2,poemas).
+ejemplo(p3,poemas).
+ejemplo(p4,poemas).
+
+belongs(poemas, cultura).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%% Control, organizacion, etc
+
+%%%%  Sinonimos????
+
+similar(s1,s2).
+similar(s2,s3).
+
+similar(s4,s5).
+
+%%%%%%%%%%%%% Relacion de orden
+
+% No se vale (intentar h5 si no ha realizado h1)
+antes(h1, h5).
+
+% No se vale (intentar e9 si no ha realizado x e8)
+antes(e8, e9).
+
+% No se vale (intentar e10 si no ha intentado e9)
+antes(e9, e10).
+
+% No se vale (intentar e12 si no ha intentado e8)
+antes(e8, e12).
+
+% No se vale (intentar e19 si no ha intentado e10)
+antes(e10, e19).
+
+
+% No intentar u2 si no se intento h3
+antes(h3,u2).
+
+% No intentar u3 si no se intento h3
+:- antes(h3,u3).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% No intentar e11 si no se pregunto x c3 V x c4
+antes_V(c3,c4,e11).
+
+%%%%%%%  PENDIENTE ?????????????????????????
+
+r_t(z15,z).
+r_t(z11,z).
+r_t(z12,z).
+r_t(z13,z).
+r_t(z14,z).
+r_t(f1,f).
+r_t(f2,f).
+r_t(f3,f).
+r_t(h1,h).
+r_t(h2,h).
+r_t(h3,h).
+r_t(h4,h).
+r_t(h5,h).
+r_t(h6,h).
+r_t(h7,h).
+r_t(h9,h).
+r_t(i1,i).
+r_t(i2,i).
+r_t(j1,j).
+r_t(j2,j).
+r_t(j3,j).
+r_t(j3,j).
+r_t(j10,j).
+r_t(j11,j).
+r_t(j12,j).
+r_t(j13,j).
+r_t(j14,j).
+r_t(j15,j).
+r_t(j16,j).
+r_t(j17,j).
+r_t(a1,a).
+r_t(a2,a).
+r_t(a3,a).
+r_t(a4,a).
+r_t(a5,a).
+r_t(a6,a).
+r_t(a71,a).
+r_t(a8,a).
+r_t(a9,a).
+r_t(a10,a).
+r_t(a11,a).
+r_t(a12,a).
+
+r_t(e1,e).
+r_t(e2,e).
+r_t(e3,e).
+r_t(e4,e).
+r_t(e5,e).
+r_t(e6,e).
+r_t(e7,e).
+r_t(e8,e).
+r_t(e9,e).
+
+r_t(e10,e).
+r_t(e11,e).
+r_t(e12,e).
+r_t(e13,e).
+r_t(e19,e).
+r_t(e21,e).
+r_t(e23,e).
+r_t(e26,e).
+r_t(e27,e).
+r_t(e30,e).
+r_t(e31,e).
+r_t(e32,e).
+r_t(e36,e).
+r_t(e40,e).
+r_t(p1,p).
+r_t(p2,p).
+r_t(p3,p).
+r_t(p4,p).
+r_t(s1,s).
+r_t(s2,s).
+r_t(s3,s).
+r_t(s4,s).
+r_t(s5,s).
+r_t(s6,s).
+r_t(s7,s).
+r_t(c1,c).
+r_t(c2,c).
+r_t(c3,c).
+r_t(c4,c).
+r_t(c5,c).
+r_t(c6,c).
+%r_t(u1,u).
+r_t(u2,u).
+r_t(u3,u).
+r_t(u4,u).
+r_t(u5,u).
+r_t(u6,u).
+r_t(u7,u).
+r_t(u8,u).
+r_t(u9,u).
+r_t(u10,u).
+r_t(w1,w).
+r_t(w2,w).
+r_t(w3,w).
+
+
+

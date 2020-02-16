@@ -1,0 +1,355 @@
+n_etapa(1) :- contador(X), X < 5.
+n_etapa(2) :- contador(X), X > 4, X < 9.
+n_etapa(3) :- contador(X), X > 8, X < 13.
+n_etapa(4) :- contador(X), X > 12, X < 17.
+
+
+inicio :- contador(0).
+
+bloqueado(X) :- abierto(X), inicio, not ecs_inicio(X).
+
+ecs_inicio(u10).
+ecs_inicio(u7).
+ecs_inicio(e30).
+ecs_inicio(p1).
+
+
+contradict(X) :- bloqueado(X), candidato1(X).
+
+bloqueado(X):- n_etapa(N), abierto(X), recurso(X), etapa(M,X), M != N.
+%%n_bloqueado(X):- n_etapa(N), abierto(X), recurso(X), not p(X), etapa(M,X), M > N.
+%%bloqueado(X) :- abierto(X), not n_bloqueado(X).
+%%bloqueado(X) :- abierto(X), p(X).
+
+v(X) :- candidato1(X).
+
+candidato1(X) :- not bloqueado(X), abierto(X), recurso(X), not p(X).
+ 
+
+
+%% P es una actividad llevada a cabo  y S un script por realizar. P debe ser antes de S. 
+bloqueado(S):- antes(P,S), not p(P).
+
+%% P1,P2 son actividades llevada a cabo  y S un script por realizar. Algun P1 O P2  debe ser antes de S. 
+bloqueado(S) :- antes_V(P1,P2, S),  not p(P1), not p(P2).
+
+%%%%%%%%%%%%%%%%% WE
+
+
+%%%hay_curso_dif :- e_cursodif(_).
+  
+% No se vale (intentar a8) preguntar x curso dificil
+% si no ha preguntado x a1 (si se pregunto x curso dificil y la respuesta fue afirmativa)
+bloqueado(a8):-  not hay_curso_dif.
+
+
+% siempre a partir de segunda sesion preguntar x a71
+candidato1(a71):- not inicio.
+
+% No intentar 2 preguntas academicas en una sesion
+
+%:- scrpt(X), ejemplo(X,preguntasA), 
+%   scrpt(Y), ejemplo(Y,preguntasA), X!=Y.
+
+% Pregunta sobre intercambias
+preg_int:- e_gusta(idiomas), ejemplo(R,intercambios_udlap), not p(R).
+
+candidato(u2):- preg_int, not inicio.
+
+% hay preguntas academicas disponibles diferentes de a7.
+hay_preg_a_disp :- not p(R), abierto(R), R != a7,  r_t(R, a).
+
+
+
+%%%%%%% TEMAS WELLBEING (MFN, BTC, Flow, Elemento)
+
+
+
+%PRIMERO  c1= conoce_elemento, DESPUES c3= conoce_flujo
+
+antes(c1,c3).
+
+%
+%
+%
+%%%%%%%%%%%%%%%%%%% ELEMENTO
+
+% Restriccion de orden en la misma sesion
+% nunca preguntar si experimenta "estar en su elemento" antes de saber si conoce
+% "estar en su elemento"
+% se pudo haber preguntado antes ( incluso en otra micro-sesion) si conoce 
+% "estar en su elemento"
+% y contesto que no o simplemente no sabemos porque no hemos preguntado.
+% c1= conoce_elemento. c2= cree_experimentar elemento
+
+antes(c1,c2).
+
+
+% Nunca preguntar si experimenta "estar en su elemento" si no lo conoce
+
+% Cree estar en su elemento
+
+e_cree_estar_elemento :- e_su_elemento(_).
+
+bloqueado(c2):- not e_conoce(edoElemento).
+
+
+% No hacer pregunta f6 si cree estar en su elemento.
+bloqueado(f6) :- e_cree_estar_elemento.
+
+% No hacer pregunta f7 si cree estar en su elemento.
+bloqueado(f7):- e_cree_estar_elemento.
+
+% No hacer pregunta f8 si cree estar en su elemento.
+bloqueado(f8):- e_cree_estar_elemento.
+
+%
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%% FLUJO
+
+% nunca preguntar si experimenta flujo y si conoce flujo en la misma sesion
+% c3= conoce flujo. c4= cree_experimentar flujo
+
+antes(c3,c4).
+
+% Nunca preguntar si experimenta flujo si no hay evidencia de que conoce flujo
+
+bloqueado(c4) :- not e_conoce(edoFlujo).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% MINDFULNESS
+
+% gusta musica intentar ej mfns sonidos.
+candidato1(e1):- e_gusta(musica), not p(e1), not inicio.
+
+% Si tiene ansiedad se sugiere un ejercicio de mindfulnes (Checar)
+candidato1(R) :- long_term_anx(high),  not p(R), ejemplo(R,aten_resp),
+   belongs(aten_resp,mfns), not exception_well_being(R).
+
+bloqueado(R) :-  long_term_anx(high),  not p(R), ejemplo(R,X), X != aten_resp,
+   belongs(aten_resp,mfns).
+
+
+
+
+% ya intento algun ejercicio de mindfulness
+ya_intento_ej_mfns:- p(X),ejemplo(X,Y), belongs(Y,mfns).
+
+% Gusto ej repetir
+candidato1(e21) :- e_gusto(e1).
+candidato1(e26) :- e_gusto(e6), not inicio.
+candidato1(e27) :- e_gusto(e7), not inicio.
+
+% no hacer preguntas mfns antes de que hbiera intentado algun ej mfns
+bloqueado(f1):- not ya_intento_ej_mfns.
+bloqueado(f2):- not ya_intento_ej_mfns.
+bloqueado(f3):- not ya_intento_ej_mfns.
+bloqueado(f4):- not ya_intento_ej_mfns.
+
+
+
+%%%%%%%%%%%%%%%% HOBBIES
+
+% Hay alguna pregunta hobby
+hay_preg_h_disp :- not p(R), abierto(R),  r_t(R, h).
+
+%% ??
+hacer_pr_h:-  not p(R),  r_t(R, h).
+
+hay_peli_pa_preg :- e_pregunta_si_gusta_peli(_).
+
+bloqueado(h7):- not hay_peli_pa_preg.
+
+
+
+% No se vale (intentar h6) preguntar fue al cine
+% si no hay evidencia de que le gusta el cine.
+bloqueado(h6):- not e_gusta(cine).
+
+% No se vale (intentar h7) preguntar si ya vio una cierta peli
+% si no hay evidencia de que le gusta el cine.
+bloqueado(h7):- not e_gusta(cine).
+
+
+%
+%%%%%%%%%%%%%%%%%% Estrategias generales de comunicacion sobre asuntos personales  ( psicologia de "sentido comun")
+
+
+% No se vale (intentar s7) preguntar x mascota
+% si no ha preguntado x s6 (si tiene mascota y la respuesta fue afirmativa)
+bloqueado(s7):- not e_tiene(mascota).
+
+%%%%% Empatia, conocer al alumno, etc
+
+%  Diagnostico
+
+hay_gusto_por_ej_recientes2:- contador(X), X > 1, X= X1 +1, X= X2 +2, h_gusto(X1,E1), h_gusto(X2,E2),
+    r_t(E1,e), r_t(E2,e).
+
+hay_disgusto_por_ej_recientes2:- contador(X), X > 1, X= X1 +1, X= X2 +2, h_disgusto(X1,E1), h_disgusto(X2,E2),
+    r_t(E1,e), r_t(E2,e).
+
+candidato1(w1):- hay_gusto_por_ej_recientes2, not p(w1).
+candidato1(w3):- hay_disgusto_por_ej_recientes2, not p(w3).
+
+%candidato1(w1):- not hay_gusto_por_ej_recientes2.
+%candidato1(w3):- not hay_disgusto_por_ej_recientes2.
+
+% Mejora de edo animo
+
+mejora_edo_animo2 :-  contador(X), X > 1, X= X1 +1, X= X2 +2, h_animo_i(X1,EA1), h_animo_i(X2,EA2), EA1 > EA2.
+
+% Mejora perc esc
+mejora_perc_esc2 :-  contador(X), X > 1, X= X1 +1, X= X2 +2, h_perc_esc(X1,EA1), h_perc_esc(X2,EA2), EA1 > EA2. 
+
+% Empeora de edo animo
+
+empeora_edo_animo2 :-  contador(X), X > 1, X= X1 +1, X= X2 +2, h_animo_i(X1,EA1), h_animo_i(X2,EA2), EA1 < EA2.
+
+% Mejora perc esc
+empeora_perc_esc2 :-  contador(X), X > 1, X= X1 +1, X= X2 +2, h_perc_esc(X1,EA1), h_perc_esc(X2,EA2), EA1 < EA2.
+
+%% Hay mejora recente
+
+ideal2 :- hay_gusto_por_ej_recientes2, mejora_ea_reciente2.
+
+mejora_ea_reciente2:- mejora_perc_esc2, mejora_edo_animo2.
+
+candidato1(w2):- abierto(w2), not p(w2), ideal2.
+
+bloqueado(w2):- not ideal2.
+
+
+%% Retroceso reciente
+
+mal2 :- hay_disgusto_por_ej_recientes2, empeora_ea_reciente2.
+
+empeora_ea_reciente2:- empeora_perc_esc2, empeora_edo_animo2.
+
+candidato1(w2):- abierto(w2), not p(w2), mal2.
+
+
+
+%%% Casos de ansiedad
+
+nivel_alto(c_4).  nivel_alto(c_5).
+nivel_medio(c_3).
+nivel_bajo(c_2).  nivel_bajo(c_1).
+
+
+% cuatro sesiones consecutivas con ansiedad alta significan long_term_anx(high)
+
+long_term_anx(high) :- contador(X), X > 5, X1= X-1,
+   X2= X - 2, X3= X -3, X4= X-4,
+   h_ansioso(X1,A1), h_ansioso(X2,A2),  h_ansioso(X3,A3),
+   h_ansioso(X4,A4),  nivel_alto(A1), nivel_alto(A2),
+   nivel_alto(A3), nivel_alto(A4).
+
+%%  cuatro sesiones consecutivas con ansiedad alta significan diagnostic_low(anxiety)
+
+diagnostic_low(anxiety) :- contador(X), X > 5, X1= X-1,
+   X2= X -2, X3= X -3, X4= X-4,
+   h_ansioso(X1,A1), h_ansioso(X2,A2),  h_ansioso(X3,A3),
+   h_ansioso(X4,A4), nivel_bajo(A1), nivel_bajo(A2),
+   nivel_bajo(A3), nivel_bajo(A4).
+
+
+bloqueado(g1) :-  not diagnostic_low(anxiety).
+candidato1(T) :-  recurso(T), ejemplo(T, gif), diagnostic_low(anxiety), belongs(gif, motivation),
+                global_emotional_satus(green), not exception_empathy(T), not p(T).
+
+
+
+%%% Banderas verde, amarillo y roja
+
+
+global_emotional_satus(green) :- not  global_emotional_satus(yellow),  not  global_emotional_satus(red).
+
+global_emotional_satus(yellow):-  not  global_emotional_satus(red),   pendiente_yellow.  %% Incluir
+
+global_emotional_satus(red):- ansiedad_cronica_aguda.
+   
+global_emotional_satus(red):- depresion_cronica_aguda.
+
+global_emotional_satus(red):- pendiente_rojo.
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%
+
+antes(s1,s2).
+antes(j1,j2).
+
+antes(j10,j11).
+antes(j11,j12).
+antes(j12,j13).
+antes(j13,j14).
+antes(j14,j15).
+
+antes(h1,h2).
+
+antes(a1,a3).
+antes(p1,p2).
+antes(p2,p3).
+
+antes(s1,s3).
+antes(s3,s4).
+antes(s4,s5).
+
+antes(w1,w3).
+
+%%%%%%%%%%
+
+%% pesos vertices
+
+peso(X,1) :- v(X), not e1_vert(X).
+peso(X,12) :- v(X), e1_vert(X).
+
+e1_vert(X) :- v(X),
+  r_t(X,e).
+
+e2_vert(w1).
+e2_vert(w2).
+e2_vert(w3).
+
+%% ganancias de vertices
+
+g_v(X,1) :- v(X), not e1_vert(X), not e2_vert(X).
+g_v(X,15) :- v(X), e1_vert(X).
+g_v(X,2) :- v(X), e2_vert(X).
+
+% ganancia arista
+
+g(X,Y,3) :- 
+  not e1_vert(X),
+  not ec_inicio_presenta(X,Y),
+  v(X), v(Y).
+
+g(X,Y,1) :- e1_vert(X), v(Y),  not ec_inicio_presenta(X,Y).
+
+g(u10,u7,10).
+g(u7,u10,0).
+g(p1,u10,0).
+
+ec_inicio_presenta(u10,u7).
+ec_inicio_presenta(u7,u10).
+ec_inicio_presenta(p1,u10).
+
+%%%%%%%%%%%%%%%%%%%%%%%5
+
+similar_t(X,Y) :- similar(X,Y).
+similar_t(X,Y) :- similar(Y,X).
+similar_t(X,Y) :- similar(X,Z), similar_t(Z,Y).
+
+bloqueado(Y)  :-  similar(X,Y), p(X).
+
+
+
+
+

@@ -1,0 +1,171 @@
+
+%#show w_rel/2.
+%#show soluc_fact/1. 
+
+%#show puede_gustar/2.
+
+%#show cuanto_gusta/2.
+#show e_pregunta_si_gusta_peli/1.
+
+%#show pregunta_si_gusta_peli/2.
+
+%e_gusta(dunkerque,3).
+%e_gusta(2001,5).
+%e_gusta(yo_robot,3).
+%e_gusta(dos_tontos_muy_tontos,0). % NO gusta
+%e_gusta(policiaco,2).
+
+%%%%%% Parche para evitar warning (no se si jala)
+e_gusta(dumy,0).
+
+val(0). val(1). val(2). val(3). val(4). val(5).
+
+belongs(policiaco,drama).
+belongs(historico,drama).
+
+belongs(usa_com, comedia).
+belongs(francia_com, comedia).
+
+belongs(aventura, accion).
+belongs(espionaje, accion).
+belongs(artes_marciales, accion).
+
+belongs(steampunk, ciencia_ficcion).
+belongs(biopunk, ciencia_ficcion).
+belongs(clasico_cf, ciencia_ficcion).
+
+
+belongs(epica, fantasia).
+belongs(oscura, fantasia).
+
+example(historia_de_un_crimen, policiaco).
+example(scarface, policiaco).
+
+example(pearl_harbor, historico).
+example(dunkerque, historico).
+
+example(american_pie, usa_com).
+example(dos_tontos_muy_tontos, usa_com).
+
+example(2001, clasico_cf).
+example(yo_robot, clasico_cf).
+example(matrix, clasico_cf).
+
+example(hobbit, epica).
+
+
+% Puede ser util relacionar elementos.
+rel(ciencia_ficcion, fantasia).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+minimo(X,X,X) :- val(X).
+
+minimo(X,Y,X) :- X < Y, val(X), val(Y).
+minimo(X,Y,Y) :- Y < X, val(X), val(Y).
+
+% decrementa pero 1 queda =
+oper(C,C1) :- val(C), val(C1), C = C1 +1, C > 1.
+oper(1,1).
+
+
+% "hermanos" estan w-rel
+w_rel(X,Y) :- val(C), example(X,Z), example(Y,Z).
+
+w_rel(X,Y) :- w_rel(Y,X).
+rel(X,Y) :- rel(Y,X).
+
+sub_genero(X):- belongs(X,_).
+genero(Y) :- belongs(_,Y).
+
+
+peli(X) :- example(X,_).
+
+elemento(X) :- sub_genero(X).
+elemento(X) :- genero(X).
+elemento(X) :- peli(X).
+
+peli_vista(X) :- peli(X), e_gusta(X,_).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Def de "puede_gustar   
+%%% Necesariamente valor de gusto >0.
+%% Lo que se SABE que gusta tambien se incluye +
+%% las predicciones
+
+
+% si puede gustar un genero normalmente me puede gustar
+% cualquier subgenero.
+
+puede_gustar(X,C) :-  val(C), C > 0, belongs(X,Y),
+    puede_gustar(Y,C1), oper(C,C1), not puede_gustar(X,0).
+
+% si puede gustar un subgenero normalmente me puede gustar 
+% cualquier peli del subgenero. Pero decrementos gusto en 1
+puede_gustar(X,C) :-  val(C), C > 0, example(X,Y), oper(C,C1),
+      puede_gustar(Y,C1), not puede_gustar(X,0).
+
+
+% Si gusta una genero, subgenero  o peli entonces tambien "puede_gustar" ese(a)
+% Genero, subgenero o peli
+% Similar si no gusta
+puede_gustar(X,C) :- e_gusta(X,C), C >0.
+
+
+% Si pueden_gustar 2 subgeneros de un genero entonces
+% puede_gustar el genero correspond
+puede_gustar(X,C) :- belongs(Y1,X), belongs(Y2,X), Y1 != Y2,
+   puede_gustar(Y1, C1), puede_gustar(Y2, C2), minimo(C1,C2,C).
+
+% Si pueden_gustar 2 pelis de un subgenero entonces puede_gustar 
+% el sub_genero correspond
+puede_gustar(X,C) :- example(Y1,X), example(Y2,X), Y1 != Y2,
+   puede_gustar(Y1, C1), puede_gustar(Y2, C2), minimo(C1,C2,C).                   
+
+%Si gusta un genero o sub_genero o peli y esta relacionado con
+% otro normalmente podria gustar este otro
+
+puede_gustar(X,C) :- rel(X,Y), puede_gustar(Y,C1), oper(C,C1),
+     not puede_gustar(X,0).
+
+
+%Si gusta un genero o sub_genero o peli y esta "debilmente"
+% relacionado con otro normalmente podria
+% gustar este otro con minimo nivel
+
+puede_gustar(X,1) :- w_rel(X,Y), puede_gustar(Y,C), C > 1,
+   not puede_gustar(X,0).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Calcula maximo gusto por un Elemento
+% Se incluye la peliculas que se SABE que gustan + 
+% las "predicciones
+cuanto_p_gustar(X,C) :- puede_gustar(X,C), C > 0,
+    not mejor(X,C).
+mejor(X,C) :- puede_gustar(X,C1), C1 > C, val(C1), val(C).
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Se preguntara sobre PELICULAS  que puede gustar pero
+% no sabemos status.
+
+
+
+% No se incluyen las peliculas que ya sabemos que le gustan.
+soluc_fact(X) :- peli(X), puede_gustar(X,_),
+   not peli_vista(X).
+
+e_pregunta_si_gusta_peli(X) :- soluc_fact(X), 
+   cuanto_p_gustar(X,C), val(C), not better(X,C).
+                        
+
+better(X,C) :-  soluc_fact(Y), soluc_fact(X),
+                 cuanto_p_gustar(Y,C1), C1 > C, val(C1), val(C).
+
+% e_ntengo_sug_p :- not e_tengo_sug_p.
+% e_tengo_sug_p:- e_pregunta_si_gusta_peli(_).
+
