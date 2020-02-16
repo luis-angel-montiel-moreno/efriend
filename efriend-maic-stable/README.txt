@@ -39,6 +39,14 @@ sh pipe_line_quantitative.sh
 **Note.** E-friend MAIC proposes-computes-composes a different consecutive session each time you run `sh pipe_line_quantitative.sh` until all the sessions are finished. If you want to reset and start from the first session please run the command `sh reset.sh`
 
 ---
+REQUIREMENTS
+---
+
+* Any stable distribution of Linux.
+* Pre-installed Python 3.
+* Pre-installed [CLINGO](https://potassco.org/clingo/) from [Potassco](https://potassco.org/) Systems.
+
+---
 CONTACT
 ---
 ```
@@ -54,6 +62,6 @@ email: osoriomauri@gmail.com
 ```
 M.Sc. LUIS ANGEL MONTIEL MORENO 
 Independent Researcher.
-Puebla, MX
+Puebla, Puebla, MX
 ```
 email:luis.montiel.moreno@gmail.com
