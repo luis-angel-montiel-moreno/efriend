@@ -56,10 +56,10 @@ Universidad de las Américas Puebla.\
 Ex Hacienda Sta. Catarina Mártir S/N.\
 San Andrés Cholula.\
 Puebla, MX.\
-email: osoriomauri@gmail.com\
+email: osoriomauri@gmail.com
 
 
 M.Sc. LUIS ANGEL MONTIEL MORENO\
 Independent Researcher.\
 Puebla, Puebla, MX.\
-email:luis.montiel.moreno@gmail.com\
+email:luis.montiel.moreno@gmail.com
