@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <title>E-friend MAIC Directory Tree</title>
+ <style type="text/css">
+  <!-- 
+  BODY { font-family : ariel, monospace, sans-serif; }
+  P { font-weight: normal; font-family : ariel, monospace, sans-serif; color: black; background-color: transparent;}
+  B { font-weight: normal; color: black; background-color: transparent;}
+  A:visited { font-weight : normal; text-decoration : none; background-color : transparent; margin : 0px 0px 0px 0px; padding : 0px 0px 0px 0px; display: inline; }
+  A:link    { font-weight : normal; text-decoration : none; margin : 0px 0px 0px 0px; padding : 0px 0px 0px 0px; display: inline; }
+  A:hover   { color : #000000; font-weight : normal; text-decoration : underline; background-color : yellow; margin : 0px 0px 0px 0px; padding : 0px 0px 0px 0px; display: inline; }
+  A:active  { color : #000000; font-weight: normal; background-color : transparent; margin : 0px 0px 0px 0px; padding : 0px 0px 0px 0px; display: inline; }
+  .VERSION { font-size: small; font-family : arial, sans-serif; }
+  .NORM  { color: black;  background-color: transparent;}
+  .FIFO  { color: purple; background-color: transparent;}
+  .CHAR  { color: yellow; background-color: transparent;}
+  .DIR   { color: blue;   background-color: transparent;}
+  .BLOCK { color: yellow; background-color: transparent;}
+  .LINK  { color: aqua;   background-color: transparent;}
+  .SOCK  { color: fuchsia;background-color: transparent;}
+  .EXEC  { color: green;  background-color: transparent;}
+  -->
+ </style>
+</head>
+<body>
+	<h1>E-friend MAIC Directory Tree</h1><p>
+	<b class="NORM">baseHREF</b><br>
+	├── <b class="DIR">efriend-maic-stable</b><br>
+	│   ├── <b class="DIR">agents_knowledge</b><br>
+	│   │   ├── <b class="DIR">MAIC_KR</b><br>
+	│   │   │   ├── <b class="DIR">ini</b><br>
+	│   │   │   │   ├── <b class="NORM">preguntasCine.ini</b><br>
+	│   │   │   │   └── <b class="NORM">preguntas_original.clasp</b><br>
+	│   │   │   ├── <b class="DIR">quantitative</b><br>
+	│   │   │   │   ├── <b class="NORM">dcp_knapsack_cuantitative.clasp</b><br>
+	│   │   │   │   └── <b class="NORM">generate_dcp_instance_cuantitative.clasp</b><br>
+	│   │   │   └── <b class="DIR">universal</b><br>
+	│   │   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">likespCine.clasp</b><br>
+	│   │   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">opens.clasp</b><br>
+	│   │   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">preguntasCine.clasp</b><br>
+	│   │   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">questions_made.clasp</b><br>
+	│   │   │   &nbsp;&nbsp;&nbsp; └── <b class="NORM">rec.clasp</b><br>
+	│   │   └── <b class="DIR">SLAVES_TASKS</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">cddTOcod.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="DIR">faq_task</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   └── <b class="NORM">preguntasMindfulness.xml</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">joinTokens</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">joinTokens.sh</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="DIR">MICRO_DIALOGUES_CDD</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">a71.cdd</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">q1.cdd</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">x3.cdd</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z11.cdd</b><br>
+		│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z12.cdd</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z13.cdd</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z14.cdd</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   └── <b class="NORM">z15.cdd</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="DIR">MICRO_DIALOGUES_SET</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">a71.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">aaaCaratula.txt</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">aALL_BUTa7.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">cAll.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">e12.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">eALL_BUTe12.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f10.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f11.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f1.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f2.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f3.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f4.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f6.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f7.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f8.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">f9.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">g1.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">hAll.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">i1.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">i2.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j10.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j11.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j12.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j13.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j14.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j15.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j1.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j2.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j3.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">j4.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">pAll.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">q0.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">q10.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">q1.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">q3.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">s1.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">sAll.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">uAll.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">w1.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">w2.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">w3.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">x3.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">y4.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z11.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z12.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z13.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z14.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   ├── <b class="NORM">z15.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; │   └── <b class="NORM">zzzEnd.cod</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; └── <b class="NORM">tokens_all.cod</b><br>
+	│   ├── <b class="DIR">conversation_history</b><br>
+	│   │   ├── <b class="NORM">history.txt</b><br>
+	│   │   └── <b class="DIR">ini</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; └── <b class="NORM">history.ini</b><br>
+	│   ├── <b class="EXEC">pipe_line_quantitative</b><br>
+	│   ├── <b class="NORM">pipe_line_quantitative.sh</b><br>
+	│   ├── <b class="DIR">qa-test</b><br>
+	│   │   └── <b class="NORM">many_s_pipe_line_quantitative.sh</b><br>
+	│   ├── <b class="NORM">README.txt</b><br>
+	│   ├── <b class="EXEC">reset</b><br>
+	│   ├── <b class="NORM">reset.sh</b><br>
+	│   ├── <b class="DIR">src</b><br>
+	│   │   ├── <b class="NORM">inte_universal.py</b><br>
+	│   │   ├── <b class="DIR">quantitative</b><br>
+	│   │   │   ├── <b class="NORM">cuentaVertices_quantitative.py</b><br>
+	│   │   │   ├── <b class="NORM">outClaspToAdial_quantitative.py</b><br>
+	│   │   │   └── <b class="NORM">outDefault_quantitative.py</b><br>
+	│   │   ├── <b class="NORM">s_inte_universal.py</b><br>
+	│   │   └── <b class="DIR">universal</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">act_preg_hechas.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">AdialToCdial.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">cddTOcod.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">cine_upd.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">cuenta_ses.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">filtra_chat.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">menuFaqPython.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">mydict.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">SimilarityFAQ.py</b><br>
+	│   │   &nbsp;&nbsp;&nbsp; └── <b class="NORM">test.py</b><br>
+	│   └── <b class="DIR">tmp</b><br>
+	│   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">Adial1.int</b><br>
+	│   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">Adial_cuantitative.int</b><br>
+	│   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">Cine.int</b><br>
+	│   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">code.cnv</b><br>
+	│   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">code.int</b><br>
+	│   &nbsp;&nbsp;&nbsp; ├── <b class="NORM">nothing.txt</b><br>
+	│   &nbsp;&nbsp;&nbsp; └── <b class="NORM">respuestas.cnv</b><br>
+	├── <b class="NORM">LICENSE</b><br>
+	├── <b class="NORM">README.md</b><br>
+	<br><br>
+	</p>
+	<p>
+
+20 directories, 127 files
+	<br><br>
+	</p>
+	<hr>
+	<p class="VERSION">
+		 The directory tree diagram was made in bash unix terminal using
+		 tree command.
+		 tree v1.8.0 © 1996 - 2018 by Steve Baker and Thomas Moore <br>
+		 HTML output hacked and copyleft © 1998 by Francesc Rocher <br>
+		 JSON output hacked and copyleft © 2014 by Florian Sesser <br>
+		 Charsets / OS/2 support © 2001 by Kyosuke Tokoro
+	</p>
+</body>
+</html>
