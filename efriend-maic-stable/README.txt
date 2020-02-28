@@ -30,7 +30,7 @@ make pipe_line_quantitative
 sh reset.sh
 ```
 
-For running a session quantitative version (https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming)):
+For running a session quantitative version:
 
 ```
 sh pipe_line_quantitative.sh
